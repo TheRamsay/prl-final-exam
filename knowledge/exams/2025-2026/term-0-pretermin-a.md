@@ -46,14 +46,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]] | Kauzální broadcast a relace kauzality |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor, wait, signal]] | Monitor, wait, signal |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]] | Euler tour, suffix sums, level(v) |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Distribuovaná volba lídra po výpadcích]] | Distribuovaná volba lídra po výpadcích |
-| 6 | [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]] | Pipeline Merge Sort |
-| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | MPI Reduce/Bcast |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzální broadcast a relace kauzality |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor, wait, signal |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour, suffix sums, level(v) |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Distribuovaná volba lídra po výpadcích |
+| 6 | [[knowledge/topics/razeni-prefix]] | Pipeline Merge Sort |
+| 7 | [[knowledge/topics/occam]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI Reduce/Bcast |
 
 ## Jednotné zadání
 

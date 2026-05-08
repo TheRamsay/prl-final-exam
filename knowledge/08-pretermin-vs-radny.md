@@ -14,14 +14,14 @@ Tenhle soubor je podpůrná analýza pro [[knowledge/07-predikce-radny-2025-2026
 
 | Slot | Nejčastější řádný pattern | Síla signálu |
 |---:|---|---|
-| Q1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | velmi silná: 15/15 řádných variant |
-| Q2 | [[knowledge/topics/architektury|Architektury]] | silná: 11/15 |
-| Q3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | střední: 5/15, další jsou Euler/řazení/splitting |
-| Q4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour]] | silná: 6/15, často se střídá s distribuovanými algoritmy |
-| Q5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] nebo [[knowledge/topics/distribuovane-algoritmy|distribuované algoritmy]] | střední: 5/15 vs 4/15 |
-| Q6 | [[knowledge/topics/razeni-prefix|Řazení/prefix]] | silná: 7/15 |
-| Q7 | [[knowledge/topics/cla|CLA]], [[knowledge/topics/pi-kalkul|Pi-kalkul]], [[knowledge/topics/occam|OCCAM]], distribuované algoritmy | slabší: proměnlivý doplňkový slot |
-| Q8 | [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | velmi silná: 14/15 jako Q8, 15/15 celkově |
+| Q1 | [[knowledge/topics/pram-tipovacka]] | velmi silná: 15/15 řádných variant |
+| Q2 | [[knowledge/topics/architektury]] | silná: 11/15 |
+| Q3 | [[knowledge/topics/synchronizace-monitory-semafory]] | střední: 5/15, další jsou Euler/řazení/splitting |
+| Q4 | [[knowledge/topics/euler-tour-suffix-sums]] | silná: 6/15, často se střídá s distribuovanými algoritmy |
+| Q5 | [[knowledge/topics/pi-kalkul]] nebo [[knowledge/topics/distribuovane-algoritmy]] | střední: 5/15 vs 4/15 |
+| Q6 | [[knowledge/topics/razeni-prefix]] | silná: 7/15 |
+| Q7 | [[knowledge/topics/cla]], [[knowledge/topics/pi-kalkul]], [[knowledge/topics/occam]], distribuované algoritmy | slabší: proměnlivý doplňkový slot |
+| Q8 | [[knowledge/topics/mpi-reduce-bcast]] | velmi silná: 14/15 jako Q8, 15/15 celkově |
 
 ## Předtermínový pattern
 

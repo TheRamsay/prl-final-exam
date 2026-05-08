@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/razeni-prefix|Odd-even transposition sort]] | Odd-even transposition sort |
-| 3 | [[knowledge/topics/parallel-splitting-select|Parallel SELECT]] | Parallel SELECT |
-| 4 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/cla|CLA]] | CLA |
-| 7 | [[knowledge/topics/distribuovane-algoritmy|Čtyři čítači]] | Čtyři čítači |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/razeni-prefix]] | Odd-even transposition sort |
+| 3 | [[knowledge/topics/parallel-splitting-select]] | Parallel SELECT |
+| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
+| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/cla]] | CLA |
+| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čítači |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

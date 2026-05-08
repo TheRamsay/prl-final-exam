@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|Xeon Phi]] | Xeon Phi |
-| 3 | [[knowledge/topics/mutual-exclusion|Bounded test-and-set]] | Bounded test-and-set |
-| 4 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
-| 7 | [[knowledge/topics/distribuovane-algoritmy|Kvórum]] | Kvórum |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
+| 3 | [[knowledge/topics/mutual-exclusion]] | Bounded test-and-set |
+| 4 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
+| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
+| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Kvórum |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

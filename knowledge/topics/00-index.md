@@ -6,18 +6,18 @@ Rychlá mapa znalostních okruhů. Pro učení ber nejdřív A0/A1, protože se 
 
 | Téma | Proč první |
 |---|---|
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | Nejčastější programovací úloha, typicky dobře šablonovatelná. |
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | Často první příklad; rychlé body za čas, cenu a model. |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | Opakuje se jako teorie, pseudokód i diagram. |
+| [[knowledge/topics/mpi-reduce-bcast]] | Nejčastější programovací úloha, typicky dobře šablonovatelná. |
+| [[knowledge/topics/pram-tipovacka]] | Často první příklad; rychlé body za čas, cenu a model. |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | Opakuje se jako teorie, pseudokód i diagram. |
 
 ## A1: velké opakující se bloky
 
 | Téma | Proč |
 |---|---|
-| [[knowledge/topics/razeni-prefix|Řazení, prescan, prefix/suffix]] | Často simulace konkrétních kroků. |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour a suffix sums]] | Stabilní pattern pro `level`, `preorder`, potomky. |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory a semafory]] | Krátká teorie + klasické pseudokódy. |
-| [[knowledge/topics/architektury|Architektury]] | Široké téma, ale odpovědi jsou dobře šablonovatelné. |
+| [[knowledge/topics/razeni-prefix]] | Často simulace konkrétních kroků. |
+| [[knowledge/topics/euler-tour-suffix-sums]] | Stabilní pattern pro `level`, `preorder`, potomky. |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | Krátká teorie + klasické pseudokódy. |
+| [[knowledge/topics/architektury]] | Široké téma, ale odpovědi jsou dobře šablonovatelné. |
 
 ## B/C: doplnění
 

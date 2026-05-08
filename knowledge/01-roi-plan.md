@@ -13,36 +13,36 @@ Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu
 
 | Téma | ROI | Proč první | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 56 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 60 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 38 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
+| [[knowledge/topics/mpi-reduce-bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 56 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
+| [[knowledge/topics/pram-tipovacka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 60 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 38 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
 
 ## A1: velké opakující se bloky
 
 | Téma | ROI | Proč | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/razeni-prefix|Řazení, prescan, prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 40 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 34 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory a semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 28 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
-| [[knowledge/topics/architektury|Architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 44 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
+| [[knowledge/topics/razeni-prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 40 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
+| [[knowledge/topics/euler-tour-suffix-sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 34 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 28 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
+| [[knowledge/topics/architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 44 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
 
 ## B: pravidelná druhá vlna
 
 | Téma | ROI | Minimální cíl |
 |---|---:|---|
-| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | střední | Marzullo, Maekawa, Suzuki, Ricart-Agrawala, Dijkstra, Hirschberg-Sinclair, volba lídra. |
-| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | střední | Redukce výrazů, 3-4 možné koncové redukce, pozorování. |
-| [[knowledge/topics/cla|Carry-look-ahead adder]] | střední | `propagate/generate/stop`, výpočet carry pomocí scan, sečtení dvojice čísel. |
-| [[knowledge/topics/occam|OCCAM]] | střední | Kanály, pole kanálů, buffer/queue, alternace, jednoduchý proces. |
-| [[knowledge/topics/distribuovane-algoritmy|Random mating / list ranking / terminace]] | střední | Simulace random mating, list ranking, 4 čítače terminace. |
+| [[knowledge/topics/distribuovane-algoritmy]] | střední | Marzullo, Maekawa, Suzuki, Ricart-Agrawala, Dijkstra, Hirschberg-Sinclair, volba lídra. |
+| [[knowledge/topics/pi-kalkul]] | střední | Redukce výrazů, 3-4 možné koncové redukce, pozorování. |
+| [[knowledge/topics/cla]] | střední | `propagate/generate/stop`, výpočet carry pomocí scan, sečtení dvojice čísel. |
+| [[knowledge/topics/occam]] | střední | Kanály, pole kanálů, buffer/queue, alternace, jednoduchý proces. |
+| [[knowledge/topics/distribuovane-algoritmy]] | střední | Simulace random mating, list ranking, 4 čítače terminace. |
 
 ## C: doplnit po základu
 
 | Téma | ROI | Minimální cíl |
 |---|---:|---|
-| [[knowledge/topics/mutual-exclusion|Test-and-set, swap, Peterson]] | nižší, ale opakuje se | Aktivní čekání, bounded TAS, starvation, Peterson. |
-| [[knowledge/topics/parallel-splitting-select|Parallel splitting / SELECT]] | nižší | Rozdělení podle pivotu `L/E/G`, výběr k-tého prvku. |
-| [[knowledge/topics/linda-ada|Linda / ADA]] | nižší | Základní operace nad n-ticí/listem, reverse/delete/search. |
+| [[knowledge/topics/mutual-exclusion]] | nižší, ale opakuje se | Aktivní čekání, bounded TAS, starvation, Peterson. |
+| [[knowledge/topics/parallel-splitting-select]] | nižší | Rozdělení podle pivotu `L/E/G`, výběr k-tého prvku. |
+| [[knowledge/topics/linda-ada]] | nižší | Základní operace nad n-ticí/listem, reverse/delete/search. |
 
 ## Doporučené pořadí
 

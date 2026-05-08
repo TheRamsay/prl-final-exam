@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|Common CRCW AND]] | Common CRCW AND |
-| 2 | [[knowledge/topics/architektury|Xeon Phi]] | Xeon Phi |
-| 3 | [[knowledge/topics/razeni-prefix|Odd-even merge sort]] | Odd-even merge sort |
-| 4 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] | Async -> sync |
-| 6 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
-| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | Common CRCW AND |
+| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
+| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even merge sort |
+| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Async -> sync |
+| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
+| 7 | [[knowledge/topics/occam]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

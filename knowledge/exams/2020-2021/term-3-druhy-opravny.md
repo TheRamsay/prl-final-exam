@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|VLIW]] | VLIW |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor a semafory]] | Monitor a semafory |
-| 4 | [[knowledge/topics/synchronizace-monitory-semafory|Pět filozofů]] | Pět filozofů |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO/broadcast]] | FIFO/broadcast |
-| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
-| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | VLIW |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor a semafory |
+| 4 | [[knowledge/topics/synchronizace-monitory-semafory]] | Pět filozofů |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO/broadcast |
+| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
+| 7 | [[knowledge/topics/occam]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

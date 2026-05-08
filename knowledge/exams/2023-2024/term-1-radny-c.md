@@ -46,14 +46,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury|Propojovací síť]] | Propojovací síť |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Semafor P/V]] | Semafor P/V |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Eulerova cesta]] | Eulerova cesta |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Barodingův algoritmus]] | Barodingův algoritmus |
-| 6 | [[knowledge/topics/razeni-prefix|Prescan]] | Prescan |
-| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury]] | Propojovací síť |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafor P/V |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Eulerova cesta |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Barodingův algoritmus |
+| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
+| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

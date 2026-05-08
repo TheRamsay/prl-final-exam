@@ -14,33 +14,33 @@ Nejpravděpodobnější tvar řádného termínu 2025/2026:
 
 | Slot | Nejpravděpodobnější téma | Alternativy |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM model / architektura jen vzácně |
-| 2 | [[knowledge/topics/architektury|Architektury]] | test-and-set / mutual exclusion |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | Euler, řazení, parallel splitting |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | distribuované algoritmy, řazení |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] nebo [[knowledge/topics/distribuovane-algoritmy|distribuované algoritmy]] | broadcast/kauzalita |
-| 6 | [[knowledge/topics/razeni-prefix|Řazení/prefix]] | Euler, distribuované algoritmy |
-| 7 | [[knowledge/topics/cla|CLA]] / [[knowledge/topics/pi-kalkul|Pi-kalkul]] / [[knowledge/topics/occam|OCCAM]] | distribuované algoritmy |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | téměř fixní slot |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM model / architektura jen vzácně |
+| 2 | [[knowledge/topics/architektury]] | test-and-set / mutual exclusion |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Euler, řazení, parallel splitting |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | distribuované algoritmy, řazení |
+| 5 | [[knowledge/topics/pi-kalkul]] nebo [[knowledge/topics/distribuovane-algoritmy]] | broadcast/kauzalita |
+| 6 | [[knowledge/topics/razeni-prefix]] | Euler, distribuované algoritmy |
+| 7 | [[knowledge/topics/cla]] / [[knowledge/topics/pi-kalkul]] / [[knowledge/topics/occam]] | distribuované algoritmy |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | téměř fixní slot |
 
 ## Predikční matice
 
 | Téma | Řádné výskyty | Typický slot v řádném | Bylo v předtermínu 2025/26 | Predikce pro řádný 2025/26 | Doporučený trénink |
 |---|---:|---|---|---|---|
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | 16 | Q1 | ano, A | **téměř jisté** | AND/OR/XOR/NAND, nuly, monotónnost, cena vs čas |
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | 15 | Q8 | ano, A | **téměř jisté** | průměr, min/max, filtr podle průměru/min/max, `max % min` |
-| [[knowledge/topics/architektury|Architektury]] | 13 | Q2 | ne | **velmi vysoké** | VLIW, dataflow/redukční počítač, zřetězení/MISD, PRAM model |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | 12 | Q4/Q6 | ano, A | **vysoké** | `preorder(v)`, `level(v)`, počet následovníků/potomků |
-| [[knowledge/topics/razeni-prefix|Řazení/prefix]] | 11 | Q6 | ano, A+B | **vysoké** | Prescan, Odd-even, Pipeline Merge Sort, Enumeration Sort |
-| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | 13 | Q4/Q5/Q6/Q7 | ano, A+B | **střední až vysoké** | Maekawa, Ricart-Agrawala, Suzuki, Marzullo, Random mating, volba lídra |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | 8 | Q3/Q4 | ano, A | **střední až vysoké** | monitor `wait/signal`, readers-writers, producer-consumer, pět filozofů |
-| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | 9 | Q5/Q7 | ne | **střední až vysoké** | 3-4 redukce, substituce, pozorování, rozsah vázaných jmen |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | 6 | Q5/Q6, méně stabilní | ano, A+B | **střední** | FIFO vs kauzalita vs atomicita, ABCAST, synchronizovatelnost, koruna |
-| [[knowledge/topics/cla|CLA]] | 4 | Q7 | ne | **střední** | generate/propagate/stop, scan přes carry, 2 příklady sčítání |
-| [[knowledge/topics/occam|OCCAM]] | 4 | Q7 | ano, A | **nižší až střední** | kanály, `SEQ/PAR/ALT`, buffer/fronta, jednoduchý filtr |
-| [[knowledge/topics/mutual-exclusion|Mutual exclusion]] | 5 | Q2/Q3/Q7 | ne | **nižší doplněk** | test-and-set, swap, bounded waiting, Peterson |
-| [[knowledge/topics/parallel-splitting-select|Parallel splitting / SELECT]] | 2 | Q3 | ne | **nižší doplněk** | pivot, `L/E/G`, výběr k-tého prvku |
-| [[knowledge/topics/linda-ada|Linda / ADA]] | 1 | Q7 | ne | **nízké** | Linda operace, list reverse/delete/search |
+| [[knowledge/topics/pram-tipovacka]] | 16 | Q1 | ano, A | **téměř jisté** | AND/OR/XOR/NAND, nuly, monotónnost, cena vs čas |
+| [[knowledge/topics/mpi-reduce-bcast]] | 15 | Q8 | ano, A | **téměř jisté** | průměr, min/max, filtr podle průměru/min/max, `max % min` |
+| [[knowledge/topics/architektury]] | 13 | Q2 | ne | **velmi vysoké** | VLIW, dataflow/redukční počítač, zřetězení/MISD, PRAM model |
+| [[knowledge/topics/euler-tour-suffix-sums]] | 12 | Q4/Q6 | ano, A | **vysoké** | `preorder(v)`, `level(v)`, počet následovníků/potomků |
+| [[knowledge/topics/razeni-prefix]] | 11 | Q6 | ano, A+B | **vysoké** | Prescan, Odd-even, Pipeline Merge Sort, Enumeration Sort |
+| [[knowledge/topics/distribuovane-algoritmy]] | 13 | Q4/Q5/Q6/Q7 | ano, A+B | **střední až vysoké** | Maekawa, Ricart-Agrawala, Suzuki, Marzullo, Random mating, volba lídra |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | 8 | Q3/Q4 | ano, A | **střední až vysoké** | monitor `wait/signal`, readers-writers, producer-consumer, pět filozofů |
+| [[knowledge/topics/pi-kalkul]] | 9 | Q5/Q7 | ne | **střední až vysoké** | 3-4 redukce, substituce, pozorování, rozsah vázaných jmen |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | 6 | Q5/Q6, méně stabilní | ano, A+B | **střední** | FIFO vs kauzalita vs atomicita, ABCAST, synchronizovatelnost, koruna |
+| [[knowledge/topics/cla]] | 4 | Q7 | ne | **střední** | generate/propagate/stop, scan přes carry, 2 příklady sčítání |
+| [[knowledge/topics/occam]] | 4 | Q7 | ano, A | **nižší až střední** | kanály, `SEQ/PAR/ALT`, buffer/fronta, jednoduchý filtr |
+| [[knowledge/topics/mutual-exclusion]] | 5 | Q2/Q3/Q7 | ne | **nižší doplněk** | test-and-set, swap, bounded waiting, Peterson |
+| [[knowledge/topics/parallel-splitting-select]] | 2 | Q3 | ne | **nižší doplněk** | pivot, `L/E/G`, výběr k-tého prvku |
+| [[knowledge/topics/linda-ada]] | 1 | Q7 | ne | **nízké** | Linda operace, list reverse/delete/search |
 
 ## Co je po předtermínu 2025/2026 nejzajímavější
 

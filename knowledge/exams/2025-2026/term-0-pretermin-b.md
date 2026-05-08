@@ -38,9 +38,9 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]] | FIFO broadcast |
-| 2 | [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]] | Čtyři čtenáři / detekce ukončení |
-| 3 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
+| 1 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast |
+| 2 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čtenáři / detekce ukončení |
+| 3 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
 
 ## Jednotné zadání
 

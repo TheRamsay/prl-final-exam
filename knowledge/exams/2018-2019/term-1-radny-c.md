@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|Zřetězené procesory]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/razeni-prefix|Odd-even merge]] | Odd-even merge |
-| 4 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/razeni-prefix|Prescan]] | Prescan |
-| 7 | [[knowledge/topics/cla|CLA]] | CLA |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
+| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even merge |
+| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
+| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
+| 7 | [[knowledge/topics/cla]] | CLA |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

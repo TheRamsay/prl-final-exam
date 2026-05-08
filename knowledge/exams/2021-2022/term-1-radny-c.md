@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM / Tipsport]] | PRAM / Tipsport |
-| 2 | [[knowledge/topics/architektury|Xeon Phi]] | Xeon Phi |
-| 3 | [[knowledge/topics/euler-tour-suffix-sums|Etour + suffixsum]] | Etour + suffixsum |
-| 4 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Asynchronní/synchronní signály]] | Asynchronní/synchronní signály |
-| 6 | [[knowledge/topics/razeni-prefix|Prescan]] | Prescan |
-| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM / Tipsport |
+| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
+| 3 | [[knowledge/topics/euler-tour-suffix-sums]] | Etour + suffixsum |
+| 4 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Asynchronní/synchronní signály |
+| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
+| 7 | [[knowledge/topics/occam]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

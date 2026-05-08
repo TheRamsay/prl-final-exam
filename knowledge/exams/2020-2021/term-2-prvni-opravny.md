@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|PRAM architektura]] | PRAM architektura |
-| 3 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 4 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Suzuki]] | Suzuki |
-| 6 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
-| 7 | [[knowledge/topics/linda-ada|Linda]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | PRAM architektura |
+| 3 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Suzuki |
+| 6 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
+| 7 | [[knowledge/topics/linda-ada]] | Linda |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

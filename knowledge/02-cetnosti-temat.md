@@ -6,21 +6,21 @@ Zdroj: `raw/common_latest.md` a `raw/common_16-22.md`.
 
 | Téma | Odhad četnosti | Typické varianty |
 |---|---:|---|
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | ~35 | průměr, min/max, počet prvků, normalizace, součet podle podmínky, druhé min/max |
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | ~27 | EREW/CREW/common CRCW, AND/OR/XOR/NAND, max/min, monotónnost, nuly/sudá |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | ~26 | FIFO broadcast, kauzální relace, porušení FIFO/kauzality/atomicity, koruna |
-| [[knowledge/topics/architektury|Architektury]] | ~26 | VLIW, zřetězení/MISD, dataflow, SIMD/MIMD, Xeon Phi, PRAM, sítě |
-| [[knowledge/topics/razeni-prefix|Řazení/prefix]] | ~25 | Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | ~17 | wait/signal, monitor ze semaforů, readers-writers, producer-consumer |
-| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | ~16 | Marzullo, Maekawa, Suzuki, Dijkstra, Hirschberg-Sinclair |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | ~15 | preorder, level/depth, následovníci, Etour |
-| [[knowledge/topics/distribuovane-algoritmy|Random mating/list ranking/terminace]] | ~15 | random mating do 4 kroků, reconstruction, 4-counter termination |
-| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | ~14 | 3 až 4 možné redukce, koncové výrazy |
-| [[knowledge/topics/cla|CLA]] | ~14 | propagate/stop/generate, carries přes scan |
-| [[knowledge/topics/occam|OCCAM]] | ~13 | kanály, pole kanálů, queue/buffer, alternace |
-| [[knowledge/topics/mutual-exclusion|Test-and-set/Peterson]] | ~8 | aktivní čekání, bounded TAS, starvation |
-| [[knowledge/topics/parallel-splitting-select|Parallel splitting/SELECT]] | ~6 | pivot, L/E/G, k-tý prvek |
-| [[knowledge/topics/linda-ada|Linda/ADA]] | ~6 | linked list, reverse/delete/search |
+| [[knowledge/topics/mpi-reduce-bcast]] | ~35 | průměr, min/max, počet prvků, normalizace, součet podle podmínky, druhé min/max |
+| [[knowledge/topics/pram-tipovacka]] | ~27 | EREW/CREW/common CRCW, AND/OR/XOR/NAND, max/min, monotónnost, nuly/sudá |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | ~26 | FIFO broadcast, kauzální relace, porušení FIFO/kauzality/atomicity, koruna |
+| [[knowledge/topics/architektury]] | ~26 | VLIW, zřetězení/MISD, dataflow, SIMD/MIMD, Xeon Phi, PRAM, sítě |
+| [[knowledge/topics/razeni-prefix]] | ~25 | Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | ~17 | wait/signal, monitor ze semaforů, readers-writers, producer-consumer |
+| [[knowledge/topics/distribuovane-algoritmy]] | ~16 | Marzullo, Maekawa, Suzuki, Dijkstra, Hirschberg-Sinclair |
+| [[knowledge/topics/euler-tour-suffix-sums]] | ~15 | preorder, level/depth, následovníci, Etour |
+| [[knowledge/topics/distribuovane-algoritmy]] | ~15 | random mating do 4 kroků, reconstruction, 4-counter termination |
+| [[knowledge/topics/pi-kalkul]] | ~14 | 3 až 4 možné redukce, koncové výrazy |
+| [[knowledge/topics/cla]] | ~14 | propagate/stop/generate, carries přes scan |
+| [[knowledge/topics/occam]] | ~13 | kanály, pole kanálů, queue/buffer, alternace |
+| [[knowledge/topics/mutual-exclusion]] | ~8 | aktivní čekání, bounded TAS, starvation |
+| [[knowledge/topics/parallel-splitting-select]] | ~6 | pivot, L/E/G, k-tý prvek |
+| [[knowledge/topics/linda-ada]] | ~6 | linked list, reverse/delete/search |
 
 ## Starší četnosti 2016-2022
 
@@ -48,20 +48,20 @@ Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 30 samo
 
 | Téma | Odkazy v termínech |
 |---|---:|
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | 60 |
-| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | 58 |
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | 56 |
-| [[knowledge/topics/architektury|Architektury]] | 44 |
-| [[knowledge/topics/razeni-prefix|Řazení/prefix]] | 40 |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | 38 |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | 34 |
-| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | 28 |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | 28 |
-| [[knowledge/topics/occam|OCCAM]] | 20 |
-| [[knowledge/topics/cla|CLA]] | 14 |
-| [[knowledge/topics/mutual-exclusion|Test-and-set/Peterson]] | 14 |
-| [[knowledge/topics/linda-ada|Linda/ADA]] | 10 |
-| [[knowledge/topics/parallel-splitting-select|Parallel splitting/SELECT]] | 8 |
+| [[knowledge/topics/pram-tipovacka]] | 60 |
+| [[knowledge/topics/distribuovane-algoritmy]] | 58 |
+| [[knowledge/topics/mpi-reduce-bcast]] | 56 |
+| [[knowledge/topics/architektury]] | 44 |
+| [[knowledge/topics/razeni-prefix]] | 40 |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | 38 |
+| [[knowledge/topics/euler-tour-suffix-sums]] | 34 |
+| [[knowledge/topics/pi-kalkul]] | 28 |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | 28 |
+| [[knowledge/topics/occam]] | 20 |
+| [[knowledge/topics/cla]] | 14 |
+| [[knowledge/topics/mutual-exclusion]] | 14 |
+| [[knowledge/topics/linda-ada]] | 10 |
+| [[knowledge/topics/parallel-splitting-select]] | 8 |
 
 ## Praktický závěr
 

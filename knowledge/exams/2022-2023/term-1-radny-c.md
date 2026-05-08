@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|Granularita paralelismu]] | Granularita paralelismu |
-| 3 | [[knowledge/topics/euler-tour-suffix-sums|Euler]] | Euler |
-| 4 | [[knowledge/topics/synchronizace-monitory-semafory|Semafory a monitor]] | Semafory a monitor |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
-| 7 | [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]] | Čtyři čítače |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | Granularita paralelismu |
+| 3 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler |
+| 4 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafory a monitor |
+| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
+| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čítače |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

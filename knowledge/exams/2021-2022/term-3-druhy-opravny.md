@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|Dataflow]] | Dataflow |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Semafor]] | Semafor |
-| 4 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]] | FIFO broadcast |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] | Async -> sync |
-| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
-| 7 | [[knowledge/topics/linda-ada|Linda]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | Dataflow |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafor |
+| 4 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Async -> sync |
+| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
+| 7 | [[knowledge/topics/linda-ada]] | Linda |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

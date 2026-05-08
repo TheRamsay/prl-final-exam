@@ -46,14 +46,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury|Zřetězené procesory]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Suffix sums a level(v)]] | Suffix sums a level(v) |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Bagrodia/Bagródia Rendezvous algoritmus]] | Bagrodia/Bagródia Rendezvous algoritmus |
-| 6 | [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]] | Pipeline Merge Sort |
-| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Suffix sums a level(v) |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Bagrodia/Bagródia Rendezvous algoritmus |
+| 6 | [[knowledge/topics/razeni-prefix]] | Pipeline Merge Sort |
+| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

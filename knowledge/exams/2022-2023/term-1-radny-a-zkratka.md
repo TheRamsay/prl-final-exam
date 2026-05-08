@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO]] | FIFO |
-| 3 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler]] | Euler |
-| 5 | [[knowledge/topics/architektury|Redukční počítač]] | Redukční počítač |
-| 6 | [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost / koruna]] | Synchronizovatelnost / koruna |
-| 7 | [[knowledge/topics/mutual-exclusion|Test-and-set a swap]] | Test-and-set a swap |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO |
+| 3 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler |
+| 5 | [[knowledge/topics/architektury]] | Redukční počítač |
+| 6 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Synchronizovatelnost / koruna |
+| 7 | [[knowledge/topics/mutual-exclusion]] | Test-and-set a swap |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

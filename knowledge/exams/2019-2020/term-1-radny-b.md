@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|Zřetězené procesory]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Producent-konzument]] | Producent-konzument |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler + suffix sum]] | Euler + suffix sum |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]] | Broadcast |
-| 6 | [[knowledge/topics/razeni-prefix|Prescan]] | Prescan |
-| 7 | [[knowledge/topics/linda-ada|Linda]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Producent-konzument |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler + suffix sum |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Broadcast |
+| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
+| 7 | [[knowledge/topics/linda-ada]] | Linda |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]] | Kauzalita |
-| 3 | [[knowledge/topics/pram-tipovacka|PRAM architektura]] | PRAM architektura |
-| 4 | [[knowledge/topics/linda-ada|ADA]] | ADA |
-| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/razeni-prefix|Upsweep/down-sweep]] | Upsweep/down-sweep |
-| 7 | [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]] | Čtyři čítače |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzalita |
+| 3 | [[knowledge/topics/pram-tipovacka]] | PRAM architektura |
+| 4 | [[knowledge/topics/linda-ada]] | ADA |
+| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/razeni-prefix]] | Upsweep/down-sweep |
+| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čítače |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

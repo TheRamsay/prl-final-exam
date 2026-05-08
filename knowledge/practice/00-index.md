@@ -8,9 +8,9 @@ Pro stručnější predikční přehled použij [[knowledge/07-predikce-radny-20
 
 | Varianta | Charakter | Použití |
 |---|---|---|
-| [[knowledge/practice/2025-2026-radny-predikce-a|Predikce A]] | nejvíc podobná řádným termínům 2023/2024 + předtermínu 2025/2026 | simulace na čas |
-| [[knowledge/practice/2025-2026-radny-predikce-b|Predikce B]] | víc broadcast/distribuované + prescan/OCCAM | kontrola slabin |
-| [[knowledge/practice/2025-2026-radny-predikce-c|Predikce C]] | těžší mix s CLA, Random mating a Pipeline Merge Sort | horší varianta |
+| [[knowledge/practice/2025-2026-radny-predikce-a]] | nejvíc podobná řádným termínům 2023/2024 + předtermínu 2025/2026 | simulace na čas |
+| [[knowledge/practice/2025-2026-radny-predikce-b]] | víc broadcast/distribuované + prescan/OCCAM | kontrola slabin |
+| [[knowledge/practice/2025-2026-radny-predikce-c]] | těžší mix s CLA, Random mating a Pipeline Merge Sort | horší varianta |
 
 ## Jak s tím pracovat
 

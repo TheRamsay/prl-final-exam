@@ -46,14 +46,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury|VLIW]] | VLIW |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Čtenáři/písaři]] | Čtenáři/písaři |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour a preorder]] | Euler tour a preorder |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Rendezvous]] | Rendezvous |
-| 6 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
-| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury]] | VLIW |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Čtenáři/písaři |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour a preorder |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Rendezvous |
+| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
+| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

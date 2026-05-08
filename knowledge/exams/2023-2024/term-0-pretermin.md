@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury|PRAM model]] | PRAM model |
-| 3 | [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast]] | Kauzální broadcast |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour]] | Euler tour |
-| 5 | [[knowledge/topics/cla|CLA]] | CLA |
-| 6 | [[knowledge/topics/distribuovane-algoritmy|Maekawa]] | Maekawa |
-| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury]] | PRAM model |
+| 3 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzální broadcast |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour |
+| 5 | [[knowledge/topics/cla]] | CLA |
+| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Maekawa |
+| 7 | [[knowledge/topics/occam]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

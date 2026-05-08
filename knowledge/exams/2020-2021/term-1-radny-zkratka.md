@@ -44,14 +44,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/mutual-exclusion|Test-and-set]] | Test-and-set |
-| 3 | [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]] | Kauzalita |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler/suffix]] | Euler/suffix |
-| 5 | [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala]] | Ricart-Agrawala |
-| 6 | [[knowledge/topics/euler-tour-suffix-sums|Euler strom/graf]] | Euler strom/graf |
-| 7 | [[knowledge/topics/cla|CLA]] | CLA |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/mutual-exclusion]] | Test-and-set |
+| 3 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzalita |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler/suffix |
+| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Ricart-Agrawala |
+| 6 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler strom/graf |
+| 7 | [[knowledge/topics/cla]] | CLA |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 

@@ -45,14 +45,14 @@ Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadán�
 
 | Otázka | Téma | Signál v zadání |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
-| 2 | [[knowledge/topics/architektury|VLIW]] | VLIW |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
-| 4 | [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]] | Broadcast |
-| 5 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
-| 6 | [[knowledge/topics/euler-tour-suffix-sums|Etour + suffix]] | Etour + suffix |
-| 7 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
-| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
+| 2 | [[knowledge/topics/architektury]] | VLIW |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
+| 4 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Broadcast |
+| 5 | [[knowledge/topics/occam]] | OCCAM |
+| 6 | [[knowledge/topics/euler-tour-suffix-sums]] | Etour + suffix |
+| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
+| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
 
 ## Jednotné zadání
 
