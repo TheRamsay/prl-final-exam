@@ -4,6 +4,13 @@
 
 Většina úloh chce ruční simulaci po zadaném počtu kroků nebo zapsání mezistavů algoritmu. Nestačí znát název algoritmu; je potřeba umět kreslit tabulku kroků.
 
+## Vizualizace a drill stránky
+
+- [[knowledge/visuals/prescan-upsweep-downsweep|Prescan: up-sweep a down-sweep]]
+- [[knowledge/visuals/enumeration-sort-ranks|Enumeration Sort: ranky a duplicity]]
+- [[knowledge/visuals/pipeline-merge-sort|Pipeline Merge Sort: procesory a tabulka taktů]]
+- [[knowledge/visuals/odd-even-network|Odd-even: compare-exchange síť]]
+
 ## Pipeline Merge Sort
 
 Typická zkoušková úloha chce stav po `N` krocích. Důležité je držet přesnou simulaci:
