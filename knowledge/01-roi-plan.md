@@ -13,18 +13,18 @@ Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu
 
 | Téma | ROI | Proč první | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 53 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 57 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 35 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
+| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 56 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
+| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 60 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
+| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 38 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
 
 ## A1: velké opakující se bloky
 
 | Téma | ROI | Proč | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/razeni-prefix|Řazení, prescan, prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 38 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 30 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory a semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 24 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
-| [[knowledge/topics/architektury|Architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 36 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
+| [[knowledge/topics/razeni-prefix|Řazení, prescan, prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 40 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
+| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 34 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
+| [[knowledge/topics/synchronizace-monitory-semafory|Monitory a semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 28 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
+| [[knowledge/topics/architektury|Architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 44 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
 
 ## B: pravidelná druhá vlna
 

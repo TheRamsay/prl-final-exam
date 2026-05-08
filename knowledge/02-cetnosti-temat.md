@@ -48,18 +48,18 @@ Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 30 samo
 
 | Téma | Odkazy v termínech |
 |---|---:|
-| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | 57 |
-| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | 53 |
-| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | 53 |
-| [[knowledge/topics/razeni-prefix|Řazení/prefix]] | 38 |
-| [[knowledge/topics/architektury|Architektury]] | 36 |
-| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | 35 |
-| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | 30 |
-| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | 26 |
-| [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | 24 |
-| [[knowledge/topics/occam|OCCAM]] | 19 |
+| [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | 60 |
+| [[knowledge/topics/distribuovane-algoritmy|Distribuované algoritmy]] | 58 |
+| [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | 56 |
+| [[knowledge/topics/architektury|Architektury]] | 44 |
+| [[knowledge/topics/razeni-prefix|Řazení/prefix]] | 40 |
+| [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast/FIFO/kauzalita]] | 38 |
+| [[knowledge/topics/euler-tour-suffix-sums|Euler tour + suffix sums]] | 34 |
+| [[knowledge/topics/pi-kalkul|Pi-kalkul]] | 28 |
+| [[knowledge/topics/synchronizace-monitory-semafory|Monitory/semafory]] | 28 |
+| [[knowledge/topics/occam|OCCAM]] | 20 |
 | [[knowledge/topics/cla|CLA]] | 14 |
-| [[knowledge/topics/mutual-exclusion|Test-and-set/Peterson]] | 12 |
+| [[knowledge/topics/mutual-exclusion|Test-and-set/Peterson]] | 14 |
 | [[knowledge/topics/linda-ada|Linda/ADA]] | 10 |
 | [[knowledge/topics/parallel-splitting-select|Parallel splitting/SELECT]] | 8 |
 

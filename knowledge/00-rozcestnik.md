@@ -15,8 +15,9 @@ Obsidian-friendly báze pro přípravu na zkoušku z PRL. Materiály vycházejí
 9. [[knowledge/topics/00-index|Topic index]]
 10. [[knowledge/visuals/00-index|Vizualizace]]
 11. [[knowledge/practice/00-index|Cvičné testy]]
-12. [[knowledge/05-vyhledavani|Vyhledávání]]
-13. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
+12. [[knowledge/sources/slides/00-index|Oficiální slidy]]
+13. [[knowledge/05-vyhledavani|Vyhledávání]]
+14. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
 
 ## Top témata
 
@@ -36,5 +37,6 @@ Obsidian-friendly báze pro přípravu na zkoušku z PRL. Materiály vycházejí
 
 - Každé téma má sekce: co umět, typické zadání, šablona odpovědi, chyby.
 - Každý termín má jednotný formát, tematické odkazy a tabulku mapování otázek na témata.
+- Oficiální PDF slidy jsou extrahované v [[knowledge/sources/slides/00-index|sources/slides]] a slouží hlavně k ověření definic, algoritmů a složitostí.
 - Obrázky z `raw/*.webp` jsou zkopírované v `assets/`.
 - `raw/student_doc.md` je zatím vedený jako zdroj a index, protože obsahuje velké vložené base64 obrázky.

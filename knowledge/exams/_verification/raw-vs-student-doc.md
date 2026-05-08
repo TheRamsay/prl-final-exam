@@ -4,6 +4,8 @@
 
 Tahle matice porovnává strukturované raw zdroje (`raw/term*.md`, `raw/*.webp`) se studentským dokumentem. Slouží jako auditní vrstva, ne jako náhrada původních zadání.
 
+Poslední pravidelný audit: [[knowledge/exams/_verification/audit-2026-05-09]].
+
 ## Matice po ročnících
 
 ### 2025-2026

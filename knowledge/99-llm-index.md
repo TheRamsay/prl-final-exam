@@ -11,8 +11,9 @@ Priorita zdrojů:
 1. `knowledge/topics/*.md` pro destilované znalosti, postupy a odpovědní šablony.
 2. `knowledge/exams/**/term-*.md` pro konkrétní historická zadání.
 3. `knowledge/exams/_verification/raw-vs-student-doc.md` pro jistotu, rozpory a původ zdroje.
-4. `raw/*.md` a `raw/*.webp` pro původní materiál.
-5. `knowledge/sources/student-doc/` pro rozsekaný studentský dokument.
+4. `knowledge/sources/slides/*.md` pro oficiální výklad, definice, algoritmy, diagramové stránky a složitosti.
+5. `raw/*.md`, `raw/*.webp` a `raw/*.pdf` pro původní materiál.
+6. `knowledge/sources/student-doc/` pro rozsekaný studentský dokument.
 
 ## Nejrychlejší vstupy
 
@@ -26,6 +27,7 @@ Priorita zdrojů:
 - [[knowledge/topics/00-index|Topic index]]
 - [[knowledge/visuals/00-index|Vizualizace]]
 - [[knowledge/practice/00-index|Cvičné testy]]
+- [[knowledge/sources/slides/00-index|Oficiální slidy]]
 - [[knowledge/05-vyhledavani|Vyhledávání]]
 - [[knowledge/exams/00-index|Archiv minulých termínů]]
 - [[knowledge/exams/_verification/raw-vs-student-doc|Raw vs student doc]]
@@ -35,7 +37,7 @@ Priorita zdrojů:
 1. Najdi topic poznámku v `knowledge/topics/`.
 2. Najdi aspoň jeden historický výskyt v `knowledge/exams/**/term-*.md`.
 3. Pokud jde o přesnost zadání, otevři verifikační matici a případně raw zdroj uvedený v termínovém souboru.
-4. V odpovědi cituj explicitní vault odkazy ve formátu `[[knowledge/...]]` nebo `[[raw/...]]`.
+4. V odpovědi cituj explicitní vault odkazy ve formátu wikilinku, například `[[knowledge/topics/mpi-reduce-bcast]]` nebo `[[raw/term_1_2022_a]]`.
 5. Když je zdroj nejistý, pojmenuj stav: `shoda`, `raw only`, `student_doc only`, nebo `student_doc doplňuje raw`.
 
 ## Recepty podle dotazu
@@ -45,6 +47,7 @@ Priorita zdrojů:
 - "Co čekat u řádného termínu": použij [[knowledge/07-predikce-radny-2025-2026]] a [[knowledge/08-pretermin-vs-radny]].
 - "Kdy se to objevilo": hledej odkazy na topic v `knowledge/exams/`.
 - "Je to jisté / odkud to je": použij [[knowledge/exams/_verification/raw-vs-student-doc]].
+- "Co říkají oficiální materiály": použij [[knowledge/sources/slides/00-index]] a potom konkrétní slide extrakt.
 - "Chci drill": použij [[knowledge/practice/00-index]] a mini-drilly v topic poznámkách.
 
 ## Topic poznámky
@@ -82,6 +85,7 @@ rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|
 - `knowledge/07-predikce-radny-2025-2026.md`: predikční matice pro řádný termín 2025/2026.
 - `knowledge/08-pretermin-vs-radny.md`: podpůrná analýza rozdílů mezi předtermíny a řádnými termíny.
 - `knowledge/practice/`: predikční cvičné testy sestavené podle historie zadání.
+- `knowledge/sources/slides/`: automaticky extrahované oficiální PDF slidy po stránkách.
 - `knowledge/05-vyhledavani.md`: poznámka k webovému full-text search.
 - `knowledge/exams/<rok>/`: sjednocené minulé termíny po akademických letech.
 - `knowledge/exams/_verification/`: audit shody mezi raw termíny a student docem.
@@ -91,6 +95,7 @@ rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|
 ## Odpovědní politika
 
 - Pro učení používej nejdřív topic poznámky a ROI plán.
+- Pro ověření teorie používej oficiální slidy, ale u diagramových stran vždy kontroluj raw PDF.
 - Pro dotazy typu “kdy se to objevilo” používej archiv termínů.
 - Pro dotazy typu “je to jisté” používej verifikační matici.
 - Když odpovídáš z více zdrojů, uveď konkrétní soubory a preferuj jeden topic + jeden minulý termín.
