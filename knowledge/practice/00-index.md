@@ -2,6 +2,8 @@
 
 Cvičná zadání nejsou zdroj minulého termínu. Jsou to predikční varianty sestavené podle opakujících se vzorů v [[knowledge/exams/00-index|archivu termínů]], ROI plánu a předtermínu 2025/2026.
 
+Pro stručnější predikční přehled použij [[knowledge/07-predikce-radny-2025-2026|predikční matici řádného termínu 2025/2026]] a podpůrnou analýzu [[knowledge/08-pretermin-vs-radny|předtermín vs řádný termín]].
+
 ## Řádný termín 2025/2026
 
 | Varianta | Charakter | Použití |

@@ -6,15 +6,17 @@ Obsidian-friendly báze pro přípravu na zkoušku z PRL. Materiály vycházejí
 
 1. [[knowledge/01-roi-plan|ROI plán učení]]
 2. [[knowledge/06-must-know|Must-know tahák]]
-3. [[knowledge/02-cetnosti-temat|Četnosti témat]]
-4. [[knowledge/03-sylabus|Sylabus a mapa předmětu]]
-5. [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
-6. [[knowledge/exams/00-index|Minulé termíny]]
-7. [[knowledge/topics/00-index|Topic index]]
-8. [[knowledge/visuals/00-index|Vizualizace]]
-9. [[knowledge/practice/00-index|Cvičné testy]]
-10. [[knowledge/05-vyhledavani|Vyhledávání]]
-11. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
+3. [[knowledge/07-predikce-radny-2025-2026|Predikce řádného termínu 2025/2026]]
+4. [[knowledge/08-pretermin-vs-radny|Předtermín vs řádný termín]]
+5. [[knowledge/02-cetnosti-temat|Četnosti témat]]
+6. [[knowledge/03-sylabus|Sylabus a mapa předmětu]]
+7. [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
+8. [[knowledge/exams/00-index|Minulé termíny]]
+9. [[knowledge/topics/00-index|Topic index]]
+10. [[knowledge/visuals/00-index|Vizualizace]]
+11. [[knowledge/practice/00-index|Cvičné testy]]
+12. [[knowledge/05-vyhledavani|Vyhledávání]]
+13. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
 
 ## Top témata
 

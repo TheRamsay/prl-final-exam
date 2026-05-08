@@ -7,6 +7,8 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 - [[knowledge/00-rozcestnik|Lidský rozcestník]]
 - [[knowledge/01-roi-plan|ROI plán učení]]
 - [[knowledge/06-must-know|Must-know tahák]]
+- [[knowledge/07-predikce-radny-2025-2026|Predikce řádného termínu 2025/2026]]
+- [[knowledge/08-pretermin-vs-radny|Předtermín vs řádný termín]]
 - [[knowledge/02-cetnosti-temat|Četnosti témat]]
 - [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
 - [[knowledge/topics/00-index|Topic index]]
@@ -54,6 +56,8 @@ rg -n "Verifikační status|raw only|student_doc only|shoda" knowledge/exams
 
 - `knowledge/topics/`: destilované znalosti a šablony odpovědí.
 - `knowledge/06-must-know.md`: nejkratší opakovací tahák s odpovědními kostrami pro témata s nejlepším ROI.
+- `knowledge/07-predikce-radny-2025-2026.md`: predikční matice pro řádný termín 2025/2026.
+- `knowledge/08-pretermin-vs-radny.md`: podpůrná analýza rozdílů mezi předtermíny a řádnými termíny.
 - `knowledge/practice/`: predikční cvičné testy sestavené podle historie zadání.
 - `knowledge/05-vyhledavani.md`: poznámka k webovému full-text search.
 - `knowledge/exams/<rok>/`: sjednocené minulé termíny po akademických letech.
