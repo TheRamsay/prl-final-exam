@@ -8,3 +8,9 @@
 
 # Large raw Discord exports, keep local for now
 raw/discord/
+
+# Local Quartz build/test artifacts
+.quartz/
+public/
+node_modules/
+.npm-cache/
