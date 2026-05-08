@@ -16,7 +16,7 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `raw only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2025-2026]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2025-2026]] |
 | Primární zdroj zadání | raw text + raw obrázky |
 
 ## Student doc reference
@@ -31,14 +31,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM tipovačka]]
-- [[topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]]
-- [[topics/synchronizace-monitory-semafory|Monitor, wait, signal]]
-- [[topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]]
+- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Monitor, wait, signal]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]]
 - Distribuovaná volba lídra po výpadcích
-- [[topics/razeni-prefix|Pipeline Merge Sort]]
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI Reduce/Bcast]]
+- [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]]
 
 ## Jednotné zadání
 
@@ -64,7 +64,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

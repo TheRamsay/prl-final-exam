@@ -4,8 +4,8 @@
 
 | Termín | Varianta | Soubor | Zdroj |
 |---|---|---|---|
-| řádný termín | A | [[term-1-radny-a]] | student doc |
-| řádný termín | B | [[term-1-radny-b]] | student doc |
-| 1. opravný termín | - | [[term-2-prvni-opravny]] | student doc |
+| řádný termín | A | [[knowledge/exams/2019-2020/term-1-radny-a]] | student doc |
+| řádný termín | B | [[knowledge/exams/2019-2020/term-1-radny-b]] | student doc |
+| 1. opravný termín | - | [[knowledge/exams/2019-2020/term-2-prvni-opravny]] | student doc |
 
-- [[student-doc-digest]] - roční souhrn ze studentského dokumentu.
+- [[knowledge/exams/2019-2020/student-doc-digest]] - roční souhrn ze studentského dokumentu.

@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2021-2022]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2021-2022]] |
 | Primární zdroj zadání | raw screenshot; student doc rozšiřuje řešení |
 
 ## Student doc reference
 
-- [[sources/student-doc/2021-2022-extract]] obsahuje odpovídající řádný termín B s dílčími řešeními.
-- Destilace: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2021-2022-extract]] obsahuje odpovídající řádný termín B s dílčími řešeními.
+- Destilace: [[knowledge/exams/2021-2022/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -30,14 +30,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
 - Vektorové procesory
-- [[topics/parallel-splitting-select|Paralelní SELECT]]
-- [[topics/mutual-exclusion|Peterson]]
+- [[knowledge/topics/parallel-splitting-select|Paralelní SELECT]]
+- [[knowledge/topics/mutual-exclusion|Peterson]]
 - Synchronizace
-- [[topics/razeni-prefix|Enumeration Sort]]
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -52,7 +52,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

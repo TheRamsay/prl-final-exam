@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2018-2019]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2018-2019]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2018-2019-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2018-2019-extract]]
+- Roční digest: [[knowledge/exams/2018-2019/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/pram-tipovacka|PRAM architektura]]
-- [[topics/parallel-splitting-select|Parallel splitting]]
-- [[topics/distribuovane-algoritmy|Suzuki]]
-- [[topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/pram-tipovacka|PRAM architektura]]
+- [[knowledge/topics/parallel-splitting-select|Parallel splitting]]
+- [[knowledge/topics/distribuovane-algoritmy|Suzuki]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - Random mating
-- [[topics/cla|CLA]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/cla|CLA]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

@@ -24,13 +24,13 @@ Předmět pokrývá paralelní a distribuované algoritmy, abstraktní modely pa
 
 ## Mapování na zkouškové okruhy
 
-- PRAM a složitosti: [[topics/pram-tipovacka]]
-- Komunikace a broadcast: [[topics/broadcast-fifo-kauzalita]]
-- Architektury: [[topics/architektury]]
-- Řazení a prefixy: [[topics/razeni-prefix]]
-- Stromy/grafy přes Euler tour: [[topics/euler-tour-suffix-sums]]
-- Synchronizace: [[topics/synchronizace-monitory-semafory]], [[topics/mutual-exclusion]]
-- Distribuované algoritmy: [[topics/distribuovane-algoritmy]]
-- Jazyky: [[topics/occam]], [[topics/linda-ada]], [[topics/pi-kalkul]]
-- MPI praktické úlohy: [[topics/mpi-reduce-bcast]]
+- PRAM a složitosti: [[knowledge/topics/pram-tipovacka]]
+- Komunikace a broadcast: [[knowledge/topics/broadcast-fifo-kauzalita]]
+- Architektury: [[knowledge/topics/architektury]]
+- Řazení a prefixy: [[knowledge/topics/razeni-prefix]]
+- Stromy/grafy přes Euler tour: [[knowledge/topics/euler-tour-suffix-sums]]
+- Synchronizace: [[knowledge/topics/synchronizace-monitory-semafory]], [[knowledge/topics/mutual-exclusion]]
+- Distribuované algoritmy: [[knowledge/topics/distribuovane-algoritmy]]
+- Jazyky: [[knowledge/topics/occam]], [[knowledge/topics/linda-ada]], [[knowledge/topics/pi-kalkul]]
+- MPI praktické úlohy: [[knowledge/topics/mpi-reduce-bcast]]
 

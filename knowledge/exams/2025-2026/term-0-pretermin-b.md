@@ -15,7 +15,7 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `raw only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2025-2026]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2025-2026]] |
 | Primární zdroj zadání | raw text |
 
 ## Student doc reference
@@ -28,9 +28,9 @@
 
 ## Tématické odkazy
 
-- [[topics/broadcast-fifo-kauzalita|FIFO broadcast]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]]
 - Čtyři čtenáři / detekce ukončení
-- [[topics/razeni-prefix|Enumeration Sort]]
+- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
 
 ## Jednotné zadání
 
@@ -40,7 +40,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2024-2025]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2024-2025]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2024-2025-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2024-2025-extract]]
+- Roční digest: [[knowledge/exams/2024-2025/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM Tipsport]]
-- [[topics/architektury|Zřetězení]]
-- [[topics/broadcast-fifo-kauzalita|Koruna a synchronizovatelnost]]
-- [[topics/parallel-splitting-select|Parallel splitting]]
-- [[topics/euler-tour-suffix-sums|Euler tour]]
-- [[topics/razeni-prefix|Enumeration Sort]]
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/pram-tipovacka|PRAM Tipsport]]
+- [[knowledge/topics/architektury|Zřetězení]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Koruna a synchronizovatelnost]]
+- [[knowledge/topics/parallel-splitting-select|Parallel splitting]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler tour]]
+- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

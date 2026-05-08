@@ -15,18 +15,18 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2018-2019]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2018-2019]] |
 | Primární zdroj zadání | student doc odkaz na externí dokument |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2018-2019-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2018-2019-extract]]
+- Roční digest: [[knowledge/exams/2018-2019/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 

@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2020-2021]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2020-2021]] |
 | Primární zdroj zadání | raw poznámka; student doc potvrzuje a přidává řešení |
 
 ## Student doc reference
 
-- [[sources/student-doc/2020-2021-extract]] obsahuje odpovídající 1. opravný termín s dílčími řešeními.
-- Destilace: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2020-2021-extract]] obsahuje odpovídající 1. opravný termín s dílčími řešeními.
+- Destilace: [[knowledge/exams/2020-2021/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -29,13 +29,13 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - Random mating
-- [[topics/distribuovane-algoritmy|Suzuki]]
-- [[topics/synchronizace-monitory-semafory|Monitor]]
-- [[topics/linda-ada|Linda]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/distribuovane-algoritmy|Suzuki]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
+- [[knowledge/topics/linda-ada|Linda]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -50,7 +50,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

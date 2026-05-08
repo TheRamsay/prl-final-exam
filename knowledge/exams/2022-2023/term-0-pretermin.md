@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2022-2023]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2022-2023]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2022-2023-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2022-2023-extract]]
+- Roční digest: [[knowledge/exams/2022-2023/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM sportka]]
-- [[topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/euler-tour-suffix-sums|Euler]]
+- [[knowledge/topics/pram-tipovacka|PRAM sportka]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler]]
 - Redukční počítač
 - Synchronizovatelnost
-- [[topics/mutual-exclusion|Test-and-set a swap]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

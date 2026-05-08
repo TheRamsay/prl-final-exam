@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2022-2023]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2022-2023]] |
 | Primární zdroj zadání | raw poznámka; student doc rozšiřuje kontext |
 
 ## Student doc reference
 
-- [[sources/student-doc/2022-2023-extract]] obsahuje širší blok 2022/2023 včetně řádného termínu A/B/C.
-- Destilace: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2022-2023-extract]] obsahuje širší blok 2022/2023 včetně řádného termínu A/B/C.
+- Destilace: [[knowledge/exams/2022-2023/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -29,13 +29,13 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/broadcast-fifo-kauzalita|FIFO]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/euler-tour-suffix-sums|Euler]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler]]
 - Synchronizovatelnost / koruna
-- [[topics/mutual-exclusion|Test-and-set a swap]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -50,7 +50,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

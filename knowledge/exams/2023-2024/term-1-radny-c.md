@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `raw only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2023-2024]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2023-2024]] |
 | Primární zdroj zadání | raw text + raw obrázek |
 
 ## Student doc reference
 
 - Odpovídající skupina C nebyla v horním bloku studentského dokumentu nalezena.
-- Porovnávací digest: [[student-doc-digest]]
+- Porovnávací digest: [[knowledge/exams/2023-2024/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -31,14 +31,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM tipovačka]]
+- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
 - Propojovací síť
-- [[topics/synchronizace-monitory-semafory|Semafor P/V]]
-- [[topics/euler-tour-suffix-sums|Eulerova cesta]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Semafor P/V]]
+- [[knowledge/topics/euler-tour-suffix-sums|Eulerova cesta]]
 - Barodingův algoritmus
-- [[topics/razeni-prefix|Prescan]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Prescan]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -57,7 +57,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

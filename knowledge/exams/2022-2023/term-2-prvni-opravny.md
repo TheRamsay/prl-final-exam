@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2022-2023]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2022-2023]] |
 | Primární zdroj zadání | raw poznámka; student doc potvrzuje a rozšiřuje formulace |
 
 ## Student doc reference
 
-- [[sources/student-doc/2022-2023-extract]] obsahuje odpovídající 1. opravný termín.
-- Destilace: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2022-2023-extract]] obsahuje odpovídající 1. opravný termín.
+- Destilace: [[knowledge/exams/2022-2023/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -29,14 +29,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/razeni-prefix|Odd-even transposition sort]]
-- [[topics/parallel-splitting-select|Parallel SELECT]]
-- [[topics/distribuovane-algoritmy|Marzullo]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/cla|CLA]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/razeni-prefix|Odd-even transposition sort]]
+- [[knowledge/topics/parallel-splitting-select|Parallel SELECT]]
+- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/cla|CLA]]
 - Čtyři čítači
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -51,7 +51,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

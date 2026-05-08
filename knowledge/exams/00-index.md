@@ -12,21 +12,21 @@ Každý primární termínový soubor má jednotnou strukturu: metadata, stav ve
 
 ## Akademické roky
 
-- [[exams/2025-2026/00-index|2025/2026]]
-- [[exams/2024-2025/00-index|2024/2025]]
-- [[exams/2023-2024/00-index|2023/2024]]
-- [[exams/2022-2023/00-index|2022/2023]]
-- [[exams/2021-2022/00-index|2021/2022]]
-- [[exams/2020-2021/00-index|2020/2021]]
-- [[exams/2019-2020/00-index|2019/2020]]
-- [[exams/2018-2019/00-index|2018/2019]]
+- [[knowledge/exams/2025-2026/00-index|2025/2026]]
+- [[knowledge/exams/2024-2025/00-index|2024/2025]]
+- [[knowledge/exams/2023-2024/00-index|2023/2024]]
+- [[knowledge/exams/2022-2023/00-index|2022/2023]]
+- [[knowledge/exams/2021-2022/00-index|2021/2022]]
+- [[knowledge/exams/2020-2021/00-index|2020/2021]]
+- [[knowledge/exams/2019-2020/00-index|2019/2020]]
+- [[knowledge/exams/2018-2019/00-index|2018/2019]]
 
 ## Starší velký zdroj
 
-- [[sources/student-doc-index|Studentský dokument - index]]
-- [[sources/student-doc/index|Student doc workspace]]
+- [[knowledge/sources/student-doc-index|Studentský dokument - index]]
+- [[knowledge/sources/student-doc/index|Student doc workspace]]
 
 ## Verifikace
 
-- [[exams/_verification/raw-vs-student-doc|Raw vs student doc]]
-- [[exams/_verification/policy|Pravidla verifikace]]
+- [[knowledge/exams/_verification/raw-vs-student-doc|Raw vs student doc]]
+- [[knowledge/exams/_verification/policy|Pravidla verifikace]]

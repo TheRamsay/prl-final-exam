@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2023-2024]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2023-2024]] |
 | Primární zdroj zadání | raw text; student doc potvrzuje duplicitu skupiny B |
 
 ## Student doc reference
 
-- [[sources/student-doc/2023-2024-extract]] obsahuje skupinu B dvakrát a potvrzuje pořadí příkladů.
-- Porovnávací digest: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2023-2024-extract]] obsahuje skupinu B dvakrát a potvrzuje pořadí příkladů.
+- Porovnávací digest: [[knowledge/exams/2023-2024/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -31,14 +31,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM tipovačka]]
-- [[topics/architektury|VLIW]]
-- [[topics/synchronizace-monitory-semafory|Čtenáři/písaři]]
-- [[topics/euler-tour-suffix-sums|Euler tour a preorder]]
+- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
+- [[knowledge/topics/architektury|VLIW]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Čtenáři/písaři]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler tour a preorder]]
 - Rendezvous
-- [[topics/razeni-prefix|Enumeration Sort]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -57,7 +57,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `shoda` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2023-2024]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2023-2024]] |
 | Primární zdroj zadání | raw text |
 
 ## Student doc reference
 
-- [[sources/student-doc/2023-2024-extract]] potvrzuje pořadí i témata předtermínu.
-- Porovnávací digest: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2023-2024-extract]] potvrzuje pořadí i témata předtermínu.
+- Porovnávací digest: [[knowledge/exams/2023-2024/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -29,13 +29,13 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM tipovačka]]
-- [[topics/broadcast-fifo-kauzalita|Kauzální broadcast]]
-- [[topics/euler-tour-suffix-sums|Euler tour]]
-- [[topics/cla|CLA]]
-- [[topics/distribuovane-algoritmy|Maekawa]]
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler tour]]
+- [[knowledge/topics/cla|CLA]]
+- [[knowledge/topics/distribuovane-algoritmy|Maekawa]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -50,7 +50,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

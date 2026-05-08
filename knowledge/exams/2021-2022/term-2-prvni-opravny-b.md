@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2021-2022]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2021-2022]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2021-2022-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2021-2022-extract]]
+- Roční digest: [[knowledge/exams/2021-2022/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|Common CRCW AND]]
+- [[knowledge/topics/pram-tipovacka|Common CRCW AND]]
 - Xeon Phi
-- [[topics/razeni-prefix|Odd-even merge sort]]
-- [[topics/distribuovane-algoritmy|Marzullo]]
-- [[topics/broadcast-fifo-kauzalita|Async -> sync]]
-- [[topics/razeni-prefix|Enumeration Sort]]
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
+- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]]
+- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

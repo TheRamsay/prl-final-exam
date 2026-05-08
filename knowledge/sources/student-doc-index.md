@@ -4,16 +4,16 @@ Zdroj: `raw/student_doc.md`. Dokument je velký, protože obsahuje vložené bas
 
 ## Zpracované soubory
 
-- [[sources/student-doc/index|Student doc workspace]]
-- [[sources/student-doc/clean|Čistý text bez base64 obrázků]]
-- [[exams/2024-2025/student-doc-digest|Destilace 2024/2025]]
-- [[exams/2023-2024/student-doc-digest|Destilace 2023/2024]]
-- [[sources/student-doc/2022-2023-extract|Extract 2022/2023]]
-- [[exams/2022-2023/student-doc-digest|Destilace 2022/2023]]
-- [[exams/2021-2022/student-doc-digest|Destilace 2021/2022]]
-- [[exams/2020-2021/student-doc-digest|Destilace 2020/2021]]
-- [[exams/2019-2020/student-doc-digest|Destilace 2019/2020]]
-- [[exams/2018-2019/student-doc-digest|Destilace 2018/2019]]
+- [[knowledge/sources/student-doc/index|Student doc workspace]]
+- [[knowledge/sources/student-doc/clean|Čistý text bez base64 obrázků]]
+- [[knowledge/exams/2024-2025/student-doc-digest|Destilace 2024/2025]]
+- [[knowledge/exams/2023-2024/student-doc-digest|Destilace 2023/2024]]
+- [[knowledge/sources/student-doc/2022-2023-extract|Extract 2022/2023]]
+- [[knowledge/exams/2022-2023/student-doc-digest|Destilace 2022/2023]]
+- [[knowledge/exams/2021-2022/student-doc-digest|Destilace 2021/2022]]
+- [[knowledge/exams/2020-2021/student-doc-digest|Destilace 2020/2021]]
+- [[knowledge/exams/2019-2020/student-doc-digest|Destilace 2019/2020]]
+- [[knowledge/exams/2018-2019/student-doc-digest|Destilace 2018/2019]]
 
 ## Viditelné sekce
 

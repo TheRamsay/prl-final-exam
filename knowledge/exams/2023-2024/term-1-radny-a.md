@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `shoda` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2023-2024]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2023-2024]] |
 | Primární zdroj zadání | raw text + raw obrázek |
 
 ## Student doc reference
 
-- [[sources/student-doc/2023-2024-extract]] potvrzuje text varianty A.
-- Porovnávací digest: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2023-2024-extract]] potvrzuje text varianty A.
+- Porovnávací digest: [[knowledge/exams/2023-2024/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -31,14 +31,14 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM tipovačka]]
-- [[topics/architektury|Zřetězené procesory]]
-- [[topics/synchronizace-monitory-semafory|Monitor]]
-- [[topics/euler-tour-suffix-sums|Suffix sums a level(v)]]
+- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
+- [[knowledge/topics/architektury|Zřetězené procesory]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
+- [[knowledge/topics/euler-tour-suffix-sums|Suffix sums a level(v)]]
 - Bagrodia/Bagródia Rendezvous algoritmus
-- [[topics/razeni-prefix|Pipeline Merge Sort]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -59,7 +59,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

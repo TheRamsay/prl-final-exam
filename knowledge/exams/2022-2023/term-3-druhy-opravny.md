@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2022-2023]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2022-2023]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2022-2023-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2022-2023-extract]]
+- Roční digest: [[knowledge/exams/2022-2023/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/broadcast-fifo-kauzalita|Kauzalita]]
-- [[topics/pram-tipovacka|PRAM architektura]]
-- [[topics/linda-ada|ADA]]
-- [[topics/pi-kalkul|Pi-kalkul]]
-- [[topics/razeni-prefix|Upsweep/down-sweep]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]]
+- [[knowledge/topics/pram-tipovacka|PRAM architektura]]
+- [[knowledge/topics/linda-ada|ADA]]
+- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
+- [[knowledge/topics/razeni-prefix|Upsweep/down-sweep]]
 - Čtyři čítače
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

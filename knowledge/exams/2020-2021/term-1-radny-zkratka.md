@@ -15,13 +15,13 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc doplňuje raw` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2020-2021]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2020-2021]] |
 | Primární zdroj zadání | raw poznámka; student doc potvrzuje a přidává řešení |
 
 ## Student doc reference
 
-- [[sources/student-doc/2020-2021-extract]] obsahuje odpovídající řádný termín s dílčími řešeními.
-- Destilace: [[student-doc-digest]]
+- [[knowledge/sources/student-doc/2020-2021-extract]] obsahuje odpovídající řádný termín s dílčími řešeními.
+- Destilace: [[knowledge/exams/2020-2021/student-doc-digest]]
 
 ## Původní zdroje
 
@@ -29,13 +29,13 @@
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
-- [[topics/mutual-exclusion|Test-and-set]]
-- [[topics/broadcast-fifo-kauzalita|Kauzalita]]
-- [[topics/euler-tour-suffix-sums|Euler/suffix]]
-- [[topics/distribuovane-algoritmy|Ricart-Agrawala]]
-- [[topics/cla|CLA]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/mutual-exclusion|Test-and-set]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler/suffix]]
+- [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala]]
+- [[knowledge/topics/cla|CLA]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
@@ -50,7 +50,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[exams/_verification/raw-vs-student-doc]].
+- Viz sekce `Stav verifikace` a `Student doc reference`; detailní roční porovnání je v [[knowledge/exams/_verification/raw-vs-student-doc]].
 
 ## Poznámky k nejistotám
 

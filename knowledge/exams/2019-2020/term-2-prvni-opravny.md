@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2019-2020]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2019-2020]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2019-2020-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2019-2020-extract]]
+- Roční digest: [[knowledge/exams/2019-2020/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|PRAM]]
+- [[knowledge/topics/pram-tipovacka|PRAM]]
 - Xeon Phi
-- [[topics/razeni-prefix|Odd-even merge sort]]
-- [[topics/distribuovane-algoritmy|Marzullo]]
-- [[topics/cla|CLA]]
-- [[topics/synchronizace-monitory-semafory|Semafor]]
-- [[topics/linda-ada|Linda]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
+- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
+- [[knowledge/topics/cla|CLA]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Semafor]]
+- [[knowledge/topics/linda-ada|Linda]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 

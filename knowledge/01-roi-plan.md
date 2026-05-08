@@ -1,6 +1,6 @@
 # ROI plán učení
 
-Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.md`, `raw/common_16-22.md` a z 30 sjednocených souborů v [[exams/00-index|archivu termínů]].
+Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.md`, `raw/common_16-22.md` a z 30 sjednocených souborů v [[knowledge/exams/00-index|archivu termínů]].
 
 ## Jak číst priority
 
@@ -13,43 +13,43 @@ Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu
 
 | Téma | ROI | Proč první | Minimální cíl |
 |---|---:|---|---|
-| [MPI Reduce/Bcast](topics/mpi-reduce-bcast.md) | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 28 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
-| [PRAM tipovačka](topics/pram-tipovacka.md) | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 30 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
-| [Broadcast/FIFO/kauzalita](topics/broadcast-fifo-kauzalita.md) | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 16 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
+| [MPI Reduce/Bcast](knowledge/topics/mpi-reduce-bcast.md) | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 28 odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
+| [PRAM tipovačka](knowledge/topics/pram-tipovacka.md) | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 30 odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
+| [Broadcast/FIFO/kauzalita](knowledge/topics/broadcast-fifo-kauzalita.md) | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 16 odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
 
 ## A1: velké opakující se bloky
 
 | Téma | ROI | Proč | Minimální cíl |
 |---|---:|---|---|
-| [Řazení, prescan, prefix](topics/razeni-prefix.md) | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 20 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
-| [Euler tour + suffix sums](topics/euler-tour-suffix-sums.md) | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 16 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
-| [Monitory a semafory](topics/synchronizace-monitory-semafory.md) | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 12 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
-| [Architektury](topics/architektury.md) | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 10 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
+| [Řazení, prescan, prefix](knowledge/topics/razeni-prefix.md) | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 20 odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
+| [Euler tour + suffix sums](knowledge/topics/euler-tour-suffix-sums.md) | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 16 odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
+| [Monitory a semafory](knowledge/topics/synchronizace-monitory-semafory.md) | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 12 odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
+| [Architektury](knowledge/topics/architektury.md) | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 10 odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
 
 ## B: pravidelná druhá vlna
 
 | Téma | ROI | Minimální cíl |
 |---|---:|---|
-| [Distribuované algoritmy](topics/distribuovane-algoritmy.md) | střední | Marzullo, Maekawa, Suzuki, Ricart-Agrawala, Dijkstra, Hirschberg-Sinclair, volba lídra. |
-| [Pi-kalkul](topics/pi-kalkul.md) | střední | Redukce výrazů, 3-4 možné koncové redukce, pozorování. |
-| [Carry-look-ahead adder](topics/cla.md) | střední | `propagate/generate/stop`, výpočet carry pomocí scan, sečtení dvojice čísel. |
-| [OCCAM](topics/occam.md) | střední | Kanály, pole kanálů, buffer/queue, alternace, jednoduchý proces. |
+| [Distribuované algoritmy](knowledge/topics/distribuovane-algoritmy.md) | střední | Marzullo, Maekawa, Suzuki, Ricart-Agrawala, Dijkstra, Hirschberg-Sinclair, volba lídra. |
+| [Pi-kalkul](knowledge/topics/pi-kalkul.md) | střední | Redukce výrazů, 3-4 možné koncové redukce, pozorování. |
+| [Carry-look-ahead adder](knowledge/topics/cla.md) | střední | `propagate/generate/stop`, výpočet carry pomocí scan, sečtení dvojice čísel. |
+| [OCCAM](knowledge/topics/occam.md) | střední | Kanály, pole kanálů, buffer/queue, alternace, jednoduchý proces. |
 | Random mating / list ranking / terminace | střední | Simulace random mating, list ranking, 4 čítače terminace. |
 
 ## C: doplnit po základu
 
 | Téma | ROI | Minimální cíl |
 |---|---:|---|
-| [Test-and-set, swap, Peterson](topics/mutual-exclusion.md) | nižší, ale opakuje se | Aktivní čekání, bounded TAS, starvation, Peterson. |
-| [Parallel splitting / SELECT](topics/parallel-splitting-select.md) | nižší | Rozdělení podle pivotu `L/E/G`, výběr k-tého prvku. |
-| [Linda / ADA](topics/linda-ada.md) | nižší | Základní operace nad n-ticí/listem, reverse/delete/search. |
+| [Test-and-set, swap, Peterson](knowledge/topics/mutual-exclusion.md) | nižší, ale opakuje se | Aktivní čekání, bounded TAS, starvation, Peterson. |
+| [Parallel splitting / SELECT](knowledge/topics/parallel-splitting-select.md) | nižší | Rozdělení podle pivotu `L/E/G`, výběr k-tého prvku. |
+| [Linda / ADA](knowledge/topics/linda-ada.md) | nižší | Základní operace nad n-ticí/listem, reverse/delete/search. |
 
 ## Doporučené pořadí
 
 1. **První průchod: A0.** MPI, PRAM, Broadcast. Cíl je umět okamžitě napsat kostru odpovědi bez přemýšlení.
 2. **Druhý průchod: A1.** Řazení/prescan, Euler tour, synchronizace, architektury. Cíl je umět postup a typické chyby.
 3. **Třetí průchod: B.** Distribuované algoritmy, Pi-kalkul, CLA, OCCAM, random/list/terminace.
-4. **Poslední průchod: termíny.** Otevřít [[exams/00-index|minulé termíny]] a u každé otázky si nahlas říct, do kterého tématu patří a jaká je šablona řešení.
+4. **Poslední průchod: termíny.** Otevřít [[knowledge/exams/00-index|minulé termíny]] a u každé otázky si nahlas říct, do kterého tématu patří a jaká je šablona řešení.
 
 ## Co nedělat první
 
@@ -69,6 +69,6 @@ Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu
 
 ## Navazující checklist
 
-- [[04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
-- [[02-cetnosti-temat|Četnosti témat]]
-- [[exams/00-index|Minulé termíny]]
+- [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
+- [[knowledge/02-cetnosti-temat|Četnosti témat]]
+- [[knowledge/exams/00-index|Minulé termíny]]

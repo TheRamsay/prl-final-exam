@@ -15,29 +15,29 @@
 | Pole | Hodnota |
 |---|---|
 | Verifikační status | `student_doc only` |
-| Kontrolní matice | [[exams/_verification/raw-vs-student-doc#2021-2022]] |
+| Kontrolní matice | [[knowledge/exams/_verification/raw-vs-student-doc#2021-2022]] |
 | Primární zdroj zadání | student doc |
 
 ## Student doc reference
 
-- Extract: [[sources/student-doc/2021-2022-extract]]
-- Roční digest: [[student-doc-digest]]
+- Extract: [[knowledge/sources/student-doc/2021-2022-extract]]
+- Roční digest: [[knowledge/exams/2021-2022/student-doc-digest]]
 
 ## Původní zdroje
 
 - Raw dokument: [[raw/student_doc]]
-- Očištěný zdroj: [[sources/student-doc/clean]]
+- Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
 ## Tématické odkazy
 
-- [[topics/pram-tipovacka|CRCW AND]]
-- [[topics/architektury|MIMD / Xeon Phi]]
-- [[topics/euler-tour-suffix-sums|Euler path + suffixsum]]
-- [[topics/razeni-prefix|Pipeline sort]]
-- [[topics/broadcast-fifo-kauzalita|Async -> sync a kauzalita]]
+- [[knowledge/topics/pram-tipovacka|CRCW AND]]
+- [[knowledge/topics/architektury|MIMD / Xeon Phi]]
+- [[knowledge/topics/euler-tour-suffix-sums|Euler path + suffixsum]]
+- [[knowledge/topics/razeni-prefix|Pipeline sort]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync a kauzalita]]
 - FIFO algoritmy
-- [[topics/occam|OCCAM]]
-- [[topics/mpi-reduce-bcast|MPI]]
+- [[knowledge/topics/occam|OCCAM]]
+- [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
 
