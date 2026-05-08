@@ -35,7 +35,7 @@
 - [[knowledge/topics/architektury|Zřetězené procesory]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
 - [[knowledge/topics/euler-tour-suffix-sums|Suffix sums a level(v)]]
-- Bagrodia/Bagródia Rendezvous algoritmus
+- [[knowledge/topics/distribuovane-algoritmy|Bagrodia/Bagródia Rendezvous algoritmus]]
 - [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]

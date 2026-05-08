@@ -51,7 +51,7 @@ Opakující se skupina B:
 2. [[knowledge/topics/architektury|VLIW]].
 3. [[knowledge/topics/synchronizace-monitory-semafory|Čtenáři/písaři]] se semafory, přednost čtenářů.
 4. [[knowledge/topics/euler-tour-suffix-sums|Euler + suffix sums]] pro `preor(v) -> N`.
-5. Rendezvous podle obrázku.
+5. [[knowledge/topics/distribuovane-algoritmy|Rendezvous]] podle obrázku.
 6. [[knowledge/topics/razeni-prefix|Enumeration Sort]] po 6 krocích.
 7. [[knowledge/topics/pi-kalkul|Pi-kalkul]] - alespoň 4 koncové redukce.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - součet prvků větších než průměr.
@@ -62,7 +62,7 @@ Skupina A:
 2. [[knowledge/topics/architektury|Zřetězené procesory]].
 3. [[knowledge/topics/synchronizace-monitory-semafory|Monitor]].
 4. [[knowledge/topics/euler-tour-suffix-sums|Suffix sums pro level(v)]].
-5. Rendezvous.
+5. [[knowledge/topics/distribuovane-algoritmy|Rendezvous]].
 6. [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]] po 10 krocích.
 7. [[knowledge/topics/pi-kalkul|Pi-kalkul]].
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - součet lichých krát součet sudých.
@@ -76,7 +76,7 @@ Odpovídá [[knowledge/exams/2023-2024/term-2-prvni-opravny]].
 3. Test-and-set pro KS.
 4. Algoritmus čtyř čítačů.
 5. Ricart-Agrawala + Lamportovy časy.
-6. Random mating.
+6. [[knowledge/topics/distribuovane-algoritmy|Random mating]].
 7. Pi-kalkul.
 8. MPI: druhý nejmenší prvek.
 

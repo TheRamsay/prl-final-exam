@@ -34,15 +34,15 @@ Samostatný soubor: [[knowledge/exams/2022-2023/term-0-pretermin]]
 2. [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a relace kauzality]] - napsat kód FIFO broadcastu a popsat relaci kauzality.
 3. [[knowledge/topics/pi-kalkul|Pi-kalkul]].
 4. [[knowledge/topics/euler-tour-suffix-sums|Euler]].
-5. Redukční počítač.
-6. Synchronizovatelnost procesů.
+5. [[knowledge/topics/architektury|Redukční počítač]].
+6. [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost procesů]].
 7. [[knowledge/topics/mutual-exclusion|Aktivní čekání: test-and-set a swap]].
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - zjistit `max % min == 0`.
 
 ### Term 1 - řádný termín - skupina A
 
 1. [[knowledge/topics/pram-tipovacka|PRAM Sportka]].
-2. Propojovací síť - co to je, nevýhody, nakreslit.
+2. [[knowledge/topics/architektury|Propojovací síť]] - co to je, nevýhody, nakreslit.
 3. [[knowledge/topics/euler-tour-suffix-sums|Výpočet levelu vrcholu]] se složitostí.
 4. [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] - hlavně `wait()` a `signal()` + obrázek.
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]] s pluskem a privátní proměnnou.
@@ -57,7 +57,7 @@ Samostatný soubor: [[knowledge/exams/2022-2023/term-0-pretermin]]
 Samostatný soubor: [[knowledge/exams/2022-2023/term-1-radny-b]]
 
 1. [[knowledge/topics/pram-tipovacka|PRAM Synotip]].
-2. Xeon Phi.
+2. [[knowledge/topics/architektury|Xeon Phi]].
 3. [[knowledge/topics/mutual-exclusion|Bounded test-and-set]].
 4. [[knowledge/topics/razeni-prefix|Enumeration Sort]].
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]].
@@ -74,7 +74,7 @@ Samostatný soubor: [[knowledge/exams/2022-2023/term-1-radny-c]]
 3. [[knowledge/topics/euler-tour-suffix-sums|Euler]].
 4. [[knowledge/topics/synchronizace-monitory-semafory|Semafory + monitor ze semaforů]].
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]] s pluskem a privátní proměnnou.
-6. Random mating - několik kroků podle obrázku.
+6. [[knowledge/topics/distribuovane-algoritmy|Random mating]] - několik kroků podle obrázku.
 7. Algoritmus čtyř čítačů.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - převést čísla z intervalu `1-5` na interval `0-1`, netřeba vypisovat.
 
@@ -86,7 +86,7 @@ Samostatný soubor: [[knowledge/exams/2022-2023/term-1-radny-c]]
 4. [[knowledge/topics/distribuovane-algoritmy|Marzullův algoritmus]] - princip a aplikace na intervaly z obrázku.
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]] - najít 3 možné redukce.
 6. [[knowledge/topics/cla|CLA]] - příklad `120 + 99`.
-7. Čtyři čítači - detekce ukončení; uvést příklad, kdy k detekci dojde a kdy nedojde.
+7. [[knowledge/topics/distribuovane-algoritmy|Čtyři čítači]] - detekce ukončení; uvést příklad, kdy k detekci dojde a kdy nedojde.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - zjistit, která část sekvence je menší/větší/stejně velká jako průměr.
 
 ### Term 3 - 2. opravný termín
@@ -99,7 +99,7 @@ Samostatný soubor: [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
 4. [[knowledge/topics/linda-ada|ADA]] - popsat a uvést konkrétní příkazy.
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]] - 3 redukce.
 6. [[knowledge/topics/razeni-prefix|Upsweep/down-sweep]] příklad.
-7. Čtyři čítače, za 10 bodů.
+7. [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]], za 10 bodů.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - v logaritmickém čase zjistit, zda má posloupnost 3 a více různých hodnot.
 
 ## Největší přínos oproti raw `term_*.md`

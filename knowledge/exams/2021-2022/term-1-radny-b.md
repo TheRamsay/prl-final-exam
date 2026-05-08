@@ -31,10 +31,10 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
-- Vektorové procesory
+- [[knowledge/topics/architektury|Vektorové procesory]]
 - [[knowledge/topics/parallel-splitting-select|Paralelní SELECT]]
 - [[knowledge/topics/mutual-exclusion|Peterson]]
-- Synchronizace
+- [[knowledge/topics/synchronizace-monitory-semafory|Synchronizace]]
 - [[knowledge/topics/razeni-prefix|Enumeration Sort]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]

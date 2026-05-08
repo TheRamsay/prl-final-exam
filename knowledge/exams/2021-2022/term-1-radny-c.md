@@ -31,7 +31,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM / Tipsport]]
-- Xeon Phi
+- [[knowledge/topics/architektury|Xeon Phi]]
 - [[knowledge/topics/euler-tour-suffix-sums|Etour + suffixsum]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|Asynchronní/synchronní signály]]

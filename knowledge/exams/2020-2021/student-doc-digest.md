@@ -43,7 +43,7 @@
 1. [[knowledge/topics/pram-tipovacka|PRAM složitosti]].
 2. [[knowledge/topics/pram-tipovacka|PRAM architektura]] - popis a obrázek.
 3. [[knowledge/topics/pi-kalkul|Pi-kalkul]] - redukce a pozorování.
-4. Random mating - příklad.
+4. [[knowledge/topics/distribuovane-algoritmy|Random mating]] - příklad.
 5. [[knowledge/topics/distribuovane-algoritmy|Suzuki]] - princip a obrázek se 4 uzly.
 6. [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] - `wait`, `signal`, obrázek.
 7. [[knowledge/topics/linda-ada|Linda]] - reverz seznamu.
@@ -58,7 +58,7 @@
 4. [[knowledge/topics/synchronizace-monitory-semafory|Problém pěti filozofů]] - kód se semafory, deadlock-proof.
    - Zdroj používá semafor `E.count = 4`, aby narušil cyklické čekání, a semafory pro vidličky.
 5. [[knowledge/topics/broadcast-fifo-kauzalita|FIFO/broadcast]] podle tabulky.
-6. Random mating.
+6. [[knowledge/topics/distribuovane-algoritmy|Random mating]].
 7. [[knowledge/topics/occam|OCCAM]] - procedura `AVG(DATA, CHNH, CHNL)` počítá dlouhodobý průměr a posílá hodnoty podle porovnání s průměrem.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - součet hodnot menších než maximum nebo větších než minimum.
    - Zdroj: `Reduce MAX`, `Bcast max`, lokální filtr, `Reduce SUM`.

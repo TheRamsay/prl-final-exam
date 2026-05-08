@@ -1,5 +1,9 @@
 # Linda, ADA a ostatní jazyky
 
+## Zkouškový pattern
+
+Linda se objevuje jako práce s tuple space nad jednoduchou datovou strukturou, často seznamem. ADA se objevuje spíš jako krátká teorie: task, entry, rendezvous a `accept`.
+
 ## Linda
 
 Linda pracuje s tuple space.
@@ -26,9 +30,53 @@ Zkouškově spíš okrajové. Držet se pojmů:
 - rendezvous;
 - accept.
 
+## Vyřešené příklady z termínů
+
+### Linda: reverz seznamu
+
+Zdroj: [[knowledge/exams/2020-2021/student-doc-digest]]
+
+Zadání: Linda, reverz seznamu.
+
+Řešení:
+
+- Uzel seznamu reprezentuj n-ticí, například `(node, id, value, next)`.
+- `rd` použij pro čtení bez odebrání, `in` pro destruktivní změnu vazby.
+- Reverz typicky přepíše odkazy `next`; hlídej, aby současně neběžely dvě destruktivní změny stejné n-tice.
+
+### Linda: vyhledávání v lineárním seznamu
+
+Zdroj: [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
+
+Zadání: Linda, vyhledávání v lineárním seznamu.
+
+Řešení:
+
+- Proces iteruje přes n-tice uzlů podle odkazu `next`.
+- Pro čisté hledání používej `rd`, aby se seznam nerozbil.
+- `in` použij až u operací typu delete nebo update.
+
+### ADA: popsat a uvést příkazy
+
+Zdroj: [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
+
+Zadání: ADA, popsat a uvést konkrétní příkazy.
+
+Řešení:
+
+- Základ je `task`, `entry`, volání entry a `accept`.
+- Rendezvous znamená, že volající i přijímající task se synchronizují na komunikačním bodě.
+- Uveď, že `accept` může obsahovat tělo obsluhy požadavku.
+
+## Kde se to objevuje
+
+- [[knowledge/exams/2019-2020/term-1-radny-b]]
+- [[knowledge/exams/2020-2021/student-doc-digest]]
+- [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
+- [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
+
 ## Chyby
 
 - Zaměnit `rd` a `in`.
 - Zapomenout, že `in` je destruktivní.
 - U rendezvous neuvažovat blokování obou stran do spárování.
-

@@ -36,7 +36,7 @@
 - [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/euler-tour-suffix-sums|Etour + suffix]]
-- Random mating
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - Některé PRAM části jsou v textu neúplné nebo špatně čitelné.
-

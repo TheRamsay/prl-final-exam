@@ -35,7 +35,7 @@
 - [[knowledge/topics/euler-tour-suffix-sums|Euler path + suffixsum]]
 - [[knowledge/topics/razeni-prefix|Pipeline sort]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync a kauzalita]]
-- FIFO algoritmy
+- [[knowledge/topics/distribuovane-algoritmy|FIFO algoritmy]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - FIFO algoritmy jsou ve zdroji odhadované jako Lamport/Ricart-Agrawala.
-

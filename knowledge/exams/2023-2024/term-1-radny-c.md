@@ -32,10 +32,10 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- Propojovací síť
+- [[knowledge/topics/architektury|Propojovací síť]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Semafor P/V]]
 - [[knowledge/topics/euler-tour-suffix-sums|Eulerova cesta]]
-- Barodingův algoritmus
+- [[knowledge/topics/distribuovane-algoritmy|Barodingův algoritmus]]
 - [[knowledge/topics/razeni-prefix|Prescan]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]

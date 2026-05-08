@@ -35,7 +35,7 @@
 - [[knowledge/topics/architektury|VLIW]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Čtenáři/písaři]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler tour a preorder]]
-- Rendezvous
+- [[knowledge/topics/distribuovane-algoritmy|Rendezvous]]
 - [[knowledge/topics/razeni-prefix|Enumeration Sort]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]

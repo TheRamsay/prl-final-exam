@@ -29,7 +29,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]]
-- Čtyři čtenáři / detekce ukončení
+- [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]]
 - [[knowledge/topics/razeni-prefix|Enumeration Sort]]
 
 ## Jednotné zadání

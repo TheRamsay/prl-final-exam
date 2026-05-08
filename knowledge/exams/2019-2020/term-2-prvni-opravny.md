@@ -31,7 +31,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
-- Xeon Phi
+- [[knowledge/topics/architektury|Xeon Phi]]
 - [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
 - [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
 - [[knowledge/topics/cla|CLA]]
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - PRAM zadání je jen obecně označeno jako opakující se typ.
-

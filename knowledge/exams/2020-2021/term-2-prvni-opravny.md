@@ -31,7 +31,7 @@
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- Random mating
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/distribuovane-algoritmy|Suzuki]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
 - [[knowledge/topics/linda-ada|Linda]]

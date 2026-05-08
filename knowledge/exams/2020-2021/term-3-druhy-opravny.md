@@ -33,7 +33,7 @@
 - [[knowledge/topics/architektury|VLIW]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor a semafory]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO/broadcast]]
-- Random mating
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 

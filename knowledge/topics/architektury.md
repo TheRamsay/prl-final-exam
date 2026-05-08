@@ -48,6 +48,36 @@ Co dodat:
 - Sdílená paměť, synchronní kroky, procesory přistupují k buňkám podle omezení EREW/CREW/CRCW.
 - Je to hlavně abstraktní výpočetní model, ne realistická hardwarová architektura.
 
+## Xeon Phi a vektorové procesory
+
+Xeon Phi se v zadáních objevuje jako kombinace MIMD a SIMD:
+
+- mnoho jader běží MIMD stylem;
+- každé jádro má široké vektorové jednotky, typicky zmiňované jako 512bitové registry;
+- tématem jsou cache, paměťová hierarchie a vektorová část jádra;
+- vhodné je nakreslit jádra, vektorové jednotky a sdílenou/privátní cache podle zadání.
+
+U vektorových procesorů zdůrazni, že jedna vektorová instrukce pracuje nad více prvky vektoru. Výhoda je vysoká propustnost pro pravidelná data, nevýhoda horší využití u nepravidelných větvení a závislostí.
+
+## Propojovací síť
+
+Propojovací síť určuje, jak spolu komunikují procesory, paměti nebo uzly paralelního systému.
+
+Co uvést:
+
+- topologie: sběrnice, křížový přepínač, mřížka, hypercube, strom;
+- parametry: průměr, stupeň uzlu, šířka pásma, bisection bandwidth;
+- výhody/nevýhody: cena, latence, škálovatelnost, bottleneck.
+
+## Redukční počítač a granularita
+
+Redukční počítač spouští výpočet jako přepis/redukci výrazů, ne jako klasickou sekvenci instrukcí řízenou programovým čítačem. U odpovědi pomáhá propojit to s dataflow myšlenkou: výpočet se aktivuje dostupností podvýrazů.
+
+Granularita paralelismu popisuje velikost práce mezi synchronizacemi nebo komunikací:
+
+- jemná granularita: hodně malých paralelních úloh, větší režie;
+- hrubá granularita: méně větších úloh, menší režie, ale horší vyvážení.
+
 ## Mini-drill
 
 1. Jaký je rozdíl mezi latencí a propustností v pipeline?
@@ -99,10 +129,49 @@ Zadání: popsat dataflow architekturu.
 - Výhoda: přirozeně odhaluje paralelismus.
 - Nevýhoda: složitá správa tokenů, paměti a pořadí efektů.
 
+### Xeon Phi
+
+Zdroj: [[knowledge/exams/2021-2022/term-2-prvni-opravny-b]]
+
+Zadání: Xeon Phi, popsat a nakreslit obrázek.
+
+Řešení:
+
+- Popiš ho jako mnohojádrovou architekturu se SIMD vektorovými jednotkami.
+- Uveď kombinaci MIMD na úrovni jader a SIMD uvnitř jádra.
+- Do obrázku dej jádra, vektorovou jednotku/cache a propojení s pamětí.
+
+### Propojovací síť
+
+Zdroj: [[knowledge/exams/2023-2024/term-1-radny-c]]
+
+Zadání: k čemu se používá propojovací síť.
+
+Řešení:
+
+- Propojuje procesory mezi sebou nebo procesory s pamětí.
+- Hodnotí se latence, propustnost, cena a škálovatelnost.
+- Nakresli alespoň jednu topologii a řekni její bottleneck.
+
+### Redukční počítač
+
+Zdroj: [[knowledge/exams/2022-2023/term-0-pretermin]]
+
+Zadání: Redukční počítač.
+
+Řešení:
+
+- Výpočet chápej jako postupnou redukci výrazů.
+- Paralelismus vzniká tam, kde lze nezávisle redukovat podvýrazy.
+- Dobrá odpověď odliší redukční/dataflow princip od klasického von Neumannova řízení.
+
 ## Kde se to objevuje
 
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
 - [[knowledge/exams/2023-2024/student-doc-digest]]
+- [[knowledge/exams/2023-2024/term-1-radny-c]]
+- [[knowledge/exams/2022-2023/term-0-pretermin]]
+- [[knowledge/exams/2021-2022/term-2-prvni-opravny-b]]
 - [[knowledge/exams/2021-2022/student-doc-digest]]
 - [[knowledge/exams/2020-2021/student-doc-digest]]
 - [[knowledge/exams/2019-2020/student-doc-digest]]

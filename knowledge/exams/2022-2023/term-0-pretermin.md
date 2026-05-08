@@ -34,8 +34,8 @@
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler]]
-- Redukční počítač
-- Synchronizovatelnost
+- [[knowledge/topics/architektury|Redukční počítač]]
+- [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost]]
 - [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - Některá řešení ve zdroji jsou diskusní a nejsou potvrzená.
-

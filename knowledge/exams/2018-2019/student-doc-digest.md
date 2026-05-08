@@ -51,7 +51,7 @@ Samostatný soubor: [[knowledge/exams/2018-2019/term-1-radny-b]]
 3. [[knowledge/topics/parallel-splitting-select|Parallel splitting]] - popis a menší příklad rozdělení do `L/E/G`.
 4. [[knowledge/topics/distribuovane-algoritmy|Suzuki]] - princip tokenového algoritmu, příklad se 4 procesory.
 5. [[knowledge/topics/pi-kalkul|Pi-kalkul]] - redukce a pozorování.
-6. Random mating - demonstrovat na 8 prvcích, obě fáze, skončit do 4 kroků.
+6. [[knowledge/topics/distribuovane-algoritmy|Random mating]] - demonstrovat na 8 prvcích, obě fáze, skončit do 4 kroků.
 7. [[knowledge/topics/cla|CLA]] - `77 + 125`.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - počet prvků, které jsou maximy nebo minimy.
 

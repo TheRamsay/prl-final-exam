@@ -33,7 +33,7 @@
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler]]
-- Synchronizovatelnost / koruna
+- [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost / koruna]]
 - [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 

@@ -31,7 +31,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|Common CRCW AND]]
-- Xeon Phi
+- [[knowledge/topics/architektury|Xeon Phi]]
 - [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
 - [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]]
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - U Xeon Phi je ve zdroji poznámka, že pravděpodobně chtěli architekturní obrázek se skalární/vektorovou jednotkou/cache.
-

@@ -31,7 +31,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
-- Granularita paralelismu
+- [[knowledge/topics/architektury|Granularita paralelismu]]
 - [[knowledge/topics/razeni-prefix|Odd-even transposition sort]]
 - [[knowledge/topics/distribuovane-algoritmy|Maekawa]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
@@ -61,4 +61,3 @@
 ## Poznámky k nejistotám
 
 - Některá řešení pod zadáním obsahují studentskou diskusi a nemusí být plně ověřená.
-

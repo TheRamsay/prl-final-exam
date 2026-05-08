@@ -36,7 +36,7 @@
 - [[knowledge/topics/linda-ada|ADA]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/razeni-prefix|Upsweep/down-sweep]]
-- Čtyři čítače
+- [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
@@ -57,4 +57,3 @@
 ## Poznámky k nejistotám
 
 - Zdroj neobsahuje plná řešení.
-

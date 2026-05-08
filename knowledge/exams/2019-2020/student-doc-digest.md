@@ -35,7 +35,7 @@ Samostatný soubor: [[knowledge/exams/2019-2020/term-1-radny-a]]
 4. [[knowledge/topics/broadcast-fifo-kauzalita|Broadcasty]] - určit FIFO, kauzalitu, atomičnost; jednu vlastnost opravit a překreslit.
 5. [[knowledge/topics/occam|OCCAM]] - popis, primitiva, obrázek.
 6. [[knowledge/topics/euler-tour-suffix-sums|Stromy / preorder přes Etour + suffix]] - algoritmus, popis, složitost.
-7. Random mating - demonstrovat na příkladu do 4 kroků.
+7. [[knowledge/topics/distribuovane-algoritmy|Random mating]] - demonstrovat na příkladu do 4 kroků.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - počet prvků větších než průměr.
 
 ### Term 1 - řádný termín - skupina B
@@ -57,7 +57,7 @@ Samostatný soubor: [[knowledge/exams/2019-2020/term-1-radny-b]]
 Samostatný soubor: [[knowledge/exams/2019-2020/term-2-prvni-opravny]]
 
 1. [[knowledge/topics/pram-tipovacka|PRAM jako na každém termínu]].
-2. Xeon Phi architektura - kombinace SIMD a MIMD.
+2. [[knowledge/topics/architektury|Xeon Phi]] architektura - kombinace SIMD a MIMD.
 3. [[knowledge/topics/razeni-prefix|Odd-even merge sort]] - popis algoritmu, síť 4x4.
 4. [[knowledge/topics/distribuovane-algoritmy|Marzullo]] - popis a příklad.
 5. [[knowledge/topics/cla|CLA]] - podrobný postup sčítání dvou čísel.
@@ -69,5 +69,5 @@ Samostatný soubor: [[knowledge/exams/2019-2020/term-2-prvni-opravny]]
 
 ## Využitelné řešicí poznámky
 
-- Rok 2019/2020 rozšiřuje hlavně broadcast vlastnosti, OCCAM primitiva, Random mating a MPI varianty.
+- Rok 2019/2020 rozšiřuje hlavně broadcast vlastnosti, OCCAM primitiva, [[knowledge/topics/distribuovane-algoritmy|Random mating]] a MPI varianty.
 - Některá PRAM zadání jsou ve zdroji neúplná; digest drží jen to, co je čitelné.

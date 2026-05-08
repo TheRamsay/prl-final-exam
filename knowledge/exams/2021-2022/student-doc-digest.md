@@ -52,7 +52,7 @@
 ### Term 1 - řádný termín - skupina C
 
 1. [[knowledge/topics/pram-tipovacka|PRAM tipsport extraliga]].
-2. Xeon Phi - kombinace SIMD + MIMD.
+2. [[knowledge/topics/architektury|Xeon Phi]] - kombinace SIMD + MIMD.
 3. [[knowledge/topics/euler-tour-suffix-sums|Etour + suffixsum]] - zjistit počet následujících vrcholů ve stromě, princip a časová náročnost.
    - Zdroj uvádí kroky: spočítání `Etour`, inicializace `weight`, suffix sums `O(log n)`, korekce výsledku.
 4. [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] - popis, `wait`, `signal`, obrázek.
@@ -73,7 +73,7 @@ Samostatný soubor: [[knowledge/exams/2021-2022/term-2-prvni-opravny-a]]
 4. [[knowledge/topics/razeni-prefix|Pipeline sort]] - stav procesorů ve 12. kroku.
 5. [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync, koruna, kauzalita]].
    - Zdroj uvádí příklad koruny velikosti 4 a definici kauzální relace.
-6. FIFO algoritmy - ve zdroji zmíněn Lamport a Ricart-Agrawala.
+6. [[knowledge/topics/distribuovane-algoritmy|FIFO algoritmy]] - ve zdroji zmíněn Lamport a Ricart-Agrawala.
 7. [[knowledge/topics/occam|OCCAM]] - kanály `ls`, `gt`, `in`, vstupní `BYTE th`, buffer velikosti `SIZE`, poslat podle `x <= th` nebo `x > th`.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - zjistit, zda suma prvků v první polovině je menší než suma ve druhé.
 
@@ -82,7 +82,7 @@ Samostatný soubor: [[knowledge/exams/2021-2022/term-2-prvni-opravny-a]]
 Samostatný soubor: [[knowledge/exams/2021-2022/term-2-prvni-opravny-b]]
 
 1. [[knowledge/topics/pram-tipovacka|Common CRCW AND]] - princip a příklad.
-2. Xeon Phi - kombinace SIMD/MIMD, 512bitové vektorové registry.
+2. [[knowledge/topics/architektury|Xeon Phi]] - kombinace SIMD/MIMD, 512bitové vektorové registry.
 3. [[knowledge/topics/razeni-prefix|Odd-even merge sort]] - popis + síť 4x4 z CE prvků.
 4. [[knowledge/topics/distribuovane-algoritmy|Marzullův algoritmus]].
 5. [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] - detekce koruny a zprávy, které brání synchronizaci.
@@ -98,8 +98,8 @@ Samostatný soubor: [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
 2. [[knowledge/topics/architektury|Dataflow architektura]] - popsat + obrázek.
 3. [[knowledge/topics/synchronizace-monitory-semafory|Semafor]] - popsat operace `P` a `V`.
 4. [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]] - přijímání, odesílání a algoritmy.
-5. Async -> sync příklad.
-6. Random mating - skončit první fázi do 4 kroků.
+5. [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] příklad.
+6. [[knowledge/topics/distribuovane-algoritmy|Random mating]] - skončit první fázi do 4 kroků.
 7. [[knowledge/topics/linda-ada|Linda]] - vyhledávání v lineárním seznamu.
 8. [[knowledge/topics/mpi-reduce-bcast|MPI]] - najít druhé maximum, pozor na záporné hodnoty.
 

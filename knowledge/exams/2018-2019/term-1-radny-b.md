@@ -35,7 +35,7 @@
 - [[knowledge/topics/parallel-splitting-select|Parallel splitting]]
 - [[knowledge/topics/distribuovane-algoritmy|Suzuki]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- Random mating
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/cla|CLA]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - Některé PRAM odpovědi ve zdroji jsou označené jako nejisté.
-

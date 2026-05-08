@@ -31,12 +31,12 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
-- Granularita paralelismu
+- [[knowledge/topics/architektury|Granularita paralelismu]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Semafory a monitor]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- Random mating
-- Čtyři čítače
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
+- [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
@@ -57,4 +57,3 @@
 ## Poznámky k nejistotám
 
 - Zdroj sám uvádí, že zadání mohou být nepřesná.
-

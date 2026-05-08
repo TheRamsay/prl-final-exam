@@ -35,7 +35,7 @@
 - [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor, wait, signal]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]]
-- Distribuovaná volba lídra po výpadcích
+- [[knowledge/topics/distribuovane-algoritmy|Distribuovaná volba lídra po výpadcích]]
 - [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]]

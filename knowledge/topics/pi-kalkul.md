@@ -1,5 +1,9 @@
 # Pi-kalkul
 
+## Zkouškový pattern
+
+Zadání dá jeden výraz v pi-kalkulu a chce několik možných redukcí nebo koncových výrazů. Často se hodnotí i pozorování typu `↓x`. Důležité je vypsat různé větve nedeterminismu, ne jen jednu náhodnou redukci.
+
 ## Syntaxe, která se objevuje
 
 - `a(x).P`: přijmi hodnotu na kanálu `a`, ulož do `x`, pokračuj jako `P`.
@@ -23,9 +27,56 @@
 - Rozlišení alternativ v `+`.
 - Uvedení 3 až 4 různých možných výsledků, pokud existují.
 
+## Vyřešené příklady z termínů
+
+### Redukovat všemi možnými způsoby
+
+Zdroj: [[knowledge/exams/2018-2019/term-1-radny-a]]
+
+Zadání: paralelní procesy redukovat všemi možnými způsoby a v každé fázi uvést pozorování.
+
+Řešení:
+
+- Nejprve najdi všechny dvojice `output/input` na stejném kanálu.
+- Každá možná komunikace je samostatná větev řešení.
+- Po výběru větve u `+` druhá větev mizí.
+- Pozorování zapisuj podle toho, které výstupní akce jsou v daném stavu viditelné.
+
+### Najít 4 koncové redukce
+
+Zdroj: [[knowledge/exams/2023-2024/term-1-radny-b]]
+
+Zadání: najít alespoň 4 různé redukce do stavu, kde už nelze dále redukovat.
+
+Řešení:
+
+- Cílem není maximálně zkrátit zápis, ale ukázat různé dosažitelné koncové stavy.
+- Po každé komunikaci proveď substituci ve zbytku procesu.
+- Pokud jsou v procesu privátní jména, hlídej scope; nesmíš omylem spárovat jméno mimo jeho omezení.
+
+### Najít 3 možné redukce
+
+Zdroj: [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+
+Zadání: najít 3 možné redukce.
+
+Řešení:
+
+- Stačí tři korektní větve, ale každá musí být opravdu dosažitelná z původního procesu.
+- U každé větve napiš komunikační pár, substituci a výsledný výraz po redukci.
+
+## Kde se to objevuje
+
+- [[knowledge/exams/2018-2019/term-1-radny-a]]
+- [[knowledge/exams/2018-2019/term-1-radny-b]]
+- [[knowledge/exams/2018-2019/term-1-radny-c]]
+- [[knowledge/exams/2022-2023/term-1-radny-b]]
+- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+- [[knowledge/exams/2023-2024/term-1-radny-b]]
+- [[knowledge/exams/2023-2024/term-2-prvni-opravny]]
+
 ## Chyby
 
 - Redukovat přes jiný kanál jen proto, že proměnná má podobné jméno.
 - Zapomenout, že volba `+` po výběru větve zahodí druhou větev.
 - Neudělat substituci ve zbytku procesu.
-

@@ -31,7 +31,7 @@
 ## Tématické odkazy
 
 - [[knowledge/topics/pram-tipovacka|PRAM]]
-- Xeon Phi
+- [[knowledge/topics/architektury|Xeon Phi]]
 - [[knowledge/topics/mutual-exclusion|Bounded test-and-set]]
 - [[knowledge/topics/razeni-prefix|Enumeration Sort]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
@@ -57,4 +57,3 @@
 ## Poznámky k nejistotám
 
 - Zdroj je stručný seznam bez plných zadání.
-

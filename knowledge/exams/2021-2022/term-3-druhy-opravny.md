@@ -34,8 +34,8 @@
 - [[knowledge/topics/architektury|Dataflow]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Semafor]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]]
-- Async -> sync
-- Random mating
+- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]]
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/linda-ada|Linda]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
@@ -58,4 +58,3 @@
 ## Poznámky k nejistotám
 
 - MPI řešení není ve zdroji doplněné.
-

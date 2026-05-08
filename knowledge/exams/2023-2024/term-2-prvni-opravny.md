@@ -32,9 +32,9 @@
 - [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
 - [[knowledge/topics/mutual-exclusion|Test-and-set]]
-- Čtyři čtenáři / detekce ukončení
-- Ricart-Agrawala / Lamportovy hodiny
-- Random mating
+- [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]]
+- [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala / Lamportovy hodiny]]
+- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 

@@ -35,7 +35,7 @@
 - [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/cla|CLA]]
-- Čtyři čítači
+- [[knowledge/topics/distribuovane-algoritmy|Čtyři čítači]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
 ## Jednotné zadání
