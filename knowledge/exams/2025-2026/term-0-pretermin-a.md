@@ -40,6 +40,21 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]] | Kauzální broadcast a relace kauzality |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor, wait, signal]] | Monitor, wait, signal |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]] | Euler tour, suffix sums, level(v) |
+| 5 | [[knowledge/topics/distribuovane-algoritmy|Distribuovaná volba lídra po výpadcích]] | Distribuovaná volba lídra po výpadcích |
+| 6 | [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]] | Pipeline Merge Sort |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]] | MPI Reduce/Bcast |
+
 ## Jednotné zadání
 
 1. **PRAM tipovačka, 6 b.** Odpovědi pro příklady I-III se vybírají z možností: a) konstantní, b) logaritmická, c) `n log n`, d) lineární, e) kvadratická, f) polynomiální.

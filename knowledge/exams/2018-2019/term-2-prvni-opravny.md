@@ -32,6 +32,10 @@
 
 - Starší externí dokument zatím není importovaný.
 
+## Mapování na témata
+
+Mapování není dostupné, protože ve zdrojích není přepis konkrétního zadání.
+
 ## Jednotné zadání
 
 1. Aktuální student doc neobsahuje přepis zadání; odkazuje na druhý dokument pro 1. opravný termín a starší roky.

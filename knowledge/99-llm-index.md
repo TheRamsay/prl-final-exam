@@ -6,6 +6,7 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 
 - [[knowledge/00-rozcestnik|Lidský rozcestník]]
 - [[knowledge/01-roi-plan|ROI plán učení]]
+- [[knowledge/06-must-know|Must-know tahák]]
 - [[knowledge/02-cetnosti-temat|Četnosti témat]]
 - [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
 - [[knowledge/topics/00-index|Topic index]]
@@ -52,6 +53,7 @@ rg -n "Verifikační status|raw only|student_doc only|shoda" knowledge/exams
 ## Kde co leží
 
 - `knowledge/topics/`: destilované znalosti a šablony odpovědí.
+- `knowledge/06-must-know.md`: nejkratší opakovací tahák s odpovědními kostrami pro témata s nejlepším ROI.
 - `knowledge/practice/`: predikční cvičné testy sestavené podle historie zadání.
 - `knowledge/05-vyhledavani.md`: poznámka k webovému full-text search.
 - `knowledge/exams/<rok>/`: sjednocené minulé termíny po akademických letech.

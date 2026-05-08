@@ -39,6 +39,21 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM Tipsport]] | PRAM Tipsport |
+| 2 | [[knowledge/topics/architektury|Zřetězení]] | Zřetězení |
+| 3 | [[knowledge/topics/broadcast-fifo-kauzalita|Koruna a synchronizovatelnost]] | Koruna a synchronizovatelnost |
+| 4 | [[knowledge/topics/parallel-splitting-select|Parallel splitting]] | Parallel splitting |
+| 5 | [[knowledge/topics/euler-tour-suffix-sums|Euler tour]] | Euler tour |
+| 6 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. Tipsport CRCW - NOT, OR, zda array obsahuje čísla větší než 0.

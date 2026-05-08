@@ -39,6 +39,21 @@
 - [[knowledge/topics/cla|CLA]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|Granularita paralelismu]] | Granularita paralelismu |
+| 3 | [[knowledge/topics/razeni-prefix|Odd-even transposition sort]] | Odd-even transposition sort |
+| 4 | [[knowledge/topics/distribuovane-algoritmy|Maekawa]] | Maekawa |
+| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/euler-tour-suffix-sums|Eulerův tah]] | Eulerův tah |
+| 7 | [[knowledge/topics/cla|CLA]] | CLA |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM otázky, 6 b:

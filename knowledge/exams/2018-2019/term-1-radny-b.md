@@ -39,6 +39,21 @@
 - [[knowledge/topics/cla|CLA]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/pram-tipovacka|PRAM architektura]] | PRAM architektura |
+| 3 | [[knowledge/topics/parallel-splitting-select|Parallel splitting]] | Parallel splitting |
+| 4 | [[knowledge/topics/distribuovane-algoritmy|Suzuki]] | Suzuki |
+| 5 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
+| 7 | [[knowledge/topics/cla|CLA]] | CLA |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM otázky: cena OR posloupnosti, cena reverzace posloupnosti, časová složitost součinu prvků posloupnosti.

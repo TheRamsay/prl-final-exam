@@ -40,6 +40,21 @@
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury|Propojovací síť]] | Propojovací síť |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Semafor P/V]] | Semafor P/V |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums|Eulerova cesta]] | Eulerova cesta |
+| 5 | [[knowledge/topics/distribuovane-algoritmy|Barodingův algoritmus]] | Barodingův algoritmus |
+| 6 | [[knowledge/topics/razeni-prefix|Prescan]] | Prescan |
+| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM Tipsport, 6 b: na výběr `const`, `log(n)`, `n`, `n*log(n)`, `n^2`, polynomiální. Pro EREW, CREW a CRCW určit:

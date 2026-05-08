@@ -39,6 +39,21 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|CRCW AND]] | CRCW AND |
+| 2 | [[knowledge/topics/architektury|MIMD / Xeon Phi]] | MIMD / Xeon Phi |
+| 3 | [[knowledge/topics/euler-tour-suffix-sums|Euler path + suffixsum]] | Euler path + suffixsum |
+| 4 | [[knowledge/topics/razeni-prefix|Pipeline sort]] | Pipeline sort |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync a kauzalita]] | Async -> sync a kauzalita |
+| 6 | [[knowledge/topics/distribuovane-algoritmy|FIFO algoritmy]] | FIFO algoritmy |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. Popsat algoritmus na CRCW pro AND a uvést příklad.

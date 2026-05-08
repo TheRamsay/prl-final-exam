@@ -67,13 +67,22 @@ Zadání: najít 3 možné redukce.
 
 ## Kde se to objevuje
 
-- [[knowledge/exams/2018-2019/term-1-radny-a]]
-- [[knowledge/exams/2018-2019/term-1-radny-b]]
-- [[knowledge/exams/2018-2019/term-1-radny-c]]
-- [[knowledge/exams/2022-2023/term-1-radny-b]]
-- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
-- [[knowledge/exams/2023-2024/term-1-radny-b]]
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2023-2024/term-2-prvni-opravny]]
+- [[knowledge/exams/2023-2024/term-1-radny-c]]
+- [[knowledge/exams/2023-2024/term-1-radny-b]]
+- [[knowledge/exams/2023-2024/term-1-radny-a]]
+- [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
+- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+- [[knowledge/exams/2022-2023/term-1-radny-c]]
+- [[knowledge/exams/2022-2023/term-1-radny-b]]
+- [[knowledge/exams/2022-2023/term-1-radny-a-zkratka]]
+- [[knowledge/exams/2022-2023/term-0-pretermin]]
+- [[knowledge/exams/2020-2021/term-2-prvni-opravny]]
+- [[knowledge/exams/2018-2019/term-1-radny-c]]
+- [[knowledge/exams/2018-2019/term-1-radny-b]]
+- [[knowledge/exams/2018-2019/term-1-radny-a]]
 
 ## Chyby
 

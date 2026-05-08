@@ -33,9 +33,25 @@
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO]]
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/euler-tour-suffix-sums|Euler]]
+- [[knowledge/topics/architektury|Redukční počítač]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost / koruna]]
 - [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
+
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO]] | FIFO |
+| 3 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler]] | Euler |
+| 5 | [[knowledge/topics/architektury|Redukční počítač]] | Redukční počítač |
+| 6 | [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost / koruna]] | Synchronizovatelnost / koruna |
+| 7 | [[knowledge/topics/mutual-exclusion|Test-and-set a swap]] | Test-and-set a swap |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
 
 ## Jednotné zadání
 

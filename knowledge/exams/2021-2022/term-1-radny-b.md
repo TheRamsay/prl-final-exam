@@ -39,6 +39,21 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|Vektorové procesory]] | Vektorové procesory |
+| 3 | [[knowledge/topics/parallel-splitting-select|Paralelní SELECT]] | Paralelní SELECT |
+| 4 | [[knowledge/topics/mutual-exclusion|Peterson]] | Peterson |
+| 5 | [[knowledge/topics/synchronizace-monitory-semafory|Synchronizace]] | Synchronizace |
+| 6 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM tipovačka.

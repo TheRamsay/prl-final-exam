@@ -8,7 +8,7 @@ Archiv je uspořádaný podle akademického roku. V rámci roku platí:
 - `druhy-opravny` = 2. opravný termín
 - suffix `a/b/c` = varianta nebo skupina
 
-Každý primární termínový soubor má jednotnou strukturu: metadata, stav verifikace, původní zdroje, student-doc reference, tématické odkazy, jednotné zadání a poznámky k nejistotám.
+Každý primární termínový soubor má jednotnou strukturu: metadata, stav verifikace, původní zdroje, student-doc reference, tématické odkazy, mapování otázek na témata, jednotné zadání a poznámky k nejistotám.
 
 ## Akademické roky
 

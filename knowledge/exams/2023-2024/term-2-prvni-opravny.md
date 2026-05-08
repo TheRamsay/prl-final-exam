@@ -38,6 +38,21 @@
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]] | FIFO broadcast a kauzalita |
+| 3 | [[knowledge/topics/mutual-exclusion|Test-and-set]] | Test-and-set |
+| 4 | [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]] | Čtyři čtenáři / detekce ukončení |
+| 5 | [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala / Lamportovy hodiny]] | Ricart-Agrawala / Lamportovy hodiny |
+| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
+| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM, 6 b: pro EREW, CREW, common CRCW určit cenu seřazení sekvence, cenu XOR a časovou složitost AND.

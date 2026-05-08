@@ -39,6 +39,21 @@
 - [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM sportka]] | PRAM sportka |
+| 2 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]] | FIFO broadcast a kauzalita |
+| 3 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums|Euler]] | Euler |
+| 5 | [[knowledge/topics/architektury|Redukční počítač]] | Redukční počítač |
+| 6 | [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost]] | Synchronizovatelnost |
+| 7 | [[knowledge/topics/mutual-exclusion|Test-and-set a swap]] | Test-and-set a swap |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. Tipování složitosti PRAM sportka.

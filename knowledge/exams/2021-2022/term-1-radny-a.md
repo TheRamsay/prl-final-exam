@@ -38,6 +38,20 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/mutual-exclusion|Test-and-set]] | Test-and-set |
+| 3 | [[knowledge/topics/euler-tour-suffix-sums|Suffix sums]] | Suffix sums |
+| 4 | [[knowledge/topics/razeni-prefix|Pipeline sort]] | Pipeline sort |
+| 5 | [[knowledge/topics/architektury|Zřetězené procesory]] | Zřetězené procesory |
+| 6 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 7 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM.

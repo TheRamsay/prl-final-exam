@@ -65,10 +65,12 @@ Zadání: Parallel splitting, ukázat na příkladu.
 
 ## Kde se to objevuje
 
-- [[knowledge/exams/2018-2019/term-1-radny-b]]
-- [[knowledge/exams/2021-2022/student-doc-digest]]
-- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+- [[knowledge/exams/2021-2022/term-1-radny-b]]
+- [[knowledge/exams/2018-2019/term-1-radny-b]]
 
 ## Chyby
 

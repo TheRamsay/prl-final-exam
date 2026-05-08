@@ -32,10 +32,26 @@
 - [[knowledge/topics/pram-tipovacka|PRAM]]
 - [[knowledge/topics/architektury|VLIW]]
 - [[knowledge/topics/synchronizace-monitory-semafory|Monitor a semafory]]
+- [[knowledge/topics/synchronizace-monitory-semafory|Pět filozofů]]
 - [[knowledge/topics/broadcast-fifo-kauzalita|FIFO/broadcast]]
 - [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
+
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|VLIW]] | VLIW |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor a semafory]] | Monitor a semafory |
+| 4 | [[knowledge/topics/synchronizace-monitory-semafory|Pět filozofů]] | Pět filozofů |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO/broadcast]] | FIFO/broadcast |
+| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
 
 ## Jednotné zadání
 

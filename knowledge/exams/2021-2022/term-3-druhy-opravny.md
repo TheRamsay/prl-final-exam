@@ -39,6 +39,21 @@
 - [[knowledge/topics/linda-ada|Linda]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|Dataflow]] | Dataflow |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Semafor]] | Semafor |
+| 4 | [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]] | FIFO broadcast |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] | Async -> sync |
+| 6 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
+| 7 | [[knowledge/topics/linda-ada|Linda]] | Linda |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM tipovačka.

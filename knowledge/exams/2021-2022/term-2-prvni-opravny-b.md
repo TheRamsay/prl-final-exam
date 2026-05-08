@@ -39,6 +39,21 @@
 - [[knowledge/topics/occam|OCCAM]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|Common CRCW AND]] | Common CRCW AND |
+| 2 | [[knowledge/topics/architektury|Xeon Phi]] | Xeon Phi |
+| 3 | [[knowledge/topics/razeni-prefix|Odd-even merge sort]] | Odd-even merge sort |
+| 4 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
+| 5 | [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]] | Async -> sync |
+| 6 | [[knowledge/topics/razeni-prefix|Enumeration Sort]] | Enumeration Sort |
+| 7 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. Udělat AND pro common CRCW. Popsat princip + příklad.

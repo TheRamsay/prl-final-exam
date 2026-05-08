@@ -40,6 +40,21 @@
 - [[knowledge/topics/pi-kalkul|Pi-kalkul]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM tipovačka]] | PRAM tipovačka |
+| 2 | [[knowledge/topics/architektury|Zřetězené procesory]] | Zřetězené procesory |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
+| 4 | [[knowledge/topics/euler-tour-suffix-sums|Suffix sums a level(v)]] | Suffix sums a level(v) |
+| 5 | [[knowledge/topics/distribuovane-algoritmy|Bagrodia/Bagródia Rendezvous algoritmus]] | Bagrodia/Bagródia Rendezvous algoritmus |
+| 6 | [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]] | Pipeline Merge Sort |
+| 7 | [[knowledge/topics/pi-kalkul|Pi-kalkul]] | Pi-kalkul |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM Tipsport: OR, zda je posloupnost monotónní, zda je v poli čísel nula.

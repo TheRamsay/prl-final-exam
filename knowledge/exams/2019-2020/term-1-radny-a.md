@@ -39,6 +39,21 @@
 - [[knowledge/topics/distribuovane-algoritmy|Random mating]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|VLIW]] | VLIW |
+| 3 | [[knowledge/topics/synchronizace-monitory-semafory|Monitor]] | Monitor |
+| 4 | [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]] | Broadcast |
+| 5 | [[knowledge/topics/occam|OCCAM]] | OCCAM |
+| 6 | [[knowledge/topics/euler-tour-suffix-sums|Etour + suffix]] | Etour + suffix |
+| 7 | [[knowledge/topics/distribuovane-algoritmy|Random mating]] | Random mating |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM tipovačka se třemi částmi: časová složitost EREW pro jeden algoritmus, cena CREW pro jiný algoritmus, časová složitost common CRCW pro další algoritmus.

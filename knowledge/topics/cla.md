@@ -70,12 +70,15 @@ Zadání: spočítat konkrétní součet pomocí CLA.
 
 ## Kde se to objevuje
 
-- [[knowledge/exams/2018-2019/term-1-radny-a]]
-- [[knowledge/exams/2018-2019/term-1-radny-b]]
-- [[knowledge/exams/2018-2019/term-1-radny-c]]
-- [[knowledge/exams/2020-2021/term-1-radny-zkratka]]
-- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2023-2024/term-0-pretermin]]
+- [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
+- [[knowledge/exams/2020-2021/term-1-radny-zkratka]]
+- [[knowledge/exams/2019-2020/term-2-prvni-opravny]]
+- [[knowledge/exams/2018-2019/term-1-radny-c]]
+- [[knowledge/exams/2018-2019/term-1-radny-b]]
+- [[knowledge/exams/2018-2019/term-1-radny-a]]
 
 ## Chyby
 

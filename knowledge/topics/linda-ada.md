@@ -70,10 +70,13 @@ Zadání: ADA, popsat a uvést konkrétní příkazy.
 
 ## Kde se to objevuje
 
-- [[knowledge/exams/2019-2020/term-1-radny-b]]
-- [[knowledge/exams/2020-2021/student-doc-digest]]
-- [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
+- [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
+- [[knowledge/exams/2020-2021/term-2-prvni-opravny]]
+- [[knowledge/exams/2019-2020/term-2-prvni-opravny]]
+- [[knowledge/exams/2019-2020/term-1-radny-b]]
 
 ## Chyby
 

@@ -130,12 +130,21 @@ Zadání: klasický producent-konzument.
 
 ## Kde se to objevuje
 
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]
-- [[knowledge/exams/2023-2024/student-doc-digest]]
-- [[knowledge/exams/2022-2023/student-doc-digest]]
-- [[knowledge/exams/2021-2022/student-doc-digest]]
-- [[knowledge/exams/2020-2021/student-doc-digest]]
-- [[knowledge/exams/2019-2020/student-doc-digest]]
+- [[knowledge/exams/2023-2024/term-1-radny-c]]
+- [[knowledge/exams/2023-2024/term-1-radny-b]]
+- [[knowledge/exams/2023-2024/term-1-radny-a]]
+- [[knowledge/exams/2022-2023/term-1-radny-c]]
+- [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
+- [[knowledge/exams/2021-2022/term-1-radny-c]]
+- [[knowledge/exams/2021-2022/term-1-radny-b]]
+- [[knowledge/exams/2020-2021/term-3-druhy-opravny]]
+- [[knowledge/exams/2020-2021/term-2-prvni-opravny]]
+- [[knowledge/exams/2019-2020/term-2-prvni-opravny]]
+- [[knowledge/exams/2019-2020/term-1-radny-b]]
+- [[knowledge/exams/2019-2020/term-1-radny-a]]
 
 ## Chyby
 

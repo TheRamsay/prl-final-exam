@@ -39,6 +39,21 @@
 - [[knowledge/topics/linda-ada|Linda]]
 - [[knowledge/topics/mpi-reduce-bcast|MPI]]
 
+## Mapování na témata
+
+Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
+
+| Otázka | Téma | Signál v zadání |
+|---:|---|---|
+| 1 | [[knowledge/topics/pram-tipovacka|PRAM]] | PRAM |
+| 2 | [[knowledge/topics/architektury|Xeon Phi]] | Xeon Phi |
+| 3 | [[knowledge/topics/razeni-prefix|Odd-even merge sort]] | Odd-even merge sort |
+| 4 | [[knowledge/topics/distribuovane-algoritmy|Marzullo]] | Marzullo |
+| 5 | [[knowledge/topics/cla|CLA]] | CLA |
+| 6 | [[knowledge/topics/synchronizace-monitory-semafory|Semafor]] | Semafor |
+| 7 | [[knowledge/topics/linda-ada|Linda]] | Linda |
+| 8 | [[knowledge/topics/mpi-reduce-bcast|MPI]] | MPI |
+
 ## Jednotné zadání
 
 1. PRAM jako na každém termínu.

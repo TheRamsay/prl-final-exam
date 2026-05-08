@@ -83,11 +83,15 @@ Zadání: Bounded test-and-set.
 
 ## Kde se to objevuje
 
-- [[knowledge/exams/2020-2021/term-1-radny-zkratka]]
-- [[knowledge/exams/2021-2022/term-1-radny-a]]
-- [[knowledge/exams/2022-2023/term-1-radny-a-zkratka]]
-- [[knowledge/exams/2022-2023/term-1-radny-b]]
+Podle sjednocených termínových souborů v archivu:
+
 - [[knowledge/exams/2023-2024/term-2-prvni-opravny]]
+- [[knowledge/exams/2022-2023/term-1-radny-b]]
+- [[knowledge/exams/2022-2023/term-1-radny-a-zkratka]]
+- [[knowledge/exams/2022-2023/term-0-pretermin]]
+- [[knowledge/exams/2021-2022/term-1-radny-b]]
+- [[knowledge/exams/2021-2022/term-1-radny-a]]
+- [[knowledge/exams/2020-2021/term-1-radny-zkratka]]
 
 ## Chyby
 
