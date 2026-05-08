@@ -1,12 +1,25 @@
 # MPI: Reduce a Bcast
 
+## Zkouškový pattern
+
+Každý proces má lokální hodnotu `value` a má se spočítat globální vlastnost v logaritmickém čase pomocí `MPI_Reduce` a případně `MPI_Bcast`. Často se řeší průměr, minimum, maximum, počet prvků splňujících podmínku nebo kombinace sudé/liché části.
+
 ## Co umět
 
 - V každém procesu je typicky `rank`, `numproc`, `value`.
-- `Reduce` umí agregovat na root: `SUM`, `MIN`, `MAX`, případně vlastní dvojice.
+- `Reduce` agreguje na root: `SUM`, `MIN`, `MAX`, případně vlastní dvojice.
 - `Bcast` pošle výsledek z root všem.
 - Když výsledek tiskne každý proces, root agreguje, broadcastne a každý si spočítá lokální výraz.
-- Když tiskne jen root, broadcast často není nutný, pokud root má vše potřebné.
+- Když tiskne jen root, broadcast často není nutný.
+
+## Minimální odpověď
+
+1. Urči, které globální hodnoty potřebuješ: `sum`, `avg`, `min`, `max`, počet.
+2. Spočítej je přes `MPI_Reduce`.
+3. Pokud je potřebují i neroot procesy, pošli je přes `MPI_Bcast`.
+4. Lokálně nastav `candidate`.
+5. Kandidáty agreguj druhým `MPI_Reduce`.
+6. Uveď `O(log p)` komunikačních kroků pro stromovou implementaci.
 
 ## Šablona pro průměr
 
@@ -48,10 +61,35 @@ printf("%d: %f\n", rank, out);
   - Lokální stav: `min1 = value`, `min2 = INF`.
   - Kombinace dvou stavů vezme dvě nejmenší různé hodnoty ze čtyř kandidátů.
 
+## Rozhodovací pravidlo
+
+| Zadání | Potřebuje `Bcast`? |
+|---|---|
+| Root má jen vypsat globální výsledek | většinou ne |
+| Každý proces má vypsat výraz závislý na globální hodnotě | ano |
+| Potřebuji vybrat lokální kandidáty podle globálního průměru/min/max | ano |
+| Dvě nezávislé globální hodnoty, vyhodnocuje root | ne, stačí dva `Reduce` |
+
 ## Složitost
 
 - Stromová implementace `Reduce` a `Bcast`: `O(log p)` komunikačních kroků.
 - Sekvenční lokální práce obvykle `O(1)`.
+
+## Mini-drill
+
+1. Napiš postup pro součet hodnot větších než průměr.
+2. Kdy je potřeba broadcastovat průměr?
+3. Jak bys řešil `max % min == 0` a na co si dát pozor?
+4. Jak reprezentovat stav pro druhé minimum?
+
+## Kde se to objevuje
+
+- [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+- [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2023-2024/student-doc-digest]]
+- [[knowledge/exams/2022-2023/student-doc-digest]]
+- [[knowledge/exams/2021-2022/student-doc-digest]]
+- [[knowledge/exams/2018-2019/student-doc-digest]]
 
 ## Chyby
 
@@ -59,4 +97,3 @@ printf("%d: %f\n", rank, out);
 - Integer division u průměru.
 - Nejasné, zda se druhé minimum počítá jako druhá různá hodnota nebo druhý prvek včetně duplicit.
 - Dělení nulou u `max % min`.
-

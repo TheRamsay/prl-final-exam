@@ -1,5 +1,9 @@
 # Monitory, semafory, čtenáři/písaři
 
+## Zkouškový pattern
+
+Zadání často chce krátkou definici `P/V`, monitoru, `wait/signal`, nebo klasický pseudokód pro readers-writers či producer-consumer. U monitoru se hodně kontroluje, jestli `wait` uvolní monitor.
+
 ## Semafor
 
 Operace:
@@ -16,12 +20,16 @@ V(S):
 
 `P` a `V` musí být atomické.
 
+Minimální odpověď: semafor je sdílený čítač s atomickými operacemi `P` a `V`; používá se k vyloučení nebo počítání dostupných zdrojů.
+
 ## Monitor
 
 Monitor zapouzdřuje sdílený stav a procedury. V monitoru je v jednom okamžiku aktivní nejvýše jeden proces. Podmínkové proměnné mají operace:
 
 - `wait(c)`: proces se zablokuje na podmínce a uvolní monitor.
 - `signal(c)`: probudí jeden proces čekající na podmínce.
+
+Minimální odpověď: monitor dává vzájemné vyloučení automaticky; podmínkové proměnné řeší čekání na stav uvnitř monitoru.
 
 ## Čtenáři/písaři s předností čtenářů
 
@@ -60,9 +68,34 @@ Standardní semafory:
 Producent: `P(empty), P(mutex), insert, V(mutex), V(full)`.
 Konzument: `P(full), P(mutex), remove, V(mutex), V(empty)`.
 
+## Monitor ze semaforů
+
+Když se ptají obecně, stačí popsat princip:
+
+- binární semafor chrání vstup do monitoru;
+- čekání na podmínce musí uvolnit monitor;
+- `signal` přesune/probudí čekající proces podle zvolené sémantiky;
+- je potřeba ošetřit frontu čekajících procesů.
+
+## Mini-drill
+
+1. Proč musí být `P` a `V` atomické?
+2. Co přesně udělá `wait(c)` v monitoru?
+3. Proč readers-writers s předností čtenářů může vyhladovět písaře?
+4. Jaké tři semafory stačí pro producer-consumer s bufferem velikosti `N`?
+
+## Kde se to objevuje
+
+- [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+- [[knowledge/exams/2023-2024/student-doc-digest]]
+- [[knowledge/exams/2022-2023/student-doc-digest]]
+- [[knowledge/exams/2021-2022/student-doc-digest]]
+- [[knowledge/exams/2020-2021/student-doc-digest]]
+- [[knowledge/exams/2019-2020/student-doc-digest]]
+
 ## Chyby
 
 - `wait` v monitoru musí uvolnit monitor.
 - `signal` není totéž co semaforové `V`.
 - U readers-writers s předností čtenářů může hladovět písař; pokud zadání říká neřešit hladovění, je to v pořádku.
-
+- U producer-consumer nezaměnit pořadí `empty/full`.

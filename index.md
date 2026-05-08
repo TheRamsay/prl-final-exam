@@ -13,6 +13,7 @@ Statická verze Obsidian-friendly báze pro přípravu na zkoušku z PRL.
 - [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
 - [[knowledge/exams/00-index|Minulé termíny]]
 - [[knowledge/02-cetnosti-temat|Četnosti témat]]
+- [[knowledge/topics/00-index|Topic index]]
 - [[knowledge/99-llm-index|LLM index]]
 
 ## Nejdůležitější témata

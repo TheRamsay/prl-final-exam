@@ -8,6 +8,7 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 - [[knowledge/01-roi-plan|ROI plán učení]]
 - [[knowledge/02-cetnosti-temat|Četnosti témat]]
 - [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
+- [[knowledge/topics/00-index|Topic index]]
 - [[knowledge/exams/00-index|Archiv minulých termínů]]
 - [[knowledge/exams/_verification/raw-vs-student-doc|Raw vs student doc]]
 
