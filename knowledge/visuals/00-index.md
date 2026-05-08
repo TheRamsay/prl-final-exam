@@ -9,6 +9,11 @@ Vizualizace a krokovací stránky pro algoritmy, kde se u zkoušky typicky kresl
 - [[knowledge/visuals/pipeline-merge-sort|Pipeline Merge Sort: procesory a tabulka taktů]]
 - [[knowledge/visuals/odd-even-network|Odd-even: compare-exchange síť]]
 
+## Euler tour, suffix sums
+
+- [[knowledge/visuals/euler-tour-etour|Euler tour: orientované hrany a Etour]]
+- [[knowledge/visuals/euler-level-preorder-scan|Euler tour: level a preorder přes scan]]
+
 ## Broadcast, FIFO, kauzalita
 
 - [[knowledge/visuals/fifo-broadcast-buffer|FIFO broadcast: sekvence a buffer]]

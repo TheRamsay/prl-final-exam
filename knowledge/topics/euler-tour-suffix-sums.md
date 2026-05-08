@@ -8,6 +8,11 @@ Zadání dá strom, adjacency list nebo tabulku hran a chce `Etour`, `level(v)`,
 
 Strom se převede na orientované hrany v Eulerově průchodu. Nad hranami se nastaví ohodnocení a použije se prefix/suffix suma. Podle volby ohodnocení z výsledku dostaneme vlastnosti vrcholů.
 
+## Vizualizace a drill stránky
+
+- [[knowledge/visuals/euler-tour-etour|Euler tour: orientované hrany a Etour]]
+- [[knowledge/visuals/euler-level-preorder-scan|Euler tour: level a preorder přes scan]]
+
 ## Typické výstupy
 
 - `preorder(v) -> N`
