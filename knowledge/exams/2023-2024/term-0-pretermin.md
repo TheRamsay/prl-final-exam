@@ -27,31 +27,20 @@
 
 - Textový zdroj: [[raw/term_0_2023]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/architektury|PRAM model]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler tour]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/distribuovane-algoritmy|Maekawa]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury]] | PRAM model |
-| 3 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzální broadcast |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour |
-| 5 | [[knowledge/topics/cla]] | CLA |
-| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Maekawa |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | PRAM model | [[knowledge/topics/architektury]] |
+| 3 | Kauzální broadcast | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 4 | Euler tour | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | CLA | [[knowledge/topics/cla]] |
+| 6 | Maekawa | [[knowledge/topics/distribuovane-algoritmy]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

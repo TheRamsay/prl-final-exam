@@ -27,31 +27,20 @@
 
 - Textový zdroj: [[raw/term_1_2020]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/mutual-exclusion|Test-and-set]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler/suffix]]
-- [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler strom/graf]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/mutual-exclusion]] | Test-and-set |
-| 3 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzalita |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler/suffix |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Ricart-Agrawala |
-| 6 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler strom/graf |
-| 7 | [[knowledge/topics/cla]] | CLA |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Test-and-set | [[knowledge/topics/mutual-exclusion]] |
+| 3 | Kauzalita | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 4 | Euler/suffix | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Ricart-Agrawala | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Euler strom/graf | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 7 | CLA | [[knowledge/topics/cla]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

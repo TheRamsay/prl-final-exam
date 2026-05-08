@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|Common CRCW AND]]
-- [[knowledge/topics/architektury|Xeon Phi]]
-- [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
-- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | Common CRCW AND |
-| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
-| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even merge sort |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Async -> sync |
-| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | Common CRCW AND | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Xeon Phi | [[knowledge/topics/architektury]] |
+| 3 | Odd-even merge sort | [[knowledge/topics/razeni-prefix]] |
+| 4 | Marzullo | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Async -> sync | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 6 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

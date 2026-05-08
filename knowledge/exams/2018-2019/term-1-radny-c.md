@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Zřetězené procesory]]
-- [[knowledge/topics/razeni-prefix|Odd-even merge]]
-- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/razeni-prefix|Prescan]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even merge |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
-| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
-| 7 | [[knowledge/topics/cla]] | CLA |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Zřetězené procesory | [[knowledge/topics/architektury]] |
+| 3 | Odd-even merge | [[knowledge/topics/razeni-prefix]] |
+| 4 | Marzullo | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 6 | Prescan | [[knowledge/topics/razeni-prefix]] |
+| 7 | CLA | [[knowledge/topics/cla]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Xeon Phi]]
-- [[knowledge/topics/mutual-exclusion|Bounded test-and-set]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
-- [[knowledge/topics/distribuovane-algoritmy|Kvórum]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
-| 3 | [[knowledge/topics/mutual-exclusion]] | Bounded test-and-set |
-| 4 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
-| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
-| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Kvórum |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Xeon Phi | [[knowledge/topics/architektury]] |
+| 3 | Bounded test-and-set | [[knowledge/topics/mutual-exclusion]] |
+| 4 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
+| 5 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 6 | Marzullo | [[knowledge/topics/distribuovane-algoritmy]] |
+| 7 | Kvórum | [[knowledge/topics/distribuovane-algoritmy]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

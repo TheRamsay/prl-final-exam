@@ -27,31 +27,20 @@
 
 - Textový zdroj: [[raw/term_2_2022]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/razeni-prefix|Odd-even transposition sort]]
-- [[knowledge/topics/parallel-splitting-select|Parallel SELECT]]
-- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/distribuovane-algoritmy|Čtyři čítači]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/razeni-prefix]] | Odd-even transposition sort |
-| 3 | [[knowledge/topics/parallel-splitting-select]] | Parallel SELECT |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
-| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/cla]] | CLA |
-| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čítači |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Odd-even transposition sort | [[knowledge/topics/razeni-prefix]] |
+| 3 | Parallel SELECT | [[knowledge/topics/parallel-splitting-select]] |
+| 4 | Marzullo | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 6 | CLA | [[knowledge/topics/cla]] |
+| 7 | Čtyři čítači | [[knowledge/topics/distribuovane-algoritmy]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

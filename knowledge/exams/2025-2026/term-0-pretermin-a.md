@@ -29,31 +29,20 @@
 - Obrázky: [[raw/term_0_2026_img1.webp]], [[raw/term_0_2026_img2.webp]], [[raw/term_0_2026_img3.webp]], [[raw/term_0_2026_img4.webp]]
 - Kopie obrázků ve vaultu: ![[knowledge/assets/term_0_2026_img1.webp]] ![[knowledge/assets/term_0_2026_img2.webp]] ![[knowledge/assets/term_0_2026_img3.webp]] ![[knowledge/assets/term_0_2026_img4.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzální broadcast a relace kauzality]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Monitor, wait, signal]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler tour, suffix sums, level(v)]]
-- [[knowledge/topics/distribuovane-algoritmy|Distribuovaná volba lídra po výpadcích]]
-- [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI Reduce/Bcast]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzální broadcast a relace kauzality |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor, wait, signal |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour, suffix sums, level(v) |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Distribuovaná volba lídra po výpadcích |
-| 6 | [[knowledge/topics/razeni-prefix]] | Pipeline Merge Sort |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI Reduce/Bcast |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Kauzální broadcast a relace kauzality | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 3 | Monitor, wait, signal | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Euler tour, suffix sums, level(v) | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Distribuovaná volba lídra po výpadcích | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Pipeline Merge Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI Reduce/Bcast | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

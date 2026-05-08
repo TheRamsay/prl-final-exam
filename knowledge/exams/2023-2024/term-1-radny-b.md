@@ -29,31 +29,20 @@
 - Obrázek k Enumeration Sortu: [[raw/term_1_2023_a_img2.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2023_a_img2.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/architektury|VLIW]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Čtenáři/písaři]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler tour a preorder]]
-- [[knowledge/topics/distribuovane-algoritmy|Rendezvous]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury]] | VLIW |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Čtenáři/písaři |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour a preorder |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Rendezvous |
-| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
-| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | VLIW | [[knowledge/topics/architektury]] |
+| 3 | Čtenáři/písaři | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Euler tour a preorder | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Rendezvous | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

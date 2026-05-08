@@ -28,31 +28,20 @@
 - Obrázek: [[raw/term_1_2021_b_img.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2021_b_img.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Vektorové procesory]]
-- [[knowledge/topics/parallel-splitting-select|Paralelní SELECT]]
-- [[knowledge/topics/mutual-exclusion|Peterson]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Synchronizace]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Vektorové procesory |
-| 3 | [[knowledge/topics/parallel-splitting-select]] | Paralelní SELECT |
-| 4 | [[knowledge/topics/mutual-exclusion]] | Peterson |
-| 5 | [[knowledge/topics/synchronizace-monitory-semafory]] | Synchronizace |
-| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Vektorové procesory | [[knowledge/topics/architektury]] |
+| 3 | Paralelní SELECT | [[knowledge/topics/parallel-splitting-select]] |
+| 4 | Peterson | [[knowledge/topics/mutual-exclusion]] |
+| 5 | Synchronizace | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 6 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

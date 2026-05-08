@@ -29,31 +29,20 @@
 - Obrázek: [[raw/term_1_2023_c_img1.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2023_c_img1.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/architektury|Propojovací síť]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Semafor P/V]]
-- [[knowledge/topics/euler-tour-suffix-sums|Eulerova cesta]]
-- [[knowledge/topics/distribuovane-algoritmy|Barodingův algoritmus]]
-- [[knowledge/topics/razeni-prefix|Prescan]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury]] | Propojovací síť |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafor P/V |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Eulerova cesta |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Barodingův algoritmus |
-| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
-| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Propojovací síť | [[knowledge/topics/architektury]] |
+| 3 | Semafor P/V | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Eulerova cesta | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Barodingův algoritmus | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Prescan | [[knowledge/topics/razeni-prefix]] |
+| 7 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

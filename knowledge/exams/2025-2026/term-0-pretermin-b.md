@@ -26,21 +26,15 @@
 
 - Textový zdroj: [[raw/term_0_2026_b]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]]
-- [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast |
-| 2 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čtenáři / detekce ukončení |
-| 3 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
+| 1 | FIFO broadcast | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 2 | Čtyři čtenáři / detekce ukončení | [[knowledge/topics/distribuovane-algoritmy]] |
+| 3 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
 
 ## Jednotné zadání
 

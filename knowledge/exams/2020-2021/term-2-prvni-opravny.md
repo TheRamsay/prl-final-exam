@@ -27,31 +27,20 @@
 
 - Textový zdroj: [[raw/term_2_2020]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|PRAM architektura]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
-- [[knowledge/topics/distribuovane-algoritmy|Suzuki]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
-- [[knowledge/topics/linda-ada|Linda]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | PRAM architektura |
-| 3 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Suzuki |
-| 6 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
-| 7 | [[knowledge/topics/linda-ada]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | PRAM architektura | [[knowledge/topics/architektury]] |
+| 3 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 4 | Random mating | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Suzuki | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Monitor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 7 | Linda | [[knowledge/topics/linda-ada]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Kauzalita]]
-- [[knowledge/topics/pram-tipovacka|PRAM architektura]]
-- [[knowledge/topics/linda-ada|ADA]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/razeni-prefix|Upsweep/down-sweep]]
-- [[knowledge/topics/distribuovane-algoritmy|Čtyři čítače]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Kauzalita |
-| 3 | [[knowledge/topics/pram-tipovacka]] | PRAM architektura |
-| 4 | [[knowledge/topics/linda-ada]] | ADA |
-| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/razeni-prefix]] | Upsweep/down-sweep |
-| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čítače |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Kauzalita | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 3 | PRAM architektura | [[knowledge/topics/pram-tipovacka]] |
+| 4 | ADA | [[knowledge/topics/linda-ada]] |
+| 5 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 6 | Upsweep/down-sweep | [[knowledge/topics/razeni-prefix]] |
+| 7 | Čtyři čítače | [[knowledge/topics/distribuovane-algoritmy]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

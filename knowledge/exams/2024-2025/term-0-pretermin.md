@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM Tipsport]]
-- [[knowledge/topics/architektury|Zřetězení]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Koruna a synchronizovatelnost]]
-- [[knowledge/topics/parallel-splitting-select|Parallel splitting]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler tour]]
-- [[knowledge/topics/razeni-prefix|Enumeration Sort]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM Tipsport |
-| 2 | [[knowledge/topics/architektury]] | Zřetězení |
-| 3 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Koruna a synchronizovatelnost |
-| 4 | [[knowledge/topics/parallel-splitting-select]] | Parallel splitting |
-| 5 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler tour |
-| 6 | [[knowledge/topics/razeni-prefix]] | Enumeration Sort |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM Tipsport | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Zřetězení | [[knowledge/topics/architektury]] |
+| 3 | Koruna a synchronizovatelnost | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 4 | Parallel splitting | [[knowledge/topics/parallel-splitting-select]] |
+| 5 | Euler tour | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 6 | Enumeration Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

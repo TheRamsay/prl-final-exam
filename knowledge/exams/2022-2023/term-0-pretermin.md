@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM sportka]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler]]
-- [[knowledge/topics/architektury|Redukční počítač]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Synchronizovatelnost]]
-- [[knowledge/topics/mutual-exclusion|Test-and-set a swap]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM sportka |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast a kauzalita |
-| 3 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler |
-| 5 | [[knowledge/topics/architektury]] | Redukční počítač |
-| 6 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Synchronizovatelnost |
-| 7 | [[knowledge/topics/mutual-exclusion]] | Test-and-set a swap |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM sportka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | FIFO broadcast a kauzalita | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 3 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 4 | Euler | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Redukční počítač | [[knowledge/topics/architektury]] |
+| 6 | Synchronizovatelnost | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 7 | Test-and-set a swap | [[knowledge/topics/mutual-exclusion]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Xeon Phi]]
-- [[knowledge/topics/razeni-prefix|Odd-even merge sort]]
-- [[knowledge/topics/distribuovane-algoritmy|Marzullo]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Semafor]]
-- [[knowledge/topics/linda-ada|Linda]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
-| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even merge sort |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Marzullo |
-| 5 | [[knowledge/topics/cla]] | CLA |
-| 6 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafor |
-| 7 | [[knowledge/topics/linda-ada]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Xeon Phi | [[knowledge/topics/architektury]] |
+| 3 | Odd-even merge sort | [[knowledge/topics/razeni-prefix]] |
+| 4 | Marzullo | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | CLA | [[knowledge/topics/cla]] |
+| 6 | Semafor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 7 | Linda | [[knowledge/topics/linda-ada]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

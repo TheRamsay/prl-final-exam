@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Granularita paralelismu]]
-- [[knowledge/topics/razeni-prefix|Odd-even transposition sort]]
-- [[knowledge/topics/distribuovane-algoritmy|Maekawa]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/euler-tour-suffix-sums|Eulerův tah]]
-- [[knowledge/topics/cla|CLA]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Granularita paralelismu |
-| 3 | [[knowledge/topics/razeni-prefix]] | Odd-even transposition sort |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Maekawa |
-| 5 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 6 | [[knowledge/topics/euler-tour-suffix-sums]] | Eulerův tah |
-| 7 | [[knowledge/topics/cla]] | CLA |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Granularita paralelismu | [[knowledge/topics/architektury]] |
+| 3 | Odd-even transposition sort | [[knowledge/topics/razeni-prefix]] |
+| 4 | Maekawa | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 6 | Eulerův tah | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 7 | CLA | [[knowledge/topics/cla]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

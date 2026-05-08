@@ -44,24 +44,24 @@ Zdroj: `raw/common_latest.md` a `raw/common_16-22.md`.
 
 ## Kontrola proti sjednoceným termínům
 
-Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 30 samostatných termínových souborů. Následující čísla nejsou náhrada ručních četností výše; jsou to počty odkazů na topic poznámky v aktuální knowledge bázi. Slouží jako sanity check, že ROI plán odpovídá i tomu, co je skutečně prolinkované v termínech.
+Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 30 samostatných termínových souborů. Následující čísla nejsou náhrada ručních četností výše; jsou to počty topic odkazů v tabulkách `Mapování na témata`. Slouží jako sanity check, že ROI plán odpovídá i tomu, co je skutečně prolinkované v termínech.
 
-| Téma | Odkazy v termínech |
+| Téma | Mapovací odkazy v termínech |
 |---|---:|
-| [[knowledge/topics/pram-tipovacka]] | 60 |
-| [[knowledge/topics/distribuovane-algoritmy]] | 58 |
-| [[knowledge/topics/mpi-reduce-bcast]] | 56 |
-| [[knowledge/topics/architektury]] | 44 |
-| [[knowledge/topics/razeni-prefix]] | 40 |
-| [[knowledge/topics/broadcast-fifo-kauzalita]] | 38 |
-| [[knowledge/topics/euler-tour-suffix-sums]] | 34 |
-| [[knowledge/topics/pi-kalkul]] | 28 |
-| [[knowledge/topics/synchronizace-monitory-semafory]] | 28 |
-| [[knowledge/topics/occam]] | 20 |
-| [[knowledge/topics/cla]] | 14 |
-| [[knowledge/topics/mutual-exclusion]] | 14 |
-| [[knowledge/topics/linda-ada]] | 10 |
-| [[knowledge/topics/parallel-splitting-select]] | 8 |
+| [[knowledge/topics/pram-tipovacka]] | 30 |
+| [[knowledge/topics/distribuovane-algoritmy]] | 29 |
+| [[knowledge/topics/mpi-reduce-bcast]] | 28 |
+| [[knowledge/topics/architektury]] | 22 |
+| [[knowledge/topics/razeni-prefix]] | 20 |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | 19 |
+| [[knowledge/topics/euler-tour-suffix-sums]] | 17 |
+| [[knowledge/topics/pi-kalkul]] | 14 |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | 14 |
+| [[knowledge/topics/occam]] | 10 |
+| [[knowledge/topics/cla]] | 7 |
+| [[knowledge/topics/mutual-exclusion]] | 7 |
+| [[knowledge/topics/linda-ada]] | 5 |
+| [[knowledge/topics/parallel-splitting-select]] | 4 |
 
 ## Praktický závěr
 

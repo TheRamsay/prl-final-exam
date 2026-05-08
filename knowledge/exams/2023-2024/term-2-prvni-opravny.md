@@ -27,31 +27,20 @@
 
 - Textový zdroj: [[raw/term_2_2023]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast a kauzalita]]
-- [[knowledge/topics/mutual-exclusion|Test-and-set]]
-- [[knowledge/topics/distribuovane-algoritmy|Čtyři čtenáři / detekce ukončení]]
-- [[knowledge/topics/distribuovane-algoritmy|Ricart-Agrawala / Lamportovy hodiny]]
-- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast a kauzalita |
-| 3 | [[knowledge/topics/mutual-exclusion]] | Test-and-set |
-| 4 | [[knowledge/topics/distribuovane-algoritmy]] | Čtyři čtenáři / detekce ukončení |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Ricart-Agrawala / Lamportovy hodiny |
-| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
-| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | FIFO broadcast a kauzalita | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 3 | Test-and-set | [[knowledge/topics/mutual-exclusion]] |
+| 4 | Čtyři čtenáři / detekce ukončení | [[knowledge/topics/distribuovane-algoritmy]] |
+| 5 | Ricart-Agrawala / Lamportovy hodiny | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Random mating | [[knowledge/topics/distribuovane-algoritmy]] |
+| 7 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

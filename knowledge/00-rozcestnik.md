@@ -36,7 +36,7 @@ Obsidian-friendly báze pro přípravu na zkoušku z PRL. Materiály vycházejí
 ## Jak to používat
 
 - Každé téma má sekce: co umět, typické zadání, šablona odpovědi, chyby.
-- Každý termín má jednotný formát, tematické odkazy a tabulku mapování otázek na témata.
+- Každý termín má jednotný formát a tabulku mapování otázek na témata.
 - Oficiální PDF slidy jsou extrahované v [[knowledge/sources/slides/00-index|sources/slides]] a slouží hlavně k ověření definic, algoritmů a složitostí.
 - Obrázky z `raw/*.webp` jsou zkopírované v `assets/`.
 - `raw/student_doc.md` je zatím vedený jako zdroj a index, protože obsahuje velké vložené base64 obrázky.

@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Zřetězené procesory]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Producent-konzument]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler + suffix sum]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]]
-- [[knowledge/topics/razeni-prefix|Prescan]]
-- [[knowledge/topics/linda-ada|Linda]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Producent-konzument |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler + suffix sum |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Broadcast |
-| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
-| 7 | [[knowledge/topics/linda-ada]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Zřetězené procesory | [[knowledge/topics/architektury]] |
+| 3 | Producent-konzument | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Euler + suffix sum | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Broadcast | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 6 | Prescan | [[knowledge/topics/razeni-prefix]] |
+| 7 | Linda | [[knowledge/topics/linda-ada]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

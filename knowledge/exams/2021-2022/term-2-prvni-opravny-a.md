@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|CRCW AND]]
-- [[knowledge/topics/architektury|MIMD / Xeon Phi]]
-- [[knowledge/topics/euler-tour-suffix-sums|Euler path + suffixsum]]
-- [[knowledge/topics/razeni-prefix|Pipeline sort]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync a kauzalita]]
-- [[knowledge/topics/distribuovane-algoritmy|FIFO algoritmy]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | CRCW AND |
-| 2 | [[knowledge/topics/architektury]] | MIMD / Xeon Phi |
-| 3 | [[knowledge/topics/euler-tour-suffix-sums]] | Euler path + suffixsum |
-| 4 | [[knowledge/topics/razeni-prefix]] | Pipeline sort |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Async -> sync a kauzalita |
-| 6 | [[knowledge/topics/distribuovane-algoritmy]] | FIFO algoritmy |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | CRCW AND | [[knowledge/topics/pram-tipovacka]] |
+| 2 | MIMD / Xeon Phi | [[knowledge/topics/architektury]] |
+| 3 | Euler path + suffixsum | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 4 | Pipeline sort | [[knowledge/topics/razeni-prefix]] |
+| 5 | Async -> sync a kauzalita | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 6 | FIFO algoritmy | [[knowledge/topics/distribuovane-algoritmy]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

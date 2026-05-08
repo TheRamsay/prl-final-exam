@@ -28,31 +28,20 @@
 - Obrázek: [[raw/term_1_2021_c_img.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2021_c_img.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM / Tipsport]]
-- [[knowledge/topics/architektury|Xeon Phi]]
-- [[knowledge/topics/euler-tour-suffix-sums|Etour + suffixsum]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Asynchronní/synchronní signály]]
-- [[knowledge/topics/razeni-prefix|Prescan]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM / Tipsport |
-| 2 | [[knowledge/topics/architektury]] | Xeon Phi |
-| 3 | [[knowledge/topics/euler-tour-suffix-sums]] | Etour + suffixsum |
-| 4 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Asynchronní/synchronní signály |
-| 6 | [[knowledge/topics/razeni-prefix]] | Prescan |
-| 7 | [[knowledge/topics/occam]] | OCCAM |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM / Tipsport | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Xeon Phi | [[knowledge/topics/architektury]] |
+| 3 | Etour + suffixsum | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 4 | Monitor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 5 | Asynchronní/synchronní signály | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 6 | Prescan | [[knowledge/topics/razeni-prefix]] |
+| 7 | OCCAM | [[knowledge/topics/occam]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

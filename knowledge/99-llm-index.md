@@ -74,7 +74,7 @@ rg -n "PRAM|CRCW|EREW" knowledge raw
 rg -n "MPI|Reduce|Bcast" knowledge/exams knowledge/topics
 rg -n "\\[\\[knowledge/topics/pram-tipovacka" knowledge/exams
 rg -n "\\[\\[knowledge/topics/mpi-reduce-bcast" knowledge/exams
-rg -n "Termínový label|Jednotné zadání|Tématické odkazy" knowledge/exams
+rg -n "Termínový label|Jednotné zadání|Mapování na témata" knowledge/exams
 rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|shoda" knowledge/exams knowledge/exams/_verification
 ```
 

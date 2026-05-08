@@ -29,31 +29,20 @@
 - Obrázek: [[raw/term_1_2023_a_img1.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2023_a_img1.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM tipovačka]]
-- [[knowledge/topics/architektury|Zřetězené procesory]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
-- [[knowledge/topics/euler-tour-suffix-sums|Suffix sums a level(v)]]
-- [[knowledge/topics/distribuovane-algoritmy|Bagrodia/Bagródia Rendezvous algoritmus]]
-- [[knowledge/topics/razeni-prefix|Pipeline Merge Sort]]
-- [[knowledge/topics/pi-kalkul|Pi-kalkul]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM tipovačka |
-| 2 | [[knowledge/topics/architektury]] | Zřetězené procesory |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
-| 4 | [[knowledge/topics/euler-tour-suffix-sums]] | Suffix sums a level(v) |
-| 5 | [[knowledge/topics/distribuovane-algoritmy]] | Bagrodia/Bagródia Rendezvous algoritmus |
-| 6 | [[knowledge/topics/razeni-prefix]] | Pipeline Merge Sort |
-| 7 | [[knowledge/topics/pi-kalkul]] | Pi-kalkul |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM tipovačka | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Zřetězené procesory | [[knowledge/topics/architektury]] |
+| 3 | Monitor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Suffix sums a level(v) | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 5 | Bagrodia/Bagródia Rendezvous algoritmus | [[knowledge/topics/distribuovane-algoritmy]] |
+| 6 | Pipeline Merge Sort | [[knowledge/topics/razeni-prefix]] |
+| 7 | Pi-kalkul | [[knowledge/topics/pi-kalkul]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

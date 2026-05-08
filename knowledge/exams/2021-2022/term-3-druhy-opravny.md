@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|Dataflow]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Semafor]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|FIFO broadcast]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Async -> sync]]
-- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
-- [[knowledge/topics/linda-ada|Linda]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | Dataflow |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Semafor |
-| 4 | [[knowledge/topics/broadcast-fifo-kauzalita]] | FIFO broadcast |
-| 5 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Async -> sync |
-| 6 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
-| 7 | [[knowledge/topics/linda-ada]] | Linda |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Dataflow | [[knowledge/topics/architektury]] |
+| 3 | Semafor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | FIFO broadcast | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 5 | Async -> sync | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 6 | Random mating | [[knowledge/topics/distribuovane-algoritmy]] |
+| 7 | Linda | [[knowledge/topics/linda-ada]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

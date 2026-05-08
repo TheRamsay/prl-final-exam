@@ -28,31 +28,20 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/architektury|VLIW]]
-- [[knowledge/topics/synchronizace-monitory-semafory|Monitor]]
-- [[knowledge/topics/broadcast-fifo-kauzalita|Broadcast]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/euler-tour-suffix-sums|Etour + suffix]]
-- [[knowledge/topics/distribuovane-algoritmy|Random mating]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/architektury]] | VLIW |
-| 3 | [[knowledge/topics/synchronizace-monitory-semafory]] | Monitor |
-| 4 | [[knowledge/topics/broadcast-fifo-kauzalita]] | Broadcast |
-| 5 | [[knowledge/topics/occam]] | OCCAM |
-| 6 | [[knowledge/topics/euler-tour-suffix-sums]] | Etour + suffix |
-| 7 | [[knowledge/topics/distribuovane-algoritmy]] | Random mating |
-| 8 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | VLIW | [[knowledge/topics/architektury]] |
+| 3 | Monitor | [[knowledge/topics/synchronizace-monitory-semafory]] |
+| 4 | Broadcast | [[knowledge/topics/broadcast-fifo-kauzalita]] |
+| 5 | OCCAM | [[knowledge/topics/occam]] |
+| 6 | Etour + suffix | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 7 | Random mating | [[knowledge/topics/distribuovane-algoritmy]] |
+| 8 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 

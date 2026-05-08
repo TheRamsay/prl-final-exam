@@ -28,10 +28,6 @@
 - Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[knowledge/sources/student-doc/clean]]
 
-## Tématické odkazy
-
-- Starší externí dokument zatím není importovaný.
-
 ## Mapování na témata
 
 Mapování není dostupné, protože ve zdrojích není přepis konkrétního zadání.

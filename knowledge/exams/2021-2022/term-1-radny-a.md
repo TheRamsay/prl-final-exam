@@ -28,29 +28,19 @@
 - Obrázek: [[raw/term_1_2021_a_img.webp]]
 - Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2021_a_img.webp]]
 
-## Tématické odkazy
-
-- [[knowledge/topics/pram-tipovacka|PRAM]]
-- [[knowledge/topics/mutual-exclusion|Test-and-set]]
-- [[knowledge/topics/euler-tour-suffix-sums|Suffix sums]]
-- [[knowledge/topics/razeni-prefix|Pipeline sort]]
-- [[knowledge/topics/architektury|Zřetězené procesory]]
-- [[knowledge/topics/occam|OCCAM]]
-- [[knowledge/topics/mpi-reduce-bcast|MPI]]
-
 ## Mapování na témata
 
 Pořadí odpovídá pořadí bodů v jednotném zadání; u zkrácených zadání je mapování orientační.
 
-| Otázka | Téma | Signál v zadání |
+| Otázka | Signál v zadání | Topic |
 |---:|---|---|
-| 1 | [[knowledge/topics/pram-tipovacka]] | PRAM |
-| 2 | [[knowledge/topics/mutual-exclusion]] | Test-and-set |
-| 3 | [[knowledge/topics/euler-tour-suffix-sums]] | Suffix sums |
-| 4 | [[knowledge/topics/razeni-prefix]] | Pipeline sort |
-| 5 | [[knowledge/topics/architektury]] | Zřetězené procesory |
-| 6 | [[knowledge/topics/occam]] | OCCAM |
-| 7 | [[knowledge/topics/mpi-reduce-bcast]] | MPI |
+| 1 | PRAM | [[knowledge/topics/pram-tipovacka]] |
+| 2 | Test-and-set | [[knowledge/topics/mutual-exclusion]] |
+| 3 | Suffix sums | [[knowledge/topics/euler-tour-suffix-sums]] |
+| 4 | Pipeline sort | [[knowledge/topics/razeni-prefix]] |
+| 5 | Zřetězené procesory | [[knowledge/topics/architektury]] |
+| 6 | OCCAM | [[knowledge/topics/occam]] |
+| 7 | MPI | [[knowledge/topics/mpi-reduce-bcast]] |
 
 ## Jednotné zadání
 
