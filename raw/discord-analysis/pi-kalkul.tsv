@@ -1,0 +1,272 @@
+year	timestamp	author	kind	content
+2020	2020-06-01T06:42:34.058+00:00	.qbasty	general	Neví někdo kde (ve které přednášce) se nachází Pi-kalkul? Nikde jsem to neviděl ale bylo to minulý rok na semestrálce.
+2020	2020-06-04T15:32:43.986+00:00	lgtm	general	Suzuki, Pi kalkul, a take
+2020	2020-06-04T15:33:08.96+00:00	brum_barnum	general	A teraz je pi kalkul niekde? (V nových)
+2020	2020-06-04T15:43:43.286+00:00	lgtm	general	Ten pi kalkul na skuske bola picovina
+2020	2020-06-05T07:49:07.056+00:00	zazdam	resource	> A teraz je pi kalkul niekde? (V nových) @Brum včera pridal do súborov prednášku PDA10Modely_slidy.pdf a na wiki je ešte toto: https://wis.fit.vutbr.cz/FIT/st/cwk.php.cs?title=Texty&csid=695145&id=13467
+2020	2020-06-05T11:44:15.318+00:00	mitches_	general	nemate někdo spočítany ten příklad na PI-kalkul z minuleho roku?
+2020	2020-06-05T11:47:04.305+00:00	lgtm	general	Pi kalkul otazka dopadla uplne hrozne
+2020	2020-06-05T13:23:06.683+00:00	kioleto	resource	Neviete, ci v tych dostupnych videozaznamoch je Pi-Kalkul, pripadnej v ktorej prednaske z nich?
+2020	2020-06-05T15:01:51.696+00:00	dominikharmim	general	@Mitches Tohle je mimochodem ten PI-calculus. Jsou to body zdarma, když pochopíš, jak ten calulus funguje.
+2020	2020-06-05T15:34:21.859+00:00	c_alva_d.osb_ea_u	resource	myslíte že tam letos pi kalkul bude? v slajdech k tomu nic neni jestli jsem hledal dobře :mikeWTF: (ctrl+f "pi kal" "pi cal" "pi-cal")
+2020	2020-06-05T15:44:57.835+00:00	zazdam	resource	> myslíte že tam letos pi kalkul bude? v slajdech k tomu nic neni jestli jsem hledal dobře :mikeWTF: (ctrl+f "pi kal" "pi cal" "pi-cal") @c_alva_d.osb_ea_u https://wis.fit.vutbr.cz/FIT/st/cfs.php.cs?file=%2Fcourse%2FPRL-IT%2Flectures%2FPDA10Modely_slidy.pdf&cid=13467 včera pridané do dokumentov
+2020	2020-06-06T20:41:11.143+00:00	whirduster	general	> @Mitches Tohle je mimochodem ten PI-calculus. Jsou to body zdarma, když pochopíš, jak ten calulus funguje. @Dominik Harmim Jak se prosím tě určujou ty pozorování? Je to prostě šipka dolů pro každou "komunikaci"? Kde se ti v tom druhém řádku vzalo v těch komunikacích to `c`? :thonk:
+2020	2020-06-08T04:43:28.183+00:00	peeth	resource	Pi calculus vysvetlený naozaj pochopitelne, keby ste niekto tomu stále nechápali. https://www.doc.ic.ac.uk/~yoshida/slides/lectures/NY_PI_15_16.pdf
+2020	2020-06-08T23:47:55.103+00:00	dominikharmim	general	Zbořil nám to chtěl ulehčit, tak tam místo PI-kalkulu, který prý minulý rok dopadl hrozně, dal OCCAM a Lindu. Ale tento krok nikdo nečekal 😀.
+2021	2021-05-03T20:01:30.783+00:00	yuminone	resource	až někdo bude chtít nějáký dobrý video kde vysvětluje Pi calculus https://www.youtube.com/watch?v=NTJBMbTIJis
+2021	2021-05-07T17:40:17.079+00:00	ankimme	general	pi kalkul je skip?
+2021	2021-05-07T17:41:55.076+00:00	betsst	general	minuly rok dal pi kalkul na jednom termine v haskelli
+2021	2021-05-07T17:47:33.093+00:00	peter8888	general	chvilu som rozmyslal ze ci aj tu bol pi kalkul :PepeLa:
+2021	2021-05-07T17:48:49.309+00:00	tomas238	general	sak pi kalkul je z PRL
+2021	2021-05-07T17:55:28.071+00:00	ankimme	general	jop myslel jsem pi kalkul z prl, vypadá to jako mnohem větší cancer než lambda :PepeLa:
+2021	2021-05-07T17:57:15.221+00:00	ankimme	reduction,resource	v docu z uloz.to se vyskytuje tohle: Pi kalkul - redukovat vyraz a napisat pozorovania
+2021	2021-05-07T17:57:44.29+00:00	yuminone	general	Jako podle mě jsou tu vetší bobky než pi kalkul :HAhaaVUT: hlavně některý ty algoritmy (jestli se má cenu je učit všechny nebo jenom ty co už někdy byli)
+2021	2021-05-07T17:59:03.21+00:00	yuminone	resource	Já si stejně myslím že tam dá klasiku PRAM, MPI, pi kalkul a pak to je jinej random spíš se bojím že tam dá to co přidal do posledního slajdu tento rok
+2021	2021-05-08T17:33:43.625+00:00	tomas238	general	nechapem naco robi ten pi-kalkul
+2021	2021-05-08T21:15:14.059+00:00	dify	general	a pi kalkul taky :VUTrtzW:
+2021	2021-05-09T15:17:39.171+00:00	jakubman	resource	<https://www.youtube.com/watch?v=NTJBMbTIJis> Na pi kalkul je dobré tohle video.. Na to, co bylo na semestrálce, stačí první půl hodiny...
+2021	2021-05-09T16:10:05.139+00:00	eitary	general	o čem je sakra ten pi-kalkul
+2021	2021-05-09T16:15:18.823+00:00	sevin556	reduction,resource	ako funguje to pozorovanie pri pi kalkule? zo slajdov som hovno pochopil :PepeHands:
+2021	2021-05-09T16:22:36.39+00:00	tomas238	reduction	v pi kalkule sa robia tie redukcie takto: procesy su oddelene pomocou |, ak najdes x<n> (s ciarkou nad x) na zaciatku procesu a x(y) na zaciatku ineho procesu, napr P, tak mozes oba zmazat a v P prepises y na n
+2021	2021-05-09T16:35:55.171+00:00	dify	reduction	well, musíš znát ty znaky z pi kalkulu :VUTrtzW: hlavně on tam chce redukce v průběhu :haHHAA: to je horší se nesplést
+2021	2021-05-09T16:37:42.222+00:00	rockstar1337	general	Stream na pi kalkul gde? :PU_peepoRiot:
+2021	2021-05-09T17:43:38.458+00:00	xxmajklxx.	general	má niekto nejaké vypočítané príklady na `PI-kalkul`?
+2021	2021-05-10T00:03:30.757+00:00	rockstar1337	general	Kdo tady baitil, ze pi kalkul je jednoduchý? :mikeWTF:
+2021	2021-05-10T00:04:59.125+00:00	vyzigold	exam	takze kdyz se naucim pi kalkul, tak mam pulku FLP zkousky zmaknutou? :feelsWowMan:
+2021	2021-05-10T09:56:01.45+00:00	danik9665	reduction	mate nekdo rezepsanou tu redukci pi-kalkulu a mohli byste ji sem hodit ? :feelsWowMan:
+2021	2021-05-10T12:29:53.567+00:00	yuminone	general	Pi kalkul je jediný pi co umím
+2021	2021-05-10T12:30:36.762+00:00	rockstar1337	general	pi kalkul bude v pohodě, pokud tam nedá nějaký hoga foga, MPI by se taky dalo, musíš mít štěstí na tipovačku na začátku a potom psát random shity a třeba to dáš :HAhaa:
+2021	2021-05-10T12:31:34.828+00:00	ishanka	general	kdyz bude v pi kalkulu jeden output a dva matchujici inputy
+2021	2021-05-10T12:49:15.203+00:00	vyzigold	reduction	jakym zpusobem zjistim u PI kalkulu ty "pozorovani"
+2021	2021-05-10T12:56:02.526+00:00	_ls.d_	general	btw co vlastne znamena ta ciarka nad channelom v pi kalkule
+2021	2021-05-10T17:01:15.244+00:00	ishanka	general	jn, mel tam dat pi kalkul
+2021	2021-05-25T15:19:57.321+00:00	gathy	general	Pi kalkul je celkem easy, jen nevím jak určuje ty pozorování
+2021	2021-05-25T16:57:31.977+00:00	francze	general	tak ještě toho eulera a pi-kalkul a už jsem skoro za vodou a nemusím memorovat jak fugnuje 63456843184643145 algoritmů
+2021	2021-05-26T09:32:04.397+00:00	gathy	general	a pi kalkul
+2021	2021-05-26T09:56:00.653+00:00	nitram147	general	co za kokotinu je ten pi-kalkul
+2021	2021-05-26T09:57:05.566+00:00	gathy	general	Na pi kalkul je dobrá ta anglická přednáška
+2021	2021-05-26T10:00:41.927+00:00	francze	general	co tím jako myslíš :lul: však na řádnýk pi kalkul nebyl :VUTrtzW:
+2021	2021-05-26T10:03:38.121+00:00	chichin	general	pi kalkul eli5: strkas pismenko do pismenka pod vodorovnou carou
+2021	2021-05-26T10:15:51.613+00:00	kateriska	general	To že tam pi kalkul nebyl jsem už nestihla dostat :KEKW:
+2021	2021-05-26T10:18:10.207+00:00	francze	general	MPI 10, Pi kalkul 10, tipovačka 6, broadcast 10, scan 10, algo 0 a jsem za vodou :ez:
+2021	2021-05-26T12:08:05.266+00:00	vyzigold	general	Mu zajebalo s tim pi kalkulem :wuuut:
+2021	2021-05-26T12:15:55.997+00:00	gathy	exam,reduction	1.opravný: PRAM složitosti, PRAM architektura (popis+obrazek) , Pi kalkul (redukce+pozorování), Random mating(příklad), Suzuki (princip+obrazek 4 uzly), Monitor(popsat wait/signal, obrázek), Linda ( reverz seznamu) , MPI ( součet čísel větších jak průměr)
+2021	2021-05-26T12:30:29.91+00:00	chichin	general	ten pi kalkul ale wtf vsak to se hrozne forkovalo ne?
+2021	2021-05-26T12:41:49.288+00:00	dominikvagala	general	V tom pi kalkulu bolo treba spraviť aj to vetvenie? 😅
+2021	2021-05-26T13:29:17.479+00:00	_ls.d_	general	Takze ten pi kalkul mal 3 moznosti? :peepoHappy: uz som nevedel ci tam nevymyslam nejaky novy vpici kalkul lebo som vobec nevedel co znamenaju tie <> hovadiny ked v pine to robili bez toho
+2021	2021-05-31T14:59:20.691+00:00	gathy	general	Takže pi kalkul nebo nic
+2021	2021-06-01T17:22:35.394+00:00	francze	general	pamatujete si někdo jak byly ty příklady? 1. tipovačka 2. PRAM architektura 3. monitor? 4. suzuki 5. PI kalkul 6. random mating 7. Linda 8. MPI
+2021	2021-06-01T17:30:23.268+00:00	adhades	general	random mating byl určitě hned po Pi kalkulu
+2021	2021-06-08T17:23:36.034+00:00	nitram147	resource	Btw ti, ktori ste mali fullku bodov za pi kalkul, stacilo Vam k tomu to video z pinned?
+2021	2021-06-08T18:08:07.384+00:00	nitram147	general	Byva pi kalkul na kazdej skuske?
+2021	2021-06-08T18:10:13.956+00:00	nitram147	general	Pi kalkul je tiez vzdy?
+2021	2021-06-08T19:36:01.872+00:00	nitram147	general	Btw ten pi kalkul je extremne jednoduchy
+2021	2021-06-08T20:46:54.656+00:00	nitram147	general	nebodaj sa ucis tento predmet, pretoze ta zaujal PI-kalkul? 😄
+2021	2021-06-08T20:47:31.137+00:00	vyzigold	general	jediny na svete, koho PI kalkul zajima je ten tipek v tom yt videu
+2021	2021-06-09T05:32:57.325+00:00	nitram147	general	PI kalkul som zistil ze je tiez easy
+2021	2021-06-09T05:33:23.88+00:00	nitram147	general	Ale teraz tam asi PI kalkul uz neda
+2021	2021-06-09T05:43:20.331+00:00	nitram147	general	pray for pikalkul 😄
+2021	2021-06-09T05:51:27.757+00:00	nitram147	general	lebo aj take je v pi kalkule
+2021	2021-06-09T07:40:33.035+00:00	takumaron	general	no minule jsem neumel pikalkul a lindu takže jsem je nevyplnil a i tak jsem tam byl skoro do konce
+2021	2021-06-09T07:43:19.414+00:00	dajvid	general	Ať je tam zase pi kalkul :Prayge:
+2021	2021-06-09T07:43:54.327+00:00	nitram147	general	A da tam tie speci veci z pi kalkulu ktore nevieme 😁
+2021	2021-06-09T07:44:14.338+00:00	nitram147	general	Mpi+pikalkul je stale iba 20 bidov
+2021	2021-06-09T07:44:36.05+00:00	takumaron	general	a pi kalkulem si ja nejsu tolik jistej zatim
+2021	2021-06-09T07:44:37.245+00:00	dajvid	general	MPI + pi kalkul + tipovačka + něco vymyslet do teorie :feelsOkayMan:
+2021	2021-06-09T08:04:16.119+00:00	dajvid	general	tipovačka, VLIW, semafor, linda, pi kalkul, MPI :PauseChamp:
+2021	2021-06-09T08:34:00.848+00:00	dajvid	resource	Nemáte nějaký pěkný video na OCCAM? Něco jak je to na pi kalkul. :PepeLa:
+2021	2021-06-09T08:35:45.553+00:00	Deleted User	resource	Ono je nějaké pěkné video na pi kalkul?
+2021	2021-06-09T11:44:36.696+00:00	dajvid	general	Co to bylo s tím FIFO broadcastem do piči, to měl být pi kalkul.
+2022	2022-05-13T14:27:16.52+00:00	lori4553	reduction	chape nekdo tu redukci v tom pi-kalkulu?
+2022	2022-05-13T21:53:16.651+00:00	mangovnik	reduction	Z toho videa na pi kalkul jsem teda pochopil, jak redukovat. Avšak u otázek je ještě určit pozorování. Pozorování určuje, jaké kanály (jména) zrovna fungují jako vstup nebo výstup v tomto bodě výpočtu? Ale když provedu redukci, tak se tyto kanály můžou změnit?
+2022	2022-05-14T11:10:58.503+00:00	bc.plov_ec	resource	kde Pi-kalkul v prednaskach?
+2022	2022-05-14T12:46:06.871+00:00	aleksij	general	jak moc má cenu se učit ten pi kalkul?
+2022	2022-05-14T12:50:29.902+00:00	aleksij	general	@seb nechceš udělat stream o tom pi kalkulu?
+2022	2022-05-14T14:50:46.092+00:00	bixor_	general	Scitacka, pi kalkul ako na streame, VLIW, pram klasická tipovačka a máme to
+2022	2022-05-14T20:02:05.974+00:00	sebasuuu	general	pi kalkul snad ale viem :objection:
+2022	2022-05-14T21:00:34.391+00:00	afos	general	prosím, nemáte viac zadaní k pi-kalkulu, aby som si to ešte pretrénoval?
+2022	2022-05-15T17:00:14.825+00:00	bixor_	general	Veď ale sa ukľudnite... PRAM tipovacka VLIW/PRAM popisat Nejaký merge sort Euler adj list etour PI kalkul MPI Toto 100% bude :kappaPeek:
+2022	2022-05-15T19:40:30.499+00:00	arttarius	general	na ten PI kalkul jsou někde nějaké cvičné příklady?
+2022	2022-05-15T19:46:22.084+00:00	student4822	general	kto si zapamata cely priklad na PI kalkul? ved mu mozog exploduje rovno na semke :peepoSad:
+2022	2022-05-15T21:29:49.998+00:00	isaacdrews	general	Vypíšeš všechny možnosti jak u pi-kalkulu :weSmart:
+2022	2022-05-15T22:29:26.279+00:00	Deleted User	resource	Tak jsem otevřel PI kalkul a jsem jakože: <https://www.youtube.com/shorts/j34KxEuVL54>
+2022	2022-05-15T22:33:15.143+00:00	toaster	general	nekde nejaky priklad na ten pi kalkul? :PepeLa:
+2022	2022-05-16T06:16:39.727+00:00	toaster	reduction	prvni priklad na pi kalkulus co vidim :PepeLa: uz aspon chapu co mysli tim pozorovanim
+2022	2022-05-16T06:34:25.49+00:00	rys8515	general	Ale v tych dodatocnych materialoch k pikalkulu take cosi je
+2022	2022-05-16T07:19:54.662+00:00	sebasuuu	general	:Prayge: za CLA, euler, ez pi kalkul, PRAM tipovacka, Chang Roberts, Odd Even Transpo
+2022	2022-05-16T08:19:54.76+00:00	micha3l5101	general	Otázka k pikalkulu ešte: Čo sa myslí tým `Jaká pozorování platí (např. ↓x, ↓neg(z) atd.)`?
+2022	2022-05-16T09:36:02.894+00:00	panstojka	resource	Mohl by tam být pi-kalkul, to je docela fpohodě :feelsGoodMan:
+2022	2022-05-16T09:37:49.237+00:00	fazolek	general	Je někde vyřešený nějaký příklad na ten pi kalkul?
+2022	2022-05-16T09:38:13.432+00:00	aleksij	general	Já bych radši chtěl rpi kalkul :peepoProtest:
+2022	2022-05-16T09:40:40.839+00:00	sebasuuu	general	na pi kalkul
+2022	2022-05-16T11:58:07.013+00:00	panstojka	general	Gde pi-kalkul :peepoSad:
+2022	2022-05-21T05:41:09.851+00:00	janinka8352	general	na ktere prednasce se resi pi kalkul a na ktere occam?
+2022	2022-05-21T08:55:02.429+00:00	toaster	resource	Na pi kalkul je dobré to video
+2022	2022-05-21T08:59:45.323+00:00	bixor_	general	na pi kalkul bol dobry @seb stream :drakeyeah:
+2022	2022-05-21T09:00:15.968+00:00	sebasuuu	general	mozem urobit pi kalkul stream v utorok ku veceru po FLP ked tak
+2022	2022-05-21T09:00:26.958+00:00	sebasuuu	general	pochybujem ze tam da pi kalkul :sadge:
+2022	2022-05-21T10:13:15.259+00:00	rys8515	general	aby im nedal pikalkul v prologu :kappaPeek:
+2022	2022-05-25T17:11:17.366+00:00	bvit	general	Btw ve který přednášce je ten Pi calculus a OCCAM?
+2022	2022-05-26T16:19:21.976+00:00	bvit	resource	Pi Calculus se taky docela dá
+2022	2022-05-26T16:31:23.975+00:00	alpatron	general	Pí kalkul má tag `pi-calculus`. :objection:
+2022	2022-05-26T17:57:28.543+00:00	bvit	general	Máte někdo pls nějaký zadání na pi calculus?
+2022	2022-05-26T17:58:33.892+00:00	bvit	general	Neni no, je tam vždycky jenom "Pi calculus"
+2022	2022-05-27T08:41:30.131+00:00	beeblebr0x	resource	boha keby sa mi chcelo este ten pi kalkul naucit mna to video v pine tak strasne nebavilo :PepeHands:
+2022	2022-05-27T08:41:55.292+00:00	panstojka	general	Pi kalkul bych taky bral :YEP:
+2022	2022-05-27T08:43:33.444+00:00	panstojka	general	Co máte proti pi kalkulu? Však je to jednodušší než lambda :wuuut:
+2022	2022-05-27T08:48:17.977+00:00	toaster	general	recyklace radneho + pi kalkul pls :PepeLa:
+2022	2022-05-27T08:48:44.732+00:00	pixiedash	general	pi kalkul speedrun 15minut?
+2022	2022-05-27T08:48:53.852+00:00	panstojka	general	4 příklady na pi kalkul, 4 na prescan
+2022	2022-05-27T08:49:26.031+00:00	beeblebr0x	general	Ked uz lobujes za pi kalkul mal by si ho v rekordnom case vysvetlit :peepoProtest:
+2022	2022-05-27T08:51:22.888+00:00	osky9913	general	akoze ten xeon je teda viac zadarmo ako pi kalkul imho 😄
+2022	2022-05-27T09:12:01.079+00:00	beeblebr0x	general	Pi kalkul je ez
+2023	2023-04-30T13:20:51.34+00:00	monnte	general	Vie niekto PI-kalkul simulaciu okrem kocotoma ? :PauseChamp:
+2023	2023-05-01T16:37:05.699+00:00	monnte	general	nejaku simulaciu v pi-kalkule
+2023	2023-05-03T09:19:55.392+00:00	junacik	resource	pi kalkul bol tento rok na prednaskach? Niekto kto tam bol?
+2023	2023-05-03T12:56:29.94+00:00	malekjakub	reduction	1. Tipování složitosti 2. Algoritmy s FIFO 3. Pi kalkul 4. Euler 5. Redukční počítač 6. Zda lze synchronizovat procesy 7. Implementace s aktivním čekáním test&set a swap 8. MPI max% +min == 0
+2023	2023-05-03T14:19:25.347+00:00	monnte	general	lebo pi kalkul tam bolo vysvetlit nejake veci iba, uplne zakladna syntax ze co co robi :KEKW:
+2023	2023-05-12T18:06:40.876+00:00	diskordsux	general	tipovačka a MPI je skoro stoprocentní jistota. pak se tam relativně často objevuje OCCAM programování, pi kalkul, nebo treba priklad, kde je potřeba detekovat korunu v signálech
+2023	2023-05-13T11:46:26.249+00:00	stupidboisbb	resource	nemate nekdo nejakej dobrej guide na ten PI kalkul?
+2023	2023-05-13T16:09:24.064+00:00	harukenm	general	pi kalkul, skip ?
+2023	2023-05-13T16:24:33.62+00:00	mylanos	general	Su niekde nejake priklady na pi kalkul?
+2023	2023-05-13T16:25:03.523+00:00	veverica	general	tak ja sa zbavim lambda kalkulu a hned v dalsej skuske je nejaky pi kalkul?
+2023	2023-05-14T10:12:21.215+00:00	di3go_cz	exam,resource	Výskyt otázek ze těch dvou docs (2022/2023 předtermín - 2016/2017): ```25x MPI 25x PRAM tipsport 12x Etour, suffixsum -> (preorder / následující vrcholy / cesta …) 10x něco s Broadcast FIFO / kauzalita / atomičnost (kód, graf nebo teorie) 9x OCCAM (popsat, primitiva, příklad) 9x Carry look ahead příklad 6x Monžnost ...
+2023	2023-05-14T13:25:49.367+00:00	monnte	general	imo speedruners by sa mali určite naučit PI-kalkul
+2023	2023-05-14T13:26:17.457+00:00	louda7658	general	pi kalkul má malý šance
+2023	2023-05-14T13:26:48.1+00:00	louda7658	general	kromě pikalkul
+2023	2023-05-14T13:27:59.112+00:00	monnte	general	:pepeLa: to jo, ale tak ten pi kalkul verim že da
+2023	2023-05-14T13:58:20.665+00:00	jayzeedog	general	čo ten pi kalkul, je to ez či skip, jak to vobec vyzera
+2023	2023-05-14T15:03:12.246+00:00	veverica	general	je niekde rieseny priklad na pi kalkul?
+2023	2023-05-14T15:25:04.921+00:00	.bakalar	resource	Ja to nechápem ani potom, čo som si pozrel to video na pi kalkul :HAhaaVUT:
+2023	2023-05-14T16:14:25.884+00:00	petak5	general	Ten pi kalkul fakt neni tazky :pogU:
+2023	2023-05-14T17:40:44.947+00:00	no.body.the.sad.slider.boy	general	Ty pozorování v Pi kalkulu jsou jakože "Kdo vysílá nebo poslouchá?"
+2023	2023-05-14T21:13:23.727+00:00	bananas_420	general	pokud dostanu v pi kalkulu !, můžu ho prostě jen opisovat a nic s ním nedělat?
+2023	2023-05-15T07:10:04.454+00:00	stupidboisbb	general	doufam ze tam bude jen tato trivialita protoze s pi kalkulem literally neumim udelat nic jinyho nez nahradit promenny :kek:
+2023	2023-05-15T07:12:21.693+00:00	rebel_svk	general	inak u toho pi kalkulu je zvysok zle, nie ?
+2023	2023-05-15T08:17:32.745+00:00	petak5	general	Pokial to nechce v pi kalkule tak pohoda :kalm:
+2023	2023-05-15T11:14:37.051+00:00	rebel_svk	exam	B skupina Pram synotip Xeon Bounded test and set Enum sort Pi kalkul Nejaký stromovy algoritmus suffix či čo Kvorum MPI spočítať pomer lichych a sudych v postupnosti
+2023	2023-05-15T11:16:30.312+00:00	rebel_svk	general	Pi kalkul bol s + a aj privátnou premennou
+2023	2023-05-15T11:26:14.53+00:00	daveid105cz	general	A: Pram Sportka Co je to propojovací sit, nevýhody a nakreslit Algo pro výpočet levelu vrcholu za pomoci etour a suffixsum+slizotst Monitor Pi kalkul mega nanic(s pluskem a taky privátní proměnnou) Pipeline merge sort Nějaký HirschbergSinclar.. nebo co pro určení root uzlu stromů? MPI zjistit která půlka pole má vět...
+2023	2023-05-15T11:29:34.4+00:00	duristomas67	general	Ešte keby tam nedal ten pojeb v pi kalkule
+2023	2023-05-15T11:44:30.386+00:00	diskordsux	general	ten pi kalkul s pluskem :monkaChrist:
+2023	2023-05-15T11:48:56.823+00:00	.bakalar	general	Ten PiKalkul bol úplne freestyle
+2023	2023-05-15T11:53:06.214+00:00	duristomas67	general	Ale pi kalkul mame rovnako :chad:
+2023	2023-05-15T11:53:23.037+00:00	.bakalar	general	Nevadí, v Pi kalkule všetky cesty vedú do Ríma
+2023	2023-05-15T12:03:20.437+00:00	repkins	exam	Kdybych se naucil pi kalkul a pipeline merge sort tak pohodicka … takto vypada na opravny :pepeLa:
+2023	2023-05-15T12:41:38.657+00:00	repkins	general	jak jsem říkal.. kdybych měl pi kalkul a pipeline merge sort tak to mám určitě 😄 ale bohužel tyto dvě věci jsem skipl
+2023	2023-05-19T14:16:26.499+00:00	rebel_svk	general	Pozerám, že keby som lepšie spravil pi kalkul, tak to mam
+2023	2023-05-19T14:17:04.519+00:00	duristomas67	general	Mne za ten vymyslený shit v pi kalkule dal 4b :KEKW: zlatíčko
+2023	2023-05-19T14:20:34.937+00:00	duristomas67	general	Koľko si dostal za pi kalkul?
+2023	2023-05-27T10:44:33.783+00:00	mrca	general	vysvetlil by mi nekdo prosim ten pi kalkul? nebo aspon neco z ceho se to naucit?
+2023	2023-05-27T14:02:35.764+00:00	pheter5687	general	No hej, len na skuske byva tazsi pi kalkul :pepeLa:
+2023	2023-05-27T18:30:55.292+00:00	.caby.	general	riadna somarina je ten pi kalkul 😄
+2023	2023-05-29T06:51:16.235+00:00	monnte	general	pi kalkul a mpi
+2023	2023-05-29T08:37:23.137+00:00	osky9913	general	mam prejdene ``` - suzuki - odd even merge - Etour - Test and Set - PRAM - MPI ( to ale slabo ) ------------------- - Pipeline-merge sort - EnumerateList - PiKalkul --------------------- - Xeon - VLIW - Dataflow ----------------------- ``` Co este fakt ze treba prejst ????
+2023	2023-05-29T13:02:53.329+00:00	pheter5687	exam,reduction	1.opravny termin 1. PRAM tipovacka 2. Napisat algoritmicky Odd-even-transposition sort + analyza + cena 3. Vysvetlit princip paralelneho selectu + priklad 4. Marzullov algoritmus 5. PI kalkul - najst 3 mozne redukcie 6. CLA priklad, 120 + 99 7. 4 citaci 8. MPI
+2023	2023-05-29T19:49:55.81+00:00	kocotom	general	Aha, sebral mi 6 bodů na Pi kalkulu :monkaThink: A 2 na odd-even traspose sort
+2023	2023-05-29T20:16:00.463+00:00	.whatupbiatch	general	ja som tam siel s tym ze som ani nevedel co je PI-kalkul len som do vysledku dal nejaku kravinu a dostal som 3 body :OMEGALUL:
+2023	2023-05-29T20:42:43.587+00:00	policz	resource	Jsou doháje někde nějaké řešené příklady na PI kalkul? Ve slajdech toho moc není, video v pinech jsem viděl, ale evidentně to nestačilo.
+2023	2023-05-29T20:43:18.241+00:00	rebel_svk	general	ja spravim stream na pi kalkul, lebo to je velmi chabe
+2023	2023-05-29T21:12:57.046+00:00	marek.stastny	general	Nevíte někdo jak se v Pi kalkulu chovat k tomu plusku?
+2023	2023-05-31T21:15:10.27+00:00	rebel_svk	general	By ste mohli zistiť niekto za mňa, že jak je to s tym + pri pi kalkule
+2023	2023-06-01T08:44:55.03+00:00	rizgo	general	Mali ste nejaké rozumné body z pi kalkulu? 😃
+2023	2023-06-01T11:53:19.901+00:00	pheter5687	general	Inak v tom pi-kalkule, ak je tam +, tak sa tam tá druhá operácia nepíše v ďalšom kroku
+2023	2023-06-01T20:36:53.42+00:00	zanetgr	general	Jdu na reklamace zítra a potřebuju 4 body - dostala jsem 3 body na CLA, což mělo bejt mých jistých 9, jinak ostatní co jsem vyplnila mám správně až na pi kalkul.. myslíte že je tam šance? 😄
+2023	2023-06-01T21:04:37.519+00:00	zanetgr	general	ježíš tak snad nebude chtít pi kalkul:HAhaaVUT:
+2023	2023-06-01T21:06:42.101+00:00	zanetgr	general	A ty jsi měl na pi kalkul full nebo 0?
+2023	2023-06-01T21:07:40.984+00:00	staraherka	general	u pi kalkulu 0, u 4 čítačů taky 0, tam se mě jen pobaveně ptal, jaká je nálada na palubě, jestli se to už na třetí termín někdo naučí :VUTrtzW:
+2023	2023-06-05T10:06:35.215+00:00	louda7658	general	okamura :Prayge: pi kalkul :Prayge: pram :Prayge: MPI :Prayge: etour :Prayge: cla :Prayge: test&set | atomic swap :Prayge: koruna
+2023	2023-06-05T10:40:50.119+00:00	kbb_o	general	@louda potrebujem rychlokurz pi kalkulu
+2023	2023-06-05T12:27:45.542+00:00	rebel_svk	general	Keby som nepokazil pi kalkul
+2023	2023-06-05T16:16:08.266+00:00	lesamo	general	Pi kalkul
+2023	2023-06-06T09:35:12.419+00:00	louda7658	general	pi kalkul taky
+2023	2023-06-06T09:39:51.687+00:00	louda7658	general	jediný co sem uměl bylo PI kalkul, MPI a PRAM
+2024	2024-04-23T16:07:20.324+00:00	penpem	general	viete mi dat niekto prosim tldr na otazky ku pi-kalkulu?
+2024	2024-04-24T13:05:16.64+00:00	tmokenc	general	Gde PI kalkul :Tragika:
+2024	2024-04-24T14:23:55.706+00:00	headclass	general	pi kalkul my beloved gde si
+2024	2024-05-10T14:02:07.371+00:00	matusko	general	z kadial ste sa ucili ten pi kalkul
+2024	2024-05-10T14:03:06.818+00:00	4feanor	general	pi kalkul nepatri do flp? :clueless:
+2024	2024-05-10T14:16:22.671+00:00	bartman541	exam	Akorát nam na predtermin nedal pikalkul a kdo mi da reakci "XD" tak rád sleduje dětskou pornografii
+2024	2024-05-10T14:22:12.751+00:00	kaeritai	general	ted tam urco nejaky ez pi kalkul bude :Prayge:
+2024	2024-05-11T11:36:37.436+00:00	bc.derkuznikov	general	kazdy kto mi da 🤓 reakciu dostane na pisomke napisat merge sort v pi-kalkule. (niebo na statnicach pokud uz mate prl)
+2024	2024-05-11T17:22:42.233+00:00	headclass	reduction	Moj prediction na pondelok: - PRAM tipsport - Euler hlbka/poradie - Nejaky pi kalkul - Nejaky MPI kde bude treba pouzit broadcast (nezabudnut nielen poslat broadcast, ale aj prijat) - Marzullov algo - Test&set pseudokod - nejaky occam kod - nejaka polsemkova teoria, redukcny pocitac alebo dataflow
+2024	2024-05-11T19:04:02.534+00:00	safarmirek	general	Určitě MPI, pi kalkul, Euler, PRAM tipsport
+2024	2024-05-11T20:15:18.718+00:00	fatherandrew	resource	na tú linda/occam/pi-kalkul prednášku záznam nemáme?
+2024	2024-05-11T20:44:23.522+00:00	kubikon	general	njn potreboval by som tldr toho hodinoveho pi kalkul videa :clueless:
+2024	2024-05-11T20:47:17.971+00:00	bc.derkuznikov	general	výborně, šup na pi kalkul ať nám to můžeš vysvětlit na příkladech
+2024	2024-05-11T20:54:00.393+00:00	bc.derkuznikov	general	@Ez. Matthewlele dedo? 👴 vjes pi-kalkul? \
+2024	2024-05-11T21:41:19.271+00:00	fatherandrew	general	sorry že skáčem do rozbehnutej konvo, ale niekto kto viete Pi Kalkul, prečo tuto zmizlo to P2 z kroku 3 do kroku 5? nemalo by tam namiesto t.0 v tej 5ke na konci zostať niečo ako vz(P2|t.0) ?
+2024	2024-05-11T22:19:11.724+00:00	safarmirek	general	Po tomhle semestru budu umět programovat v lambda kalkulu, haskellu, prologu, pi kalkulu, occamu
+2024	2024-05-11T22:36:44.601+00:00	fatherandrew	general	actually by som momentálne bral pi kalkul over OCCAM alebo Linda... tie neviem vôbec čarovať
+2024	2024-05-12T11:58:30.064+00:00	kaeritai	general	ale musím podotknout, že moje znalosti pochází z videa na basic pi kalkul a toho obrázku, co posílal headclass :pepeLa:
+2024	2024-05-12T12:01:44.634+00:00	safarmirek	general	Jakože, ten pi kalkul není tak strašnej, jen by potřeboval vysvětlit o dost víc
+2024	2024-05-12T12:02:36.121+00:00	cyko237	general	pi kalkul je strasny skip, absolutne nechapu co se tam deje :pepeLaff:
+2024	2024-05-12T12:09:37.859+00:00	matthewlele	general	tiez si nemyslim ze ten pi-kalkul nejako extra viem
+2024	2024-05-12T15:56:50.353+00:00	kubikon	general	zboril je good guy ten to tam najde aj ked miesto pi kalkulu spravim lambda kalkul
+2024	2024-05-13T08:52:41.946+00:00	bc.derkuznikov	general	@Mirek nevis jestli se muzu zbavit tau (tichy proces) v pi kalkulu za predpokladku ze mam tento vyraz? .........|tau 0|..........
+2024	2024-05-13T09:39:45.697+00:00	fatherandrew	general	pi kalkul :Prayge:
+2024	2024-05-13T11:31:54.02+00:00	precla	general	PRAM sportka, zřetězené procesory, semafor, PMS, pi kalkul, MPI a zbytek si nepamatuju :pepeLa:
+2024	2024-05-13T14:37:51.737+00:00	thebluegril	exam	2023/24 - Řádný - Skupina C 1) (6b) PRAM tipsport: Na výběr const, log(n), n, n*log(n), n^2, polynomiální. Pro EREW, CREW a CRCW urči: I) t(n) pro AND v posloupnosti II) c(n) pro zjištění zda posloupnost obsahuje jen stejné prvky III) c(n) pro součet posloupnosti 2) (9b) K čemu se používá propojovací síť 3) (9b) Pop...
+2024	2024-05-13T15:24:18.353+00:00	fadofado	exam	2023/24 - Řádný - Skupina B 1.) PRAM "tipovacka" (6b) a) časova složitost: **XOR** pro EREW, CREW, common CRCW b) časova složitost: **počet sudych čísel** pro EREW, CREW, common CRCW c) cena: **NAND** pro EREW, CREW, common CRCW 2.) Popiště architekturu procesů s velkým kódovým slovem (**VLIW**). Popiště možné konfl...
+2024	2024-05-13T16:45:18.142+00:00	__gunter__	exam	**SKUPINA A - RADNY 2023/24** 1. PRAM Tipsport (OR, je posloupnost monotonni?, je v poli cisel nula?) 2. Popsat princip zřetězených procesorů 3. Popsat monitor (včetně signal a wait) + nákres 4. K dispozici funkce na výpočet sumy sufixu a příkaz "if e je dopredna then do..." - popsat algoritmus pro výpočet úrovně vr...
+2024	2024-05-13T16:46:16.287+00:00	__gunter__	general	ten pi kalkul si nepamatuju, co tam bylo za výraz, u pram tipsportu taky nevím, co tam přesně bylo, ale byly tam taky nějaké 3 věci
+2024	2024-05-25T02:12:02.663+00:00	bartman541	resource	Toto video je best vysvetlenie pikalkulu, aj keby ze si 🐌
+2024	2024-05-25T07:29:31.645+00:00	drewandrew1	general	Co vlastně bývá za příklady v tom pi kalkulu na zkoušce?
+2024	2024-05-25T18:12:10.713+00:00	puroki	general	najdem niekde niake vysvetlenie PI Kalkul?
+2024	2024-05-25T18:56:17.979+00:00	bazilisek2	resource	v ktorej prednáške je pi kalkul pls?
+2024	2024-05-25T20:30:09.497+00:00	cyko237	general	je fakt jistota, ze na kazdem terminu bude PRAM, PI kalkul a MPI?
+2024	2024-05-25T20:44:31.343+00:00	jany26	general	pi kalkul 50%
+2024	2024-05-25T20:51:27.712+00:00	jany26	general	pi kalkul a mpi este ne :pepeLaff:
+2024	2024-05-26T14:36:34.483+00:00	jany26	general	pi kalkul ma clovek ako pochopit
+2024	2024-05-26T21:50:41.749+00:00	cyko237	general	PI kalkul
+2024	2024-05-26T22:34:26.698+00:00	cyko237	reduction	resi nejak hodne korektni zapis tech pozorovani v pi kalkulu, nebo mu proste staci redukce?
+2024	2024-05-26T22:35:08.077+00:00	stanley_stan_lee	general	odkial sa ucite pi kalkul?
+2024	2024-05-27T11:49:08.818+00:00	precla	general	PRAM sportka, FIFO broadcast, test_and_set, 4 čtenáři, nějakej RA algoritmus , pi kalkul, MPI druhej nejmenší prvek
+2024	2024-05-27T11:54:14.897+00:00	stanley_stan_lee	general	sak ale pikalkul tam nemas
+2024	2024-05-27T12:45:32.268+00:00	majkoce	general	ach jaj, ten pi kalkul by sa mi hodil :KEKW:
+2024	2024-05-27T13:27:47.777+00:00	yamauu	reduction	co dela to plus v pi kalkulu? Jsem se to ucil jak dement a pak tam da plus ktery neznam
+2024	2024-05-27T13:38:33.962+00:00	drewandrew1	reduction	No u toho pikalkulu, kde tam byly 4 redukce?
+2024	2024-05-27T13:39:17.712+00:00	jany26	exam	1. opravny 2024 1) 6b: PRAM (EREW, CREW, COMMON CRCW): cena zoradit sekvenciu, cena XOR, casova zlozitost AND 2) 9b: a) FIFO broadcast send, recv algoritmus, b) definovat relaciu kauzality, 3) 9b: testandset riesenie kritickej sekcie - kod plus popis, 4) 9b: algoritmus 4 citacov princip fungovania plus nakreslit 2 o...
+2024	2024-05-29T11:18:30.376+00:00	cyko237	general	PI kalkul strasne podrzel
+2024	2024-05-29T11:31:26.063+00:00	drewandrew1	general	V tom pikalkulu nemá + přednost před | ? Bo tam za to mám nulu
+2024	2024-05-30T11:27:16.092+00:00	mira_007	general	V tom PI kalkulu má `|` vyšší prioritu než `+` pokud vím. Měl jsi to naopak?
+2024	2024-05-30T11:32:27.471+00:00	mira_007	resource	PI kalkul byl hrozně špatně vysvětlený. Na precedenci operátorů se úplně vykašlal. Potom úplně vynechal to, že PI kalkul modeluje pouze binární synchronní komunikaci, přičemž k párování dochází nedeterministicky (pokud jsem to dobře z literatury pochopil ...)
+2024	2024-05-30T11:34:26.121+00:00	mira_007	general	Co se týče nedeterminismu v PI kalkulu, tak tam potom vůbec nebylo vysvětleno, jakým způsobem interpretovat ta jeho pozorování (asi se to musí rozbít na více možností, než jen vypsat všechna pozorování ze všech nedeterministicky vybraných procesů)
+2024	2024-05-30T11:43:29.715+00:00	headclass	general	aky ste mali pi kalkul?
+2024	2024-05-30T20:42:09.117+00:00	jany26	general	jo :OMEGALUL: ty myslis pi kalkul
+2024	2024-06-02T16:06:27.617+00:00	jany26	general	pi kalkul, occam, linda tiez casto
+2024	2024-06-02T17:22:25.69+00:00	precla	general	jestli tam zítra nedá pi kalkul tak budu mad :Prayge:
+2024	2024-06-03T09:27:50.009+00:00	supremekaiserka	general	minule byl lehčí pi kalkul, mohla by dnes být lehčí celá písemka
+2025	2025-05-04T17:00:49.736+00:00	mikee25	resource	ty minuly zadani v pinech vypadaj docela dobre, ted to sjizdim. jsou tam pi kalkul, monitor, par algoritmu, takovy ty klasiky..
+2025	2025-05-05T14:07:24.231+00:00	jirmusovic	general	nevite, na jak prednasce se delal pi kalkul? jsem na to asi moc pepeg
+2025	2025-05-06T07:52:58.105+00:00	mistrjurajko	general	Náhodou nejaké videjko na PI kalkul? 😄
+2025	2025-05-06T08:32:39.074+00:00	mistrjurajko	general	pi kalkul = 11 komunikujuce systemy na konci prezentacie v posledných 2 zaznamoch to ešte nie je :/
+2025	2025-05-06T16:59:19.276+00:00	.matsuzaki	general	je niekde ako sa robi pi kalkul?
+2025	2025-05-06T18:49:52.924+00:00	michal3441	general	chcem si este najprv dobrat eulera a pi kalkul:D ak potom este budete online tak sa mozno pridam
+2025	2025-05-06T18:52:14.917+00:00	michal3441	general	skoda, som dufal ze poradite kde pozriet to pi kalkul:D
+2025	2025-05-10T06:58:45.762+00:00	orangesyrek	general	Z čeho se učit ten pi kalkul 🤔
+2025	2025-05-10T10:05:51.418+00:00	achxkloel	general	Dobra teorie na pi kalkul - https://hal-lara.archives-ouvertes.fr/hal-02101985/file/RR2003-13.pdf
+2025	2025-05-10T10:07:35.125+00:00	maxnas_	resource	Prednášal sa vôbec tento rok pi-kalkul? Podľa slidov to malo byť v 10. prednáške, tam sa to nespomína a v 11. prednáške je už ďalej. Niekto kto chodil na prednášky, prosím?
+2025	2025-05-10T10:13:19.06+00:00	dalicon	general	pi kalkul na 100% tento rok byl, to by nevynechal
+2025	2025-05-10T10:27:02.352+00:00	moonyros	exam	Jo, pi kalkul se na poslední přednášce dělal, ale bylo to hodně z rychlíku, no. A ten OCCAM je na tom dost podobně mi přijde. Před předtermínem jsem se s ním o záznamu bavil, ale říkal, že ještě není zpracovaný. :sadge: Ve finále bych se asi stejně zacílil na jiné materiály, co se té poslední přednášky týče.
+2025	2025-05-11T08:39:25.113+00:00	orangesyrek	general	Nemáte někdo nějaké vyřešené příklady ze zkoušek na pi kalkul? :pepoThink:
+2025	2025-05-11T19:40:11.094+00:00	roytak	general	pi kalkul je skip
+2025	2025-05-11T19:46:27.306+00:00	michal3441	general	akoze pi kalkul su celkom free body.. ono to len vyzera komplikovane
+2025	2025-05-11T19:48:15.52+00:00	michal3441	general	minimalne ten pi kalkul
+2025	2025-05-11T19:50:33.779+00:00	dalicon	general	Pi kalkul chápu, ale toho bagra moc ne
+2025	2025-05-11T19:51:35.718+00:00	michal3441	general	to bolo hlavne na ten pi kalkul:D
+2025	2025-05-11T19:52:00.655+00:00	dalicon	general	ten pi kalkul
+2025	2025-05-11T19:52:11.378+00:00	michal3441	general	MPI programovanie, pi kalkul a pram tipovacka su istotky
+2025	2025-05-11T19:59:47.242+00:00	michal3441	general	Ja tipujem ze tam bude 1. Pram tipovacka 2. Teoria na nejaku architekturu.. napr dataflow 3. Euler tour 4. Odd-even merge sort a nakreslit 4x4 5. Monitory 6. Pi kalkul 7. MPI programovanie 8. nejaky selection/searching algo
+2025	2025-05-12T11:29:11.066+00:00	redkyten	general	A co ty pojebane závorky v pikalkulu ve skupině B
+2025	2025-05-12T11:29:46.946+00:00	tenebriscz	general	neasi, ten pikalkul byl pěknej pojeb s těma závorkama
+2025	2025-05-27T17:11:12.959+00:00	skrugras	general	co to sakra ten pi kalkul vobec je:void:
+2025	2025-05-27T18:12:04.232+00:00	orangesyrek	reduction,resource	Pokud budou obdobné příklady, jako bývaly, tak bude chtít jen nějaký výraz zredukovat všemi možnými způsoby. V těch záznamech z pinů od Monnteho se na myslím 10. přednášce trochu řeší obecně ten pi kalkul. Pak někde v docích a tu na discordu jsou poslaný tak 2 příklady i s nějakým řešením. Popř. později večer můžu d...
+2025	2025-06-02T15:56:14.914+00:00	skrugras	general	je zaznam z pi kalkulu?
+2025	2025-06-07T16:56:30.968+00:00	yamauu	general	pi kalkul skipnul?
+2025	2025-06-09T07:59:18.801+00:00	skrugras	general	ten pi kalkul vam vysiel na konci zee
+2026	2026-05-03T19:40:16.881+00:00	lufycz	general	10. Pi-kalkul reductions — ~14 Variations: reduce expression, list 3–4 possible reductions, observations when no further reduction is possible 11. CLA / carry-look-ahead adder — ~14 Variations: add two binary numbers, show propagate/stop/generate, compute carries with scan 12. OCCAM — ~13 Variations: channels/arrays...
+2026	2026-05-05T06:38:19.99+00:00	bonobonobono	general	\1. priklad tipsport, mpi, occam-pikalkul, zbytek je random :Koteseni:
+2026	2026-05-05T07:06:52.625+00:00	barto7864	general	pi kalkul je celkem free n?
+2026	2026-05-05T11:42:38.004+00:00	keizzha	general	pi-kalkul on the way
+2026	2026-05-05T19:36:13.502+00:00	keizzha	general	okay PRAM PiKalkul MPI VLIW synchronizace CLA mam

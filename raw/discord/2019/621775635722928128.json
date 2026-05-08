@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "461541385204400138",
+    "name": "VUT FIT",
+    "iconUrl": "https://cdn.discordapp.com/icons/461541385204400138/a_f3b27532e370b3269df978471709558f.gif?size=512"
+  },
+  "channel": {
+    "id": "621775635722928128",
+    "type": "GuildTextChat",
+    "categoryId": "1203724153740595270",
+    "category": "letni magistersky semestr 2",
+    "name": "prl-private\uD83D\uDD12",
+    "topic": "Paralelní a distribuované algoritmy"
+  },
+  "dateRange": {
+    "after": "2019-04-15T00:00:00+00:00",
+    "before": "2019-06-16T00:00:00+00:00"
+  },
+  "exportedAt": "2026-05-08T17:33:45.393466+00:00",
+  "messages": [],
+  "messageCount": 0
+}

@@ -1,0 +1,122 @@
+# Exam-signal messages
+
+- `2020` `2020-05-21T09:36:23.411+00:00` `maverick4987`: PRL - musite sa prihlasit na riadny termin sami @everyone a zvysili minimum z 32 na 35b
+- `2020` `2020-06-02T14:40:16.554+00:00` `Deleted User`: Vymenim termin `D207 18:00-20:50` za nejaky termin ve `13:00-15:50` :peepolove:
+- `2020` `2020-06-04T14:29:27.941+00:00` `dominikharmim`: Jinak k těm by u zkoušky nemělo být nic, co není v těch původních slajdech. V té literatuře jsou nějaký algoritmy nebo variace těch algoritmů navíc, ale to by u zkoušky být nemělo. Je to přímo napsané většinou vždycky na začátku těch slajdů.
+- `2020` `2020-06-05T14:40:56.931+00:00` `mitches_`: máte někdo ten eulerův tah z lonskeho řádného termínu? mi to podle algoritmu z přednášky nevychází i kdybych se rozkrájel ...
+- `2020` `2020-06-05T14:57:34.903+00:00` `mitches_`: problém je, že mě to funguje pouze na ten příklad ze slajdů, ale jakmile to aplikuju i na to z lonske zkoušky tak už to nevychází
+- `2020` `2020-06-05T20:04:00.661+00:00` `crash6990`: Vzhledem k tomu, že ty záznamy oficiálně neexistují, jak se máme oficiálně na tu zkoušku přiravit? 😄 Z těch top slidů? 😄 😄 Just curious
+- `2020` `2020-06-05T20:16:45.998+00:00` `altaon19`: A pockejte jeste, co za slajdy tam pribudou den pred zkouskou 😄 jako materialy k cemukoliv, co ma Zboril nebo Hanacek je des a bida... ale jak koukam, kdyz se ti dva vykombi dohromady tak je to jeste vesti sila.
+- `2020` `2020-06-06T17:16:46.991+00:00` `burned2854`: Asi bych tu neměl kázat, když přesně tohle jsem si říkal, když jsem se učil na zkoušku z IALu :VUTrtzW:
+- `2021` `2021-04-28T14:16:02.887+00:00` `betsst`: Informace k předmětu **IZU**/2020L ```Vážení studenti připomínám Vám, že dvanáctá přednáška v rámci kurzu PRL se bude konat dnes od čtyř hodin odpoledních opět v prostředí MS Teams, skupina PRL Prednasky, kanál Prednaska. S pozdravem, František Zbořil ml.```
+- `2021` `2021-04-30T10:28:43.062+00:00` `kateriska`: ```Informace k termínu předmětu PRL/2020L Termín: Projekt II. Vzhledem k velkému množství špatně čitelných zdrojových kódů mám zpoždění s opravováním prvních projektů (budou ještě před koncem víkendu), ale napíši Vám alespoň nejčastější chyby čeho se vyvarovat (... a jak urych...
+- `2021` `2021-04-30T10:40:48.973+00:00` `kateriska`: jsem zvedava co bude delat u druheho projektu kdyz je z obou minimum a v pondeli je zkouska
+- `2021` `2021-05-01T16:01:41.64+00:00` `_ls.d_`: videl som tiez mi to nedava zmysel, ako nemam pocit ze to teraz bude jednoduche riesit, ked od pondelka bude opravovat druhy projekt a skuska je 10.5.
+- `2021` `2021-05-01T16:03:14.016+00:00` `dajvid`: Já jdu až na první opravný, řádný mi nějak nevychází. Jinak řečeno můj doc bude komplet až po řádném. :PepeLa:
+- `2021` `2021-05-03T15:04:45.666+00:00` `gathy`: Jak by mohlo vypadat PRL online? Mám ještě v pondělí karanténu, tak jestli ten první termín skipnout nebo zkusit domluvit online :okayChamp:
+- `2021` `2021-05-04T13:26:51.241+00:00` `francze`: aspoň bude dost času na antigeny :feelsWowMan: a to mi připomíná -> máte někdo načtený co vše musím udělat abych se dostal na zkoušku? :VUTrtzW:
+- `2021` `2021-05-05T18:53:16.786+00:00` `dify`: jako co sem občas poslouchal přednášky tak zbořil často říkal že tam něco rád dává apod. takže snad se ty zkoušky dost opakují :monkahmm:
+- `2021` `2021-05-08T01:14:01.003+00:00` `rockstar1337`: Už to přestává být sranda, já se tady natvrdo učím na zkoušku kam ještě nemám zapocet :HAhaaVUT: v normálním předmětu by to bylo v pohodě ale v PRL kde typek má očividně problém spustit program tak nevím nevím no :HAhaaVUT:
+- `2021` `2021-05-08T13:34:04.905+00:00` `betsst`: **SKÚŠKA** **MATERIALY** :hmmNote: · https://uloz.to/file/aV4YioMFCCMi/prl-zip · 19/20 guide https://docs.google.com/document/d/1lB_J22vzQl9gUAc37FB1VYIeg-SfflO5wE1qi9BagvM/edit?usp=sharing · (stary guide) https://docs.google.com/document/d/1J_OnojfTBRs00tPBxZVS7PNNPFBirmC8xv_...
+- `2021` `2021-05-08T13:45:40.022+00:00` `mark0042`: a ta zkouska je legit na 3h (nebo 2.5 s tim uklidem) a nebo tam maji pro jistotu? :monkaThink:
+- `2021` `2021-05-08T14:46:26.207+00:00` `danielkonecny`: Vysvětlí mi někdo těch 80 lidí v D105 na zkoušku? :PepeLa: to už nemáme pandemii?
+- `2021` `2021-05-08T14:50:09.651+00:00` `rou7283`: Pořádný rozestupy nebyly ani minulý zkouškový když bylo 9 lidí. Chci to vidět v 80ti lidech v D105.
+- `2021` `2021-05-08T17:41:25.144+00:00` `dajvid`: Stránka předmětu: Získání alespoň jednoho bodu z každého projektu a získání alespoň 15 bodů v průběhu semestru. Jakákoli forma plagiátorství nebo nesamostatné práce vede k neudělení zápočtu. Zápočty uděluje cvičící, který opravuje půlsemestrální zkoušku.
+- `2021` `2021-05-08T19:26:42.535+00:00` `francze`: okay, co sepsat věci, který si ještě pamatujete? protože než bude konec zkouškového tak se to zapomene :HAhaaVUT:
+- `2021` `2021-05-08T22:18:31.948+00:00` `sedmicha`: smysl to imo moc nemá, ale snadno se na to udělají slajdy, a snadno se to zkouší :HAhaaVUT: vykopíruješ algoritmy z knížky, na zkoušku jich pár random vybereš ať to lidi odkrokujou nebo popíšou, a hotovo :HAhaaVUT:
+- `2021` `2021-05-09T18:23:40.56+00:00` `havli`: takže na zkoušce bude stačit nedeterministicky uhádnout správnou tabulku, aby to bylo správně :VUTrtzW:
+- `2021` `2021-05-09T22:07:19.736+00:00` `danik9665`: jak se ma clovek ucit na zkousku, kdyz nejdrive tu hori chata a les v sousednim udoli a je to takovej fire, ze to clovek vidi pres kopec a jezdi tu co chvili cisterna s majaky a kdyz prestanou, tak tu zacnou jezdit 2 hlidky PCR a hledaji nejake lidi ... :notLikeThis:
+- `2021` `2021-05-10T00:02:04.504+00:00` `vyzigold`: si tak rikam... Sice je ten predmet a zkouska obsahove celkem picovina (zapamatovavat si 200 algoritmu mi neprijde extra uzitecne), ale aspon ta zkouska celkem pekne vypada na pohled :feelsWowMan:
+- `2021` `2021-05-10T00:04:59.125+00:00` `vyzigold`: takze kdyz se naucim pi kalkul, tak mam pulku FLP zkousky zmaknutou? :feelsWowMan:
+- `2021` `2021-05-10T10:46:06.504+00:00` `takumaron`: mě se to nechce učit když vím že to nedám, ale vím že se to bude hodit až se to budu učit na druhej termín
+- `2021` `2021-05-10T16:30:13.41+00:00` `rys8515`: na AGS daval asi podobnu obtiaznost by som povedal, aj ked som bol len na druhom termine :PepeLa:
+- `2021` `2021-05-21T10:29:49.818+00:00` `venki_`: Pro ty z vás, kteří ještě musíte na zkoušku a musíte bojovat s neexistencí nějakých materiálů na učení, které nejsou příšerné prezentace nebo ilegální záznamy, tady máte poznámky od @_Naty_ :peepolove: Měly by být kompletní a jsou psané podle výkladu, snad bez závažnějších chy...
+- `2021` `2021-05-24T16:41:18.136+00:00` `_ls.d_`: :dogeKek: aj zajtra je skuska, na PRL sa radsej pojdem iba pozriet a potom one hit obyc. sprtacka na 3.termin
+- `2021` `2021-05-25T16:03:38.443+00:00` `danik9665`: min rok 1. opravny, nevypada to na eulera: 1. PRAM ako na každom termíne 2. Xeon Phi - architektúra 3. Odd-even merge sort - popis algoritmu, sieť 4x4 4. Marzullo algoritmus - popis algoritmu, ukázať na príklade 5. CLA - podrobný postup ako sa sčítajú 2 čísla 6. Obyčajný semaf...
+- `2021` `2021-05-26T08:30:13.66+00:00` `dajvid`: Přednášky jsem viděl a je to naprostá ztráta času, škoda že jsem místo toho nedělal jen stará zadání. Na příští termín zvolím správnou strategii. :HAhaaVUT:
+- `2021` `2021-05-26T08:37:08.785+00:00` `nitram147`: Snad nebude dalsi termin potrebny. Tieto sracky uz nechcem v zivote vidiet (teda este na statnice sa ich budem musiet znovu ucit :HAhaaVUT: )
+- `2021` `2021-05-26T10:08:40.736+00:00` `rockstar1337`: Asi si zajdu na co nejvíc termíny, dost horim z té slečny co nás sem pouští :PU_PepeHmmmSuperInteresting:
+- `2021` `2021-05-26T12:15:55.997+00:00` `gathy`: 1.opravný: PRAM složitosti, PRAM architektura (popis+obrazek) , Pi kalkul (redukce+pozorování), Random mating(příklad), Suzuki (princip+obrazek 4 uzly), Monitor(popsat wait/signal, obrázek), Linda ( reverz seznamu) , MPI ( součet čísel větších jak průměr)
+- `2021` `2021-05-26T12:52:53.2+00:00` `dominikvagala`: Pozitívne je, že na ďalší termín sa už nemusím učiť tieto hovadiny, čo boli dnes :pepeLaugh:
+- `2021` `2021-05-30T11:27:07.128+00:00` `francze`: jakože samotnej ten termín nebo tak mi nevadí, ale vadí mi, že budu muset bejt v Brně v určitej čas a budu se muset zvednout a na 2 hodiny někam jet :lul:
+- `2021` `2021-05-31T14:29:26.325+00:00` `rockstar1337`: Avs nemá minimum, což jsem zjistil pozdě, takže příští rok se mi pošlou projekty a já je odevzdám za full a už to bude úplná pohoda a na zkoušku se budu učit dopoledne :PU_PepeHmmmSuperInteresting:
+- `2021` `2021-05-31T14:33:30.963+00:00` `rockstar1337`: Projekt se hezky uzná za fullku, pulsemka už bude takže zkouška už bude hezky ez
+- `2021` `2021-06-01T13:38:14.47+00:00` `nitram147`: Ako keby sa to vobec nikdy v historii nestalo, ze ludia nevedeli ani 2 dni pred opravnym ci nan maju ist lebo este neboli vysledky z prveho 😀
+- `2021` `2021-06-01T17:54:10.818+00:00` `danik9665`: ja jsem si na 1. terminu myslel, ze je operace MPI_AVG, tak nwm, zda sis to treba nemyslel tky :PepeLa:
+- `2021` `2021-06-04T17:38:03.593+00:00` `takumaron`: nebo by alespoň mohli umožnit, aby jsme se přihlásili na další opravnej hned, jak nám dali body
+- `2021` `2021-06-04T19:54:40.029+00:00` `francze`: jak si sakra udělala zkoušku, když nevidíš rozdíl mezi cenou a časovou složitostí
+- `2021` `2021-06-04T20:00:35.395+00:00` `ishanka`: muj mozek to automaticky skipoval, protoze na to od zkousky zapomnel, ze to je dulezity rozdil
+- `2021` `2021-06-05T08:22:29.082+00:00` `danik9665`: No ono pokud umis ty veci v tom docs 100% + ten od Naty, tak zatim z tech 1. Dvou terminu to bohate stacilo a pritom clovek skipl hromadu blbosti, ale zase chapu, ze u 3. je lepsi pocitat se vsim
+- `2021` `2021-06-05T09:48:20.119+00:00` `honore4608`: Vsak jsi rikal, ze se ucis na zkousku max 12h. PRL mi teda nepripadlo nejak ultra hard.
+- `2021` `2021-06-05T15:02:58.784+00:00` `nitram147`: V tom mas pravdu. Kazdopadne, ucil som sa cca 10-14 hod (nepocital som to), a ocividne som to nestihol 😀 Posledne prednasky som kvoli casu rychlo preskroloval a zrovna veci z nich dal na skusku 😅 A kedze je to posledny termin tak si asi pozriem vsetky zaznamy z prednasok (min ...
+- `2021` `2021-06-07T12:29:31.839+00:00` `mrsharper`: třeba to někomu pomůže, teď jsem měl reklamaci 1. opravného ptal se mě na věci, co mi chyběli a ztratil jsem na tom body 😄 33 -> 35 ptal se mě na 3 věci
+- `2021` `2021-06-07T18:42:23.323+00:00` `simeonko`: Myslim ze tato veta z tej wiki to vystihuje: ``` The model focuses on the inherent level of computational parallelism without worrying about communication delays between the processors or delays due to memory accesses. ``` Rozmyslam, ako si schopny naimplementovat CREW v HW. K...
+- `2021` `2021-06-07T19:14:29.693+00:00` `takumaron`: chtělo by to. Jak se teď učím znova tak si myslím že jsem měl mít minimálně o 5 bobdů víc z minulýho termínu
+- `2021` `2021-06-07T19:27:56.068+00:00` `dajvid`: No v té zkoušce jsou podle mě víc věcí od Zbořila (možná proto že tu zkoušku tvoří :kekw_ayaya:)
+- `2021` `2021-06-07T19:29:08.045+00:00` `dajvid`: Podle mě je nejvíc worth si projít ty staré zkoušky (pořád jsem to ale neudělal :HAhaaVUT:).
+- `2021` `2021-06-07T19:30:07.87+00:00` `dajvid`: Ten minulý termín byl full recycle ne? Všechny otázky co tam byly byly v google docu.
+- `2021` `2021-06-07T19:45:24.924+00:00` `dajvid`: Btw zkouška z tohohle předmětů je podle mě tak debilně udělaná, že moc uspokojivé nejde udělat tak, že by ses naučil všechno. Ještě když ty zadání vesele recykluje.
+- `2021` `2021-06-07T19:52:12.013+00:00` `rys8515`: ale ked si preskrtam co bolo na projektoch, na polsemke a na minulych terminoch :VUTrtzW:
+- `2021` `2021-06-07T19:52:30.028+00:00` `ishanka`: ale to co bylo na terminech je uplne prd z toho, kolik tam toho v tom predmetu je
+- `2021` `2021-06-07T23:02:26.526+00:00` `dajvid`: Napište to do dotazníků na konci zkouškového pls, co nevidět budou veřejné, když tam bude několik set komentářů co slušné píšou že ten předmět stojí za hovno, tak už v té zprávě budou muset aspoň napsat že je to na piču předmět. :HAhaaVUT:
+- `2021` `2021-06-08T00:12:54.024+00:00` `nitram147`: Ani motivaciu zacat ani demotivaciu prestat prokrastinovat nemam, a to je kua posledny termin 😄
+- `2021` `2021-06-08T10:42:29.59+00:00` `francze`: já stále nevím, jestli se plánuješ na tu zkoušku vysrat nebo tam jít to zkusit :HAhaaVUT:
+- `2021` `2021-06-08T14:33:25.972+00:00` `nitram147`: :KEKW: Netreba zabudat na to, ze vsetci, ktori sa o tom bavili (aspon vcera), nedali skusku a idu na posledny opravny :objection:
+- `2021` `2021-06-08T19:45:40.825+00:00` `simeonko`: Tak na minulom termine bolo ze popiste jednu ne-von neumanovsku architekturu sa mi zda - redukcny pocitac alebo data flow.
+- `2021` `2021-06-09T00:36:52.484+00:00` `takumaron`: Minulý termíny mají pokyny na wiki (že není žádný rozdělení, aby jsme přišli do D105) ale tenhle termín tam ještě není
+- `2021` `2021-06-09T04:26:02.739+00:00` `nitram147`: Btw mame garantovane asi len (to ale nie je odpoved na tvoju otazku) 2 terminy v ramci jedneho roku, to ze byvaju vypisane 3 este nezarucuje ze by sme na ne mali pravo. Na prvom som nebol z dovodu choroby, takze toto bude len moj druhy. A ten predchadzajuci som sa moc ani nema...
+- `2021` `2021-06-09T04:33:53.645+00:00` `Deleted User`: Chtěl jsem víc času na učení na zkoušky, s tím že diplomku dodělám příští rok ale teď se mi nedaří ani ty zkoušky. Jako jsou tady jistě zdravotní důvody na které bych mohl hrát (kvůli kterým jsem loni failnul všechny zkoušky co tě opqkuju) Ale na to nemam potvrzení a bylo by a...
+- `2021` `2021-06-09T04:39:11.759+00:00` `Deleted User`: Furt jsem dělal na diplomce a pak najednou viděl projekty, otázky na státnice, zkoušky a zjistil ze to nemám šanci zvládnout ať udělám cokoliv.
+- `2021` `2021-06-09T05:44:29.471+00:00` `dajvid`: Já na minulém termínu nevěděl co do piči myslí tím pozorováním u pí kalkulu, jinak jsem ho uměl. :HAhaaVUT:
+- `2021` `2021-06-09T07:56:11.269+00:00` `takumaron`: Hmmmm, když byla zkouška v jedný místnosti tak poslal pokyny že máme všichni přijít do tý jedný místnosti. Když je to těď ve třech místnostech tak žádný pokyny neposílá :VUTrtzW:
+- `2021` `2021-06-09T11:23:55.195+00:00` `nitram147`: 1.) PRAM tipovačka 2.) VLIW + ako sa riešia konflikty 3.) Monitor - popis + obrázok 4.) Problém 5 filozofov - kód so semaformi + popis ako to funguje (plus musel byt deadlock proof ten kód) 5.) Nieco s FIFO a broadcastom, nejaká random tabuľka, v živote som to nevidel 6.) Rand...
+- `2021` `2021-06-09T11:50:55.561+00:00` `daramk`: Oni nahrazuji jen treti termin a nebo pokud jsi chybel na oba prvni. Takhle melo pak lidi s covidem smulu v zime
+- `2022` `2022-04-26T14:53:45.668+00:00` `isaacdrews`: Kdyby se literally každej PRL termín nepároval s termínama jiných předmětů :rtzW:
+- `2022` `2022-05-02T18:40:30.375+00:00` `mmat.`: `Pro získání zápočtu a úspěšné ukončení předmětu je nutné za každý z hodnocených úkolů získat minimálně jeden bod (tedy oba projekty odevzdat v řádném termínu)`
+- `2022` `2022-05-05T20:59:31.75+00:00` `zmatenejstrejda`: já už nechci :sadscreamingcat: proč nemůžeme mít třeba týden volno před zkouškami :sadgery:
+- `2022` `2022-05-05T21:01:56.407+00:00` `zmatenejstrejda`: FIT je snad vždy první ze škol kdo má zkouškový za sebou, takže by se týden určitě našel :sadgery:
+- `2022` `2022-05-05T21:14:29.411+00:00` `atreides38`: Padlo to i na tom setkání s akademiky a přišlo klasické *nelze* protože zkušební řád VUT a všechny fakulty odrazu. A když padla otázka, kde tedy máme začít lobovat, aby se to změnilo tak se do toho vložil Křena a začal tam vysvětlovat, že nejde jenom o to přidat, ale muselo by...
+- `2022` `2022-05-05T21:29:10.4+00:00` `sqvik`: Je možnost vynechat první termíny, jít na druhé jako na snad všech ostatních a ten týden volna si udělat :clueless:
+- `2022` `2022-05-06T09:02:46.5+00:00` `aleksij`: proč mám takovej pocit že zkouška z tohole předmětu bude větší pain jak FLP :pains:
+- `2022` `2022-05-06T09:10:01.339+00:00` `kristyna4270`: máme někde grafy, jak je to bolestivý? :sadge: přemýšlím, jak moc velká blbost by byla skipnout řádný termín :VUTrtzW:
+- `2022` `2022-05-07T15:51:35.237+00:00` `afos`: Pripravil som zdieľaný dokument na prípravu k semestrálnej skúške z predmetu PRL. Budeme radi, ak sa zapojíte do jeho vypĺňania. Nakoľko je táto skúška podľa otázok a podľa študentov, ktorí si tým prešli, dosť nepríjemná, dal som do zdieľaného dokumentu viac zadaní + jedno zad...
+- `2022` `2022-05-08T17:18:17.781+00:00` `mr.speaker`: Zbořilova skartova9ka, kdyz pri opravovani zkousky uvidi tvuj pocet bodu za semestr:
+- `2022` `2022-05-12T14:46:03.953+00:00` `bc.plov_ec`: panove janom me tady ta zkouska prijde jeste vic na picu nez FLP protoze adekvatni materialy nejsou?
+- `2022` `2022-05-13T08:30:09.835+00:00` `afos`: MPI je vždy na každom termíne - jedna otázka, prakticky niečo naprogramovať v MPI
+- `2022` `2022-05-13T10:33:24.207+00:00` `isaacdrews`: Strašně rád bych sdílel tvůj optimismus, ale je to doposud jediná zkouška na FITu, co jsem 3x neudělal. :rtzW: Je to prostě neuvěřitelně obsáhlej předmět, a oni očekávaj, že když se zeptaj na algoritmus, tak mu rozumíš do detailu. Což je dost naprd, když algoritmů je přes čtyř...
+- `2022` `2022-05-13T10:48:05.911+00:00` `aleksij`: mu na tu zkoušku napíšu že moje odpovědi jsou chráněny autorskými právy a nemůžu je šířit, instantně dostanu A
+- `2022` `2022-05-13T11:00:24.047+00:00` `isaacdrews`: Nepodcenit točení otázek. :rtzW: Zbořil mě sundal tím, že mi dva termíny po sobě dal Random Mating a monitor. Oba jsem po prvním neúspěchu skipl, protože kdo by opakoval otázky mezi termínama… :HAhaaVUT:
+- `2022` `2022-05-14T10:33:49.485+00:00` `sebasuuu`: najprv to zredukujes tak ze posles a prijmes cez `z, x` a potom z toho co ti ostane robis dalsie redukcie, kde vdaka nedeterminizmu mozu byt dve
+- `2022` `2022-05-14T15:51:06.16+00:00` `isaacdrews`: Mě poslouchat, na všech třech failnutých termínech mám z téhle úlohy full :rtzW:
+- `2022` `2022-05-14T16:17:52.616+00:00` `tomiju`: Lindu vidím poprvé téměř v předvečer zkoušky :pepeLaff: prolog jsem dělal projekt a byl na cviku a stejně jsem nedokázal ani čárku :rtzW: kvůli tomu rozdělávání predikátů v predikátu
+- `2022` `2022-05-14T16:35:12.385+00:00` `afos`: rozkaz.. ale ak to tam v pondelok bude, tak si ťa nájdem.. a doučíš ma to na opravný termín :VUTrtzW:
+- `2022` `2022-05-14T21:00:26.76+00:00` `tomiju`: říkal u nějakého slajdu, že slíbil, že to tam nedá a pak dělal zkoušku a říkal si "jéé, to je pěkný příklad" a šup to tam :PepePls:
+- `2022` `2022-05-14T21:03:17.153+00:00` `lada_42`: Ale pravděpodobnost, že by to dal na všechny tři termíny, je malá :feelsOkayMan:
+- `2022` `2022-05-14T21:44:30.008+00:00` `mr.speaker`: ja uz na par zkouskach zavedl taky novy konvence, kdyz jsem freestyloval :PepeLa:
+- `2022` `2022-05-14T22:06:07.703+00:00` `kristyna4270`: jsou ve vývoji, ale zatím fest nestíhám... kdyby se u nás dávaly zkoušky za sepsání skript, to by bylo krásný :feelsWowMan:
+- `2022` `2022-05-15T08:04:48.242+00:00` `tomiju`: zažádej si o výsledek zkoušky, on si zažádá o to, abys napsal zkoušku, ez deadlock a jdem dom :EZ:
+- `2022` `2022-05-15T12:03:53.805+00:00` `fazolek`: Mi přijde že v těch výpiscích je tak 90 % věcí, co se tam nikdy neobjevilo v těch zkouškách :thonk:
+- `2022` `2022-05-15T16:11:44.651+00:00` `student4822`: ked som siel na FLP riadny, tak sme ho s kamaratom videli ako isiel smerom na Husitsku z FITu :pepelaughlidl:
+- `2022` `2022-05-15T18:45:45.355+00:00` `bc.plov_ec`: hm, myslel jsem si ze to muzeme by default myt, ne? ja si vzdy pripravuju bar na zkouskou ktera ma vic nez 2h :HAhaaVUT:
+- `2022` `2022-05-15T18:47:17.218+00:00` `bc.plov_ec`: takze pokud by nekdo potreboval najist behem zkousky, klidne ping me a najdu nejakou tycinky
+- `2022` `2022-05-15T19:42:04.294+00:00` `arttarius`: v tom docu to vypadá, že je to na každém termínu, ale přitom tam není nic vyplněné (ani přímo zadání)
+- `2022` `2022-05-15T20:24:14.693+00:00` `sqvik`: :clueless: taky už jednou hovořil, že na zkousku něco nedá, ale zalibilo se mu to
+- `2022` `2022-05-15T20:46:39.983+00:00` `lada_42`: No po mně nikdo teda nechtěl, abych psal objektově a kód nikdo taky nehodnotil. Vlastně ani C++ jsem nemusel umět. V C# věřím, že to bude za něco stát. Každopádně OOP by mělo být rozhodně povinný, když je povinný funkcionalni. Zkouška z toho taky nebyla a z FLP je. Jen říkám, ...
+- `2022` `2022-05-15T20:50:01.259+00:00` `sqvik`: však říkám že ty předměty na to jsou, jen mají špatnou úroveň... a jinak zkouška z objektových principů je, pokud se nemýlim, a psát zkoušku z objektového kódu... to by bylo hodně papírů než bys napsal třeba Java třídy :pepeLaugh:
+- `2022` `2022-05-16T12:02:26.499+00:00` `.rrait`: skupina C 2022: Tipsport extraliga Xeon Mám etour a suffixsum a zjistit kolik je následujících vrcholu + popsat princip + určit čas náročnost Monitor Jsou asynchronní signály a určit zda jdou předkládat tak aby šli volat synchrone Prescan OCAM - mám chanelly 1-10 a může přijít...
+- `2022` `2022-05-16T12:35:07.761+00:00` `emzak`: Skupina B 1. Pram tipovacka 2. Vektorové procesory 3. Paralelní Select algoritmus K-teho prvku z posloupnosti S. Princip + Demonstrace 4. Peterson. Princip + pseudo kód 5. Synchronizace ? Netuším 6. Enumration sort, napsat X,Y,C,Z po skonceni algoritmu 7. OCCAM 8. MPI
+- `2022` `2022-05-16T14:06:26.04+00:00` `afos`: dúfam, že aktívne budete podporovať tých, ktorí to dnes nezvládli a čaká ich (aj mňa) opravný termín :VUTrtzW: aby tu potom nebolo ticho
+- `2022` `2022-05-19T16:24:00.21+00:00` `flippz`: nepostuje se přesně tato zpráva v literally každém předmětu kde zbořil dělá zkoušku? :OMEGALUL:
+- `2022` `2022-05-19T16:39:22.656+00:00` `kristyna4270`: To nevím, přímo já mu nepsala, na to nemám odvahu s tím, jak jsem tu zkoušku napsala :KEKW:
+- `2022` `2022-05-19T19:12:43.484+00:00` `bvit`: To jsem myslel, že budu mít víc času když skipnu první termíny, ale nevypadá to :kek:
+- `2022` `2022-05-19T19:28:05.016+00:00` `student4822`: on stale na 1.opravny zrecykluje par otazok z riadneho, aspon co som pozeral tak to tak bolo
+- `2022` `2022-05-21T09:55:56.881+00:00` `aleksij`: studenti na opravném termínu FLP když jim dušan dá lambu v haskellu budou jakože
+- `2022` `2022-05-25T09:38:15.675+00:00` `student4822`: inak, aj sa mi zdalo ze na riadny dava stale PRAM tipovacku a na opravny da popis PRAM
+- `2022` `2022-05-25T14:07:00.862+00:00` `afos`: aktuálne bojujem s enum sortom.. naučiť sa ho na riadny, tak možno by som mal motiváciu niečo vymyslieť a tých 35 by padlo
+- `2022` `2022-05-25T15:05:50.775+00:00` `Deleted User`: Já se asi zaměřím na to co bývá, projedu předchozí termíny a snad to půjde :Prayge:
+- `2022` `2022-05-25T15:39:48.521+00:00` `student4822`: tam by som mozno to PRAM rozdelil, vacsinou na riadnom je tipovacka a na opravnom architektura, kazdopadne dakujeme :peepolove:
+- `2022` `2022-05-25T19:58:26.199+00:00` `student4822`: podla toho co mi povedal Zboril nech sa to naucim na prvy opravny tak hej, ale mozne je vsetko :shrunk:
+- `2022` `2022-05-25T20:13:52.931+00:00` `nica1552`: neviem či ste sa o tom už bavili ale v tých vyriešených príkladoch skupina A ten príklad 4 na pipeline, od kroku 7 medzi P2 a P3 vznikne v hornom riadku nezoradená postupnosť čo neni podľa mňa správne či?
+- `2022` `2022-05-26T15:47:07.393+00:00` `aleksij`: ať zítra mocný zbořil zrecykluje řádný termín, a žádný člověk nemá pod 40 bodů :Prayge:
+- `2022` `2022-05-26T23:04:13.376+00:00` `atreides38`: Ale těš sa. Fakt mega free. Nejlehčí projekt na fitu ever. Vybereš článek, za den uděláš a naučíš prezenčku a pak to stačí strašně nadšeně a zapáleně odprezentovat a nemá ani otázky. Všichni dostali fullku 30b. A na zkouškách recykluje furt ty samé otázky do kola. Taky na jede...
+- `2022` `2022-05-27T09:13:27.639+00:00` `beeblebr0x`: pre mna to bolo nejake moc pomale a zaspaval som, ale to bolo pred prvym terminom no ..
