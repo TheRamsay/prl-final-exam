@@ -12,7 +12,8 @@ Obsidian-friendly báze pro přípravu na zkoušku z PRL. Materiály vycházejí
 6. [[knowledge/topics/00-index|Topic index]]
 7. [[knowledge/visuals/00-index|Vizualizace]]
 8. [[knowledge/practice/00-index|Cvičné testy]]
-9. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
+9. [[knowledge/05-vyhledavani|Vyhledávání]]
+10. [[knowledge/99-llm-index|LLM index pro vyhledávání]]
 
 ## Top témata
 
