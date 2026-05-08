@@ -2,6 +2,18 @@
 
 Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání nad bází.
 
+## Základní pravidlo
+
+Odpovídej primárně z vaultu. Externí zdroje používej až když ve vaultu chybí potřebný kontext nebo když uživatel výslovně chce ověření mimo repozitář.
+
+Priorita zdrojů:
+
+1. `knowledge/topics/*.md` pro destilované znalosti, postupy a odpovědní šablony.
+2. `knowledge/exams/**/term-*.md` pro konkrétní historická zadání.
+3. `knowledge/exams/_verification/raw-vs-student-doc.md` pro jistotu, rozpory a původ zdroje.
+4. `raw/*.md` a `raw/*.webp` pro původní materiál.
+5. `knowledge/sources/student-doc/` pro rozsekaný studentský dokument.
+
 ## Nejrychlejší vstupy
 
 - [[knowledge/00-rozcestnik|Lidský rozcestník]]
@@ -18,12 +30,22 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 - [[knowledge/exams/00-index|Archiv minulých termínů]]
 - [[knowledge/exams/_verification/raw-vs-student-doc|Raw vs student doc]]
 
-## Jak hledat odpověď
+## Odpovědní postup
 
-1. Najdi téma v `knowledge/topics/`.
-2. Najdi výskyty tématu v minulých termínech přes odkazy na topic poznámku.
-3. Zkontroluj verifikační matici, jestli je zdroj `shoda`, `raw only`, `student_doc only`, nebo `student_doc doplňuje raw`.
-4. Pokud je potřeba přesné zadání, otevři raw zdroj z termínového souboru.
+1. Najdi topic poznámku v `knowledge/topics/`.
+2. Najdi aspoň jeden historický výskyt v `knowledge/exams/**/term-*.md`.
+3. Pokud jde o přesnost zadání, otevři verifikační matici a případně raw zdroj uvedený v termínovém souboru.
+4. V odpovědi cituj explicitní vault odkazy ve formátu `[[knowledge/...]]` nebo `[[raw/...]]`.
+5. Když je zdroj nejistý, pojmenuj stav: `shoda`, `raw only`, `student_doc only`, nebo `student_doc doplňuje raw`.
+
+## Recepty podle dotazu
+
+- "Vysvětli téma": začni topic poznámkou, přidej minimální odpověď a typické chyby.
+- "Co se učit první": použij [[knowledge/01-roi-plan]] a [[knowledge/06-must-know]].
+- "Co čekat u řádného termínu": použij [[knowledge/07-predikce-radny-2025-2026]] a [[knowledge/08-pretermin-vs-radny]].
+- "Kdy se to objevilo": hledej odkazy na topic v `knowledge/exams/`.
+- "Je to jisté / odkud to je": použij [[knowledge/exams/_verification/raw-vs-student-doc]].
+- "Chci drill": použij [[knowledge/practice/00-index]] a mini-drilly v topic poznámkách.
 
 ## Topic poznámky
 
@@ -48,8 +70,9 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 rg -n "PRAM|CRCW|EREW" knowledge raw
 rg -n "MPI|Reduce|Bcast" knowledge/exams knowledge/topics
 rg -n "\\[\\[knowledge/topics/pram-tipovacka" knowledge/exams
+rg -n "\\[\\[knowledge/topics/mpi-reduce-bcast" knowledge/exams
 rg -n "Termínový label|Jednotné zadání|Tématické odkazy" knowledge/exams
-rg -n "Verifikační status|raw only|student_doc only|shoda" knowledge/exams
+rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|shoda" knowledge/exams knowledge/exams/_verification
 ```
 
 ## Kde co leží
@@ -70,5 +93,7 @@ rg -n "Verifikační status|raw only|student_doc only|shoda" knowledge/exams
 - Pro učení používej nejdřív topic poznámky a ROI plán.
 - Pro dotazy typu “kdy se to objevilo” používej archiv termínů.
 - Pro dotazy typu “je to jisté” používej verifikační matici.
-- Když odpovídáš z více zdrojů, uveď konkrétní soubory.
+- Když odpovídáš z více zdrojů, uveď konkrétní soubory a preferuj jeden topic + jeden minulý termín.
+- Když uživatel chce zkouškovou odpověď, piš krátce: definice, algoritmus/postup, složitost nebo vlastnost, typická past.
+- Když jsou zdroje v rozporu, nevyhlašuj vítěze bez raw kontroly.
 - Neodkazuj na `*.txt`; raw texty jsou převedené na `*.md`.
