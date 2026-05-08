@@ -54,6 +54,44 @@ U každé podúlohy napiš:
 3. Jak spočítáš cenu stromové redukce s `n` procesory a časem `O(log n)`?
 4. Kde u monotónnosti vzniká problém v EREW?
 
+## Vyřešené příklady z termínů
+
+### OR prvků `1/0`
+
+Zdroj: [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+
+Zadání: určit cenu optimálního algoritmu pro OR nad `n` prvky při `N = n` procesorech.
+
+Řešení:
+
+- EREW: stromová redukce, čas `O(log n)`, procesory `O(n)`, cena `O(n log n)`.
+- CREW: souběžné čtení nepomůže zásadně u redukce do jedné hodnoty, typicky `O(log n)` čas a cena `O(n log n)`.
+- Common CRCW: každý proces s hodnotou `1` zapíše do sdílené odpovědi `1`; zapisovaná hodnota je stejná, čas `O(1)`, procesory `O(n)`, cena `O(n)`.
+
+### NOT všech prvků
+
+Zdroj: [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+
+Zadání: spočítat negaci všech prvků `1/0` v posloupnosti.
+
+Řešení:
+
+- Každý proces zpracuje jeden prvek: `B[i] = !A[i]`.
+- V EREW, CREW i CRCW nevzniká konflikt, protože proces `i` čte `A[i]` a zapisuje `B[i]`.
+- Čas `O(1)`, procesory `O(n)`, cena `O(n)`.
+
+### XOR / parita
+
+Zdroj: [[knowledge/exams/2023-2024/term-1-radny-b]]
+
+Zadání: určit časovou složitost XOR pro EREW, CREW a common CRCW.
+
+Řešení:
+
+- XOR není monotónní existence vlastnosti, takže common zápis stejné hodnoty nestačí.
+- Bez silnějšího conflict resolution použij stromovou redukci XOR.
+- Typická odpověď pro všechny tři modely: čas `O(log n)`; při `O(n)` procesorech cena `O(n log n)`.
+
 ## Kde se to objevuje
 
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]

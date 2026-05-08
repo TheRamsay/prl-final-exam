@@ -55,6 +55,50 @@ Co dodat:
 3. Kdy je SIMD vhodnější než MIMD?
 4. Proč je PRAM spíš model než reálná architektura?
 
+## Vyřešené příklady z termínů
+
+### VLIW
+
+Zdroj: [[knowledge/exams/2023-2024/student-doc-digest]]
+
+Zadání: popsat VLIW.
+
+Řešení:
+
+- VLIW používá dlouhé instrukční slovo se sloty pro několik funkčních jednotek.
+- Paralelismus plánuje hlavně překladač, ne dynamický hardware.
+- Překladač musí řešit datové závislosti, strukturální konflikty a větvení.
+- Typické techniky: vkládání NOP, rozbalení smyček, plánování instrukcí, predikace.
+- Výhoda je jednodušší hardware, nevýhoda horší kompatibilita/plánování pro různé implementace.
+
+### Zřetězené procesory
+
+Zdroj: [[knowledge/exams/2024-2025/term-0-pretermin]]
+
+Zadání: vysvětlit zřetězení v aritmetických operacích a nakreslit příklad.
+
+Řešení:
+
+- Aritmetická operace se rozdělí na fáze, například načtení operandů, dílčí výpočet, normalizace, zápis.
+- Každá fáze běží v jiné části pipeline.
+- Po naplnění pipeline se v každém taktu může dokončit jeden výsledek.
+- Latence jednoho výsledku je počet fází, ale propustnost je po naplnění až jeden výsledek za takt.
+- Do obrázku nakresli řadu fází a několik instrukcí posunutých o jeden takt.
+
+### Dataflow architektura
+
+Zdroj: [[knowledge/exams/2021-2022/student-doc-digest]]
+
+Zadání: popsat dataflow architekturu.
+
+Řešení:
+
+- Instrukce není spouštěna programovým čítačem, ale dostupností operandů.
+- Výpočet lze kreslit jako graf závislostí.
+- Uzel se aktivuje, když jsou dostupné všechny vstupní tokeny.
+- Výhoda: přirozeně odhaluje paralelismus.
+- Nevýhoda: složitá správa tokenů, paměti a pořadí efektů.
+
 ## Kde se to objevuje
 
 - [[knowledge/exams/2024-2025/term-0-pretermin]]

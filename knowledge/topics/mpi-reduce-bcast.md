@@ -82,6 +82,66 @@ printf("%d: %f\n", rank, out);
 3. Jak bys řešil `max % min == 0` a na co si dát pozor?
 4. Jak reprezentovat stav pro druhé minimum?
 
+## Vyřešené příklady z termínů
+
+### `max % min == 0`
+
+Zdroj: [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+
+Zadání: v logaritmickém čase určit, zda je maximum v posloupnosti přirozených čísel beze zbytku dělitelné minimem.
+
+Řešení:
+
+```c
+int root = 0;
+int mn, mx;
+MPI_Reduce(&value, &mn, 1, MPI_INT, MPI_MIN, root, MPI_COMM_WORLD);
+MPI_Reduce(&value, &mx, 1, MPI_INT, MPI_MAX, root, MPI_COMM_WORLD);
+
+if (rank == root) {
+  bool ok = (mn != 0) && (mx % mn == 0);
+  printf("%s\n", ok ? "Ano" : "Ne");
+}
+```
+
+Není potřeba `Bcast`, pokud výsledek tiskne jen root. Komunikační složitost je `O(log p)`.
+
+### `value - average(values)`
+
+Zdroj: [[knowledge/exams/2023-2024/term-0-pretermin]]
+
+Zadání: každý proces má vypsat `rank: value - average(values)`.
+
+Řešení:
+
+```c
+int root = 0;
+int sum = 0;
+double avg = 0.0;
+MPI_Reduce(&value, &sum, 1, MPI_INT, MPI_SUM, root, MPI_COMM_WORLD);
+if (rank == root) avg = (double)sum / numproc;
+MPI_Bcast(&avg, 1, MPI_DOUBLE, root, MPI_COMM_WORLD);
+
+double out = value - avg;
+printf("%d: %f\n", rank, out);
+```
+
+`Bcast` je nutný, protože průměr potřebují všechny procesy.
+
+### Součet prvků větších než průměr
+
+Zdroj: [[knowledge/exams/2023-2024/term-1-radny-b]]
+
+Řešení:
+
+1. `Reduce SUM` spočítá globální součet.
+2. Root spočítá `avg`.
+3. `Bcast avg`.
+4. Každý proces nastaví `candidate = value > avg ? value : 0`.
+5. `Reduce SUM` nad `candidate`.
+
+Výsledek tiskne root. Celkově několik kolektivních operací, každá `O(log p)`.
+
 ## Kde se to objevuje
 
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]

@@ -53,6 +53,51 @@ Strom se převede na orientované hrany v Eulerově průchodu. Nad hranami se na
 3. Kdy použiješ prefix a kdy suffix sum?
 4. Jak převedeš hranovou hodnotu zpět na `level(v)`?
 
+## Vyřešené příklady z termínů
+
+### Výpočet `level(v) -> N`
+
+Zdroj: [[knowledge/exams/2025-2026/term-0-pretermin-a]]
+
+Zadání: při dostupném `Etour`, funkci `SuffixS(hrany, ohodnocení)` a testu `if e je dopredna` spočítat úroveň vrcholů.
+
+Řešení:
+
+1. Pro každou orientovanou hranu nastav váhu podle směru. Jedna běžná volba je `+1` pro dopřednou hranu a `-1` pro zpětnou hranu.
+2. Spočítej suffix/prefix sum přes Euler tour podle konvence v zadání.
+3. Hodnota součtu u první dopředné hrany do vrcholu určuje hloubku/level vrcholu po případné konstantní korekci podle kořene.
+4. Kořen má `level(root) = 0`.
+5. Paralelní scan dává `O(log n)` čas při `O(n)` práci po sestavení Etour.
+
+U zkoušky je důležité říct, jak převádíš hranovou hodnotu zpět na vrcholovou.
+
+### `preorder(v) -> N`
+
+Zdroj: [[knowledge/exams/2023-2024/term-1-radny-b]]
+
+Zadání: pro `Etour` a informaci, zda je hrana dopředná, spočítat pořadí vrcholů v preorder průchodu.
+
+Řešení:
+
+1. Označ dopředné hrany, které odpovídají prvnímu vstupu do vrcholu.
+2. Těmto hranám dej váhu `1`, ostatním `0`.
+3. Prefix sum nad Euler tour dá pořadí prvních vstupů.
+4. Pro každý vrchol vezmi hodnotu prefixu na jeho první vstupní dopředné hraně.
+5. Uprav indexaci podle zadání: buď od `0`, nebo od `1`.
+
+### Počet následovníků/potomků
+
+Zdroj: [[knowledge/exams/2021-2022/term-1-radny-c]]
+
+Zadání: z `Etour` a suffix sum zjistit počet následujících vrcholů ve stromě.
+
+Řešení:
+
+- V Euler tour si vymez interval podstromu mezi vstupem do vrcholu a návratem z něj.
+- Váhy nastav tak, aby se započítával první vstup do vrcholu.
+- Suffix/prefix sum nad tímto intervalem dá počet vrcholů v podstromu.
+- Počet potomků je velikost podstromu minus `1`, pokud nechceš počítat samotný vrchol.
+
 ## Kde se to objevuje
 
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]
