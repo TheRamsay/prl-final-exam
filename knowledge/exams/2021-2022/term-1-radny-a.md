@@ -25,8 +25,8 @@
 
 ## Původní zdroje
 
-- Obrázek: [raw/term_1_2021_a_img.webp](../../../raw/term_1_2021_a_img.webp)
-- Kopie obrázku ve vaultu: ![[term_1_2021_a_img.webp]]
+- Obrázek: [[raw/term_1_2021_a_img.webp]]
+- Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2021_a_img.webp]]
 
 ## Tématické odkazy
 

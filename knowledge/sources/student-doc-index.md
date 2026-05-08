@@ -32,4 +32,4 @@ Zdroj: `raw/student_doc.md`. Dokument je velký, protože obsahuje vložené bas
 
 ## Další krok
 
-Pro detailní zpracování lze dokument rozdělit po nadpisech do samostatných souborů a zvlášť extrahovat base64 obrázky. Aktuální vault už ale pokrývá novější ručně sesbírané `term_*.txt`, které jsou pro nejvyšší ROI čistší.
+Pro detailní zpracování lze dokument rozdělit po nadpisech do samostatných souborů a zvlášť extrahovat base64 obrázky. Aktuální vault už ale pokrývá novější ručně sesbírané `term_*.md`, které jsou pro nejvyšší ROI čistší.

@@ -1,6 +1,6 @@
 # Četnosti témat
 
-Zdroj: `raw/common_latest.txt` a `raw/common_16-22.txt`.
+Zdroj: `raw/common_latest.md` a `raw/common_16-22.md`.
 
 ## Aktualizovaný odhad
 

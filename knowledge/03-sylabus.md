@@ -1,6 +1,6 @@
 # Sylabus a mapa předmětu
 
-Zdroj: `raw/course_info.prl.txt`, PRL 2025/2026.
+Zdroj: `raw/course_info.prl.md`, PRL 2025/2026.
 
 ## Oficiální rozsah
 

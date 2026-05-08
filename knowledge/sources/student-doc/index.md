@@ -1,11 +1,11 @@
 # Student doc
 
-Zdroj: [raw/student_doc.md](../../../raw/student_doc.md)
+Zdroj: [[raw/student_doc]]
 
 ## Co tu je
 
 - [clean.md](clean.md) - očištěná verze studentského dokumentu bez vložených base64 obrázků; obrázky jsou nahrazeny placeholdery `[obrazek: imageN]`.
-- [section-index.txt](section-index.txt) - index hlavních zkouškových sekcí s řádky v čistém souboru.
+- [[section-index]] - index hlavních zkouškových sekcí s řádky v čistém souboru.
 - `YYYY-YYYY-extract.md` - roční výřezy pro audit proti destilacím.
 
 ## Stav zpracování

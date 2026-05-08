@@ -25,9 +25,9 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_1_2023_a.txt](../../../raw/term_1_2023_a.txt)
-- Obrázek: [raw/term_1_2023_a_img1.webp](../../../raw/term_1_2023_a_img1.webp)
-- Kopie obrázku ve vaultu: ![[term_1_2023_a_img1.webp]]
+- Textový zdroj: [[raw/term_1_2023_a]]
+- Obrázek: [[raw/term_1_2023_a_img1.webp]]
+- Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2023_a_img1.webp]]
 
 ## Tématické odkazy
 

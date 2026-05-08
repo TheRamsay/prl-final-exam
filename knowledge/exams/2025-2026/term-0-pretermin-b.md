@@ -24,7 +24,7 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_0_2026_b.txt](../../../raw/term_0_2026_b.txt)
+- Textový zdroj: [[raw/term_0_2026_b]]
 
 ## Tématické odkazy
 

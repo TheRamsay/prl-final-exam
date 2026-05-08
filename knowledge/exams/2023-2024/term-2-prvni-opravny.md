@@ -25,7 +25,7 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_2_2023.txt](../../../raw/term_2_2023.txt)
+- Textový zdroj: [[raw/term_2_2023]]
 
 ## Tématické odkazy
 

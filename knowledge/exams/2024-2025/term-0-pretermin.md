@@ -25,7 +25,7 @@
 
 ## Původní zdroje
 
-- Raw dokument: [raw/student_doc.md](../../../raw/student_doc.md)
+- Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[sources/student-doc/clean]]
 
 ## Tématické odkazy
@@ -54,7 +54,7 @@
 
 ## Rozdíly / doplnění ze student_doc
 
-- Termín je jen ve studentském dokumentu; nemáme odpovídající `raw/term*.txt`.
+- Termín je jen ve studentském dokumentu; nemáme odpovídající `raw/term*.md`.
 
 ## Poznámky k nejistotám
 

@@ -25,9 +25,9 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_0_2026_a.txt](../../../raw/term_0_2026_a.txt)
-- Obrázky: [raw/term_0_2026_img1.webp](../../../raw/term_0_2026_img1.webp), [raw/term_0_2026_img2.webp](../../../raw/term_0_2026_img2.webp), [raw/term_0_2026_img3.webp](../../../raw/term_0_2026_img3.webp), [raw/term_0_2026_img4.webp](../../../raw/term_0_2026_img4.webp)
-- Kopie obrázků ve vaultu: ![[term_0_2026_img1.webp]] ![[term_0_2026_img2.webp]] ![[term_0_2026_img3.webp]] ![[term_0_2026_img4.webp]]
+- Textový zdroj: [[raw/term_0_2026_a]]
+- Obrázky: [[raw/term_0_2026_img1.webp]], [[raw/term_0_2026_img2.webp]], [[raw/term_0_2026_img3.webp]], [[raw/term_0_2026_img4.webp]]
+- Kopie obrázků ve vaultu: ![[knowledge/assets/term_0_2026_img1.webp]] ![[knowledge/assets/term_0_2026_img2.webp]] ![[knowledge/assets/term_0_2026_img3.webp]] ![[knowledge/assets/term_0_2026_img4.webp]]
 
 ## Tématické odkazy
 

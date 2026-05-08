@@ -18,7 +18,7 @@
 
 ## Původní zdroje
 
-- Raw dokument: [raw/student_doc.md](../../../raw/student_doc.md)
+- Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[sources/student-doc/clean]]
 - Extract roku: [[sources/student-doc/2024-2025-extract]]
 
@@ -41,5 +41,5 @@ Samostatný soubor: [[term-0-pretermin]]
 
 ## Poznámky
 
-- Tento blok nebyl v samostatných `raw/term_*.txt`; pochází jen ze studentského dokumentu.
+- Tento blok nebyl v samostatných `raw/term_*.md`; pochází jen ze studentského dokumentu.
 - Dobře doplňuje trend mezi 2023/2024 a 2025/2026: PRAM, koruna/kauzalita, splitting, Euler, Enumeration/OCCAM/MPI.

@@ -18,7 +18,7 @@
 
 ## Původní zdroje
 
-- Raw dokument: [raw/student_doc.md](../../../raw/student_doc.md)
+- Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[sources/student-doc/clean]]
 - Extract roku: [[sources/student-doc/2022-2023-extract]]
 
@@ -102,7 +102,7 @@ Samostatný soubor: [[term-3-druhy-opravny]]
 7. Čtyři čítače, za 10 bodů.
 8. [[topics/mpi-reduce-bcast|MPI]] - v logaritmickém čase zjistit, zda má posloupnost 3 a více různých hodnot.
 
-## Největší přínos oproti raw `term_*.txt`
+## Největší přínos oproti raw `term_*.md`
 
 - Přidává 2022/2023 předtermín, řádný termín skupiny A/B/C a 2. opravný termín.
 - U některých příkladů obsahuje náznaky řešení nebo varování, že řešení ve zdroji je nejisté.

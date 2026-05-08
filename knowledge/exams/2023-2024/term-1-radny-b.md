@@ -25,9 +25,9 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_1_2023_b.txt](../../../raw/term_1_2023_b.txt)
-- Obrázek k Enumeration Sortu: [raw/term_1_2023_a_img2.webp](../../../raw/term_1_2023_a_img2.webp)
-- Kopie obrázku ve vaultu: ![[term_1_2023_a_img2.webp]]
+- Textový zdroj: [[raw/term_1_2023_b]]
+- Obrázek k Enumeration Sortu: [[raw/term_1_2023_a_img2.webp]]
+- Kopie obrázku ve vaultu: ![[knowledge/assets/term_1_2023_a_img2.webp]]
 
 ## Tématické odkazy
 

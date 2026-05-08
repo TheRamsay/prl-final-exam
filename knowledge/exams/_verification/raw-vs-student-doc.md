@@ -2,7 +2,7 @@
 
 ## Přehled
 
-Tahle matice porovnává strukturované raw zdroje (`raw/term*.txt`, `raw/*.webp`) se studentským dokumentem. Slouží jako auditní vrstva, ne jako náhrada původních zadání.
+Tahle matice porovnává strukturované raw zdroje (`raw/term*.md`, `raw/*.webp`) se studentským dokumentem. Slouží jako auditní vrstva, ne jako náhrada původních zadání.
 
 ## Matice po ročnících
 
@@ -10,8 +10,8 @@ Tahle matice porovnává strukturované raw zdroje (`raw/term*.txt`, `raw/*.webp
 
 | Termín | Varianta | Primární soubor | Raw zdroje | Student doc | Status | Poznámka |
 |---|---|---|---|---|---|---|
-| předtermín | A | [[exams/2025-2026/term-0-pretermin-a]] | `term_0_2026_a.txt`, `term_0_2026_img1-4.webp` | nenalezeno | `raw only` | Aktuální raw má nejpřesnější zadání včetně obrázků. |
-| předtermín | B | [[exams/2025-2026/term-0-pretermin-b]] | `term_0_2026_b.txt` | nenalezeno | `raw only` | Jen krátká raw poznámka. |
+| předtermín | A | [[exams/2025-2026/term-0-pretermin-a]] | `term_0_2026_a.md`, `term_0_2026_img1-4.webp` | nenalezeno | `raw only` | Aktuální raw má nejpřesnější zadání včetně obrázků. |
+| předtermín | B | [[exams/2025-2026/term-0-pretermin-b]] | `term_0_2026_b.md` | nenalezeno | `raw only` | Jen krátká raw poznámka. |
 
 ### 2024-2025
 
@@ -23,21 +23,21 @@ Tahle matice porovnává strukturované raw zdroje (`raw/term*.txt`, `raw/*.webp
 
 | Termín | Varianta | Primární soubor | Raw zdroje | Student doc | Status | Poznámka |
 |---|---|---|---|---|---|---|
-| předtermín | - | [[exams/2023-2024/term-0-pretermin]] | `term_0_2023.txt` | `clean.md`, řádky 54-79 | `shoda` | Pořadí i témata odpovídají. |
-| řádný termín | A | [[exams/2023-2024/term-1-radny-a]] | `term_1_2023_a.txt`, `term_1_2023_a_img1.webp` | `clean.md`, řádky 117-142 | `shoda` | Student doc potvrzuje text raw. |
-| řádný termín | B | [[exams/2023-2024/term-1-radny-b]] | `term_1_2023_b.txt`, `term_1_2023_a_img2.webp` | `clean.md`, řádky 80-112 a 143-175 | `student_doc doplňuje raw` | Student doc obsahuje skupinu B duplicitně a potvrzuje pořadí; obrázky jsou jen placeholdery. |
-| řádný termín | C | [[exams/2023-2024/term-1-radny-c]] | `term_1_2023_c.txt`, `term_1_2023_c_img1.webp` | nenalezeno v horním bloku | `raw only` | Student doc v čistém bloku skupinu C neobsahuje. |
-| 1. opravný termín | - | [[exams/2023-2024/term-2-prvni-opravny]] | `term_2_2023.txt` | `clean.md`, řádky 177-204 | `shoda` | Pořadí i témata odpovídají. |
+| předtermín | - | [[exams/2023-2024/term-0-pretermin]] | `term_0_2023.md` | `clean.md`, řádky 54-79 | `shoda` | Pořadí i témata odpovídají. |
+| řádný termín | A | [[exams/2023-2024/term-1-radny-a]] | `term_1_2023_a.md`, `term_1_2023_a_img1.webp` | `clean.md`, řádky 117-142 | `shoda` | Student doc potvrzuje text raw. |
+| řádný termín | B | [[exams/2023-2024/term-1-radny-b]] | `term_1_2023_b.md`, `term_1_2023_a_img2.webp` | `clean.md`, řádky 80-112 a 143-175 | `student_doc doplňuje raw` | Student doc obsahuje skupinu B duplicitně a potvrzuje pořadí; obrázky jsou jen placeholdery. |
+| řádný termín | C | [[exams/2023-2024/term-1-radny-c]] | `term_1_2023_c.md`, `term_1_2023_c_img1.webp` | nenalezeno v horním bloku | `raw only` | Student doc v čistém bloku skupinu C neobsahuje. |
+| 1. opravný termín | - | [[exams/2023-2024/term-2-prvni-opravny]] | `term_2_2023.md` | `clean.md`, řádky 177-204 | `shoda` | Pořadí i témata odpovídají. |
 
 ### 2022-2023
 
 | Termín | Varianta | Primární soubor | Raw zdroje | Student doc | Status | Poznámka |
 |---|---|---|---|---|---|---|
 | předtermín | - | [[exams/2022-2023/term-0-pretermin]] | nenalezeno | `2022-2023-extract.md` | `student_doc only` | Přidáno ze student docu. |
-| řádný termín | A | [[exams/2022-2023/term-1-radny-a-zkratka]] + [[exams/2022-2023/student-doc-digest]] | `term_1_2022_a.txt` | `2022-2023-extract.md` | `student_doc doplňuje raw` | Raw je stručný, student doc přidává širší kontext a další skupiny. |
+| řádný termín | A | [[exams/2022-2023/term-1-radny-a-zkratka]] + [[exams/2022-2023/student-doc-digest]] | `term_1_2022_a.md` | `2022-2023-extract.md` | `student_doc doplňuje raw` | Raw je stručný, student doc přidává širší kontext a další skupiny. |
 | řádný termín | B | [[exams/2022-2023/term-1-radny-b]] | nenalezeno | `2022-2023-extract.md` | `student_doc only` | Jen ve student docu. |
 | řádný termín | C | [[exams/2022-2023/term-1-radny-c]] | nenalezeno | `2022-2023-extract.md` | `student_doc only` | Jen ve student docu. |
-| 1. opravný termín | - | [[exams/2022-2023/term-2-prvni-opravny]] + [[exams/2022-2023/student-doc-digest]] | `term_2_2022.txt` | `2022-2023-extract.md` | `student_doc doplňuje raw` | Raw seznam odpovídá, student doc přidává formulace. |
+| 1. opravný termín | - | [[exams/2022-2023/term-2-prvni-opravny]] + [[exams/2022-2023/student-doc-digest]] | `term_2_2022.md` | `2022-2023-extract.md` | `student_doc doplňuje raw` | Raw seznam odpovídá, student doc přidává formulace. |
 | 2. opravný termín | - | [[exams/2022-2023/term-3-druhy-opravny]] | nenalezeno | `2022-2023-extract.md` | `student_doc only` | Přidáno ze student docu. |
 
 ### 2021-2022
@@ -55,9 +55,9 @@ Tahle matice porovnává strukturované raw zdroje (`raw/term*.txt`, `raw/*.webp
 
 | Termín | Varianta | Primární soubor | Raw zdroje | Student doc | Status | Poznámka |
 |---|---|---|---|---|---|---|
-| řádný termín | zkratka | [[exams/2020-2021/term-1-radny-zkratka]] + [[exams/2020-2021/student-doc-digest]] | `term_1_2020.txt` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
-| 1. opravný termín | - | [[exams/2020-2021/term-2-prvni-opravny]] + [[exams/2020-2021/student-doc-digest]] | `term_2_2020.txt` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
-| 2. opravný termín | - | [[exams/2020-2021/term-3-druhy-opravny]] + [[exams/2020-2021/student-doc-digest]] | `term_3_2020.txt` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
+| řádný termín | zkratka | [[exams/2020-2021/term-1-radny-zkratka]] + [[exams/2020-2021/student-doc-digest]] | `term_1_2020.md` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
+| 1. opravný termín | - | [[exams/2020-2021/term-2-prvni-opravny]] + [[exams/2020-2021/student-doc-digest]] | `term_2_2020.md` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
+| 2. opravný termín | - | [[exams/2020-2021/term-3-druhy-opravny]] + [[exams/2020-2021/student-doc-digest]] | `term_3_2020.md` | `2020-2021-extract.md` | `student_doc doplňuje raw` | Student doc potvrzuje a přidává řešení. |
 
 ### 2019-2020
 

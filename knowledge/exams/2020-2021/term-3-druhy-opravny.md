@@ -25,7 +25,7 @@
 
 ## Původní zdroje
 
-- Textový zdroj: [raw/term_3_2020.txt](../../../raw/term_3_2020.txt)
+- Textový zdroj: [[raw/term_3_2020]]
 
 ## Tématické odkazy
 

@@ -18,13 +18,13 @@
 
 ## Původní zdroje
 
-- Raw dokument: [raw/student_doc.md](../../../raw/student_doc.md)
+- Raw dokument: [[raw/student_doc]]
 - Očištěný zdroj: [[sources/student-doc/clean]]
 - Extract roku: [[sources/student-doc/2023-2024-extract]]
 
 ## Přehled
 
-Tento blok se výrazně překrývá s ručně sesbíranými soubory v `raw/term_0_2023.txt`, `raw/term_1_2023_*.txt` a `raw/term_2_2023.txt`. Nezakládal jsem podle něj nové primární termíny; slouží jako kontrolní zdroj a doplňuje placeholdery obrázků v původním studentském dokumentu.
+Tento blok se výrazně překrývá s ručně sesbíranými soubory v `raw/term_0_2023.md`, `raw/term_1_2023_*.md` a `raw/term_2_2023.md`. Nezakládal jsem podle něj nové primární termíny; slouží jako kontrolní zdroj a doplňuje placeholdery obrázků v původním studentském dokumentu.
 
 ## Sekce ve student doc
 

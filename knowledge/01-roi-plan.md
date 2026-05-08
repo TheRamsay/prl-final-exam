@@ -1,6 +1,6 @@
 # ROI plán učení
 
-Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.txt`, `raw/common_16-22.txt` a z 30 sjednocených souborů v [[exams/00-index|archivu termínů]].
+Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.md`, `raw/common_16-22.md` a z 30 sjednocených souborů v [[exams/00-index|archivu termínů]].
 
 ## Jak číst priority
 
