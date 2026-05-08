@@ -10,6 +10,7 @@ Tahle stránka je navigační mapa pro rychlé vyhledávání a odpovídání na
 - [[knowledge/04-checklist-nejcastejsi-temata|Checklist nejčastějších témat]]
 - [[knowledge/topics/00-index|Topic index]]
 - [[knowledge/visuals/00-index|Vizualizace]]
+- [[knowledge/practice/00-index|Cvičné testy]]
 - [[knowledge/exams/00-index|Archiv minulých termínů]]
 - [[knowledge/exams/_verification/raw-vs-student-doc|Raw vs student doc]]
 
@@ -50,6 +51,7 @@ rg -n "Verifikační status|raw only|student_doc only|shoda" knowledge/exams
 ## Kde co leží
 
 - `knowledge/topics/`: destilované znalosti a šablony odpovědí.
+- `knowledge/practice/`: predikční cvičné testy sestavené podle historie zadání.
 - `knowledge/exams/<rok>/`: sjednocené minulé termíny po akademických letech.
 - `knowledge/exams/_verification/`: audit shody mezi raw termíny a student docem.
 - `knowledge/sources/student-doc/`: rozsekaný studentský dokument podle let.
