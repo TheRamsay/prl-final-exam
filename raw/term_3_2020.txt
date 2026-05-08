@@ -1,0 +1,8 @@
+1.) PRAM tipovačka
+2.) VLIW + ako sa riešia konflikty
+3.) Monitor - popis + obrázok
+4.) Problém 5 filozofov - kód so semaformi + popis ako to funguje (plus musel byt deadlock proof ten kód)
+5.) Nieco s FIFO a broadcastom, nejaká random tabuľka, v živote som to nevidel
+6.) Random mating (pravdepodobne 1:1 recycle z 1. opravného)
+7.) OCCAM - naprogramovanie procedúry AVG, ktorá má tri kanály typu BYTE a to DATA, CHNH, CHNL. Procedúra berie čísla z kanálu DATA, počíta z nich dlhodobý priemer, a podľa toho či číslo, ktoré prišlo je väčšie alebo menšie ako priemer tak ho pošle príslušnému kanálu. (nepísal však ktorému tak som predpokladal, že CHNH je pre väčšie čísla a ten druhý je pre menšie alebo rovné (ale tá rovnosť nebola explicitne zmienená)).
+8.) MPI - "špočítať sumu menších čísiel v postupnosti ako je jej minimum" <-- potom sa na upozornenie opravil a povedal, že si máme zvoliť menších ako maximum alebo väčších ako minimum

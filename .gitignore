@@ -1,0 +1,10 @@
+.env
+.DS_Store
+*.swp
+*.swo
+
+# Obsidian local UI state
+.obsidian/workspace.json
+
+# Large raw Discord exports, keep local for now
+raw/discord/

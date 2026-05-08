@@ -1,0 +1,18 @@
+    opravny 2024
+
+
+1) 6b: PRAM (EREW, CREW, COMMON CRCW): cena zoradit sekvenciu, cena XOR, casova zlozitost AND
+
+2) 9b: a) FIFO broadcast send, recv algoritmus,  b) definovat relaciu kauzality, 
+
+3) 9b: testandset riesenie kritickej sekcie - kod plus popis, 
+
+4) 9b: algoritmus 4 citacov princip fungovania plus nakreslit 2 obrazky, v jednom sa detekovalo ukoncenie a v druhom nie, 
+
+5) 10b: RA synchronizácia vstupov do CS, 4 procesy, synchronny cas, plus pocitanie logickeho casu jednotlivych udalosti, sprava ma latency 3 takty, kriticka sekcia trva 1 takt, na vstupe a vystupe nastanu 2 abstraktne udalosti, priority procesov: 1 ma najvacsiu prioritu, v case 6 taktov zaziada proces 4, v case 7 taktov zaziada o CS proces 3, naznacit komunikaciu sipkami, napisat ku kazdej udalosti logicky cas (podla Lamporta), vypisat aj logicky cas kazdeho procesu po poslednej vykonanej udalosti
+
+6) 9b: random mating (8 uzlov, vyberat F/M pseudonahodne tak, aby sa jumping phase skoncil do 4 iteracii, nezabudnut aj reconstruction phase)
+
+7) 9b: pi kalkul (vypisat tie 3 vyrazy, na ktore to mozno redukovat), 
+
+8) 9b: MPI najst druhy najmensi prvok v log. case, mozno pouzit len MPI_Bcast, MPI_Reduce

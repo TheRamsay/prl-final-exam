@@ -1,0 +1,5 @@
+B (credits @King Arthur)
+
+    Nejaký algoritmus na FIFO
+    Algoritmus 4. čtenářú
+    Enumeration sort po 6. kroku

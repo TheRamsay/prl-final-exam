@@ -1,0 +1,10 @@
+.- cena XOR 
+-casova zlozitost OR
+- cena suctu? maxima a minima 
+2. test &set
+3. kauzalita
+4. Euler tah -suffix?
+5. R-A
+6. Euler strom/graf?
+7. Carry look ahead add - spocitat 39 a 110 
+8. naprogramovat s logickou zlozitostou sucet hodnot nez vacsich nez priemer?

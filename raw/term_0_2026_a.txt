@@ -1,0 +1,12 @@
+PRETERMÍN 2026
+A
+
+    PRAM tipovačka
+    kauzalita - správy, relácia kauzality
+    monitor, inštrukcie wait, signal + obrázok
+    SSuffix + Etour, level(v)->N, algoritmus a popis
+    nová úloha, 4 procesy, graf, občas nejaký vypadne a na základe priorít vybrať proces, ktorú bude nový master pri každom výpadku master procesu, vypísať jednotlivé epochy
+    pipeline merge sort po 10. kroku
+    nekonečná procedúra, limit z kanálu LIMIT, default 100, data z kanálu DATA, aritmetický priemer posledných 2 na výstupný kanál (tuším OUT), ak je hodnota vyššia ako limit, TRUE na kanál WARN
+    MPI - je maximum delitelné minimom bezo zvyšku? root vypisuje ÁNO/NIE
+

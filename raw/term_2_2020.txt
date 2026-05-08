@@ -1,0 +1,10 @@
+1.opravný: 
+
+PRAM složitosti,
+PRAM architektura (popis+obrazek) ,
+Pi kalkul (redukce+pozorování), 
+Random mating(příklad), 
+Suzuki (princip+obrazek 4 uzly), 
+Monitor(popsat wait/signal, obrázek),
+Linda ( reverz seznamu) , 
+MPI ( součet čísel větších jak průměr)

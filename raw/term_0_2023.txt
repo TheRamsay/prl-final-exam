@@ -1,0 +1,10 @@
+PREDTERMIN 2023/24
+
+    Tipsport crcw - XOR, NAND, AND
+    PRAM model - opisat ho, nakreslit obrazok
+    Kauzalni broadcast + relace kauzality
+    Euler pro počet následovníků + popis
+    CLA
+    Meakawův algoritmus - opisat kvorum a na obrazku znazornit zalomenu verziu kvor pre 12 procesov. takto ukazte zistenie kvor pre 2 procesy
+    OCCAM - implementujte proceduru IDK, ktora na vstupe dostava channely pre input, clk, a outputy OUT_LEFT a OUT_RIGHT. Ked dostane na inpute cislo, da ho do vnutornej nekonecnej queue. Ked dostane na clk lubovolnu vec, tak outputne na OUTL alebo OUTR prvy prvok queue. ukazatel na prvy prvok sa potom posunie, treba to robit rucne. tento clk vzdy outputuje striedavo (ako v PMS uplne prvy proces)
+    MPI - mate k dispozicii reduce, broadcast, rank procesu, a pocet vsetkych prvkov. kazdy proces ma premennu value, v ktorej ma nejaku hodnotu. napiste kod, v ktorom si kazdy proces vypocita value - (priemer vsetkych hodnot), a vysledok da na output vo formate rank: vysledok

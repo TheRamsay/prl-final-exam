@@ -1,0 +1,10 @@
+opravny termin
+
+    PRAM  tipovacka
+    Napisat algoritmicky Odd-even-transposition sort + analyza + cena
+    Vysvetlit princip paralelneho selectu + priklad
+    Marzullov algoritmus
+    PI kalkul - najst 3 mozne redukcie
+    CLA priklad, 120 + 99
+    4 citaci
+    MPI

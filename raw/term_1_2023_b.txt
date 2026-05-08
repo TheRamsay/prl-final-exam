@@ -1,0 +1,15 @@
+2023/24 - Řádný - Skupina B
+1.) PRAM "tipovacka" (6b)
+a) časova složitost: XOR pro EREW, CREW, common CRCW
+b) časova složitost: počet sudych čísel pro EREW, CREW, common CRCW
+c) cena: NAND  pro EREW, CREW, common CRCW
+2.) Popiště architekturu procesů s velkým kódovým slovem (VLIW). Popiště možné konflikty a způsob jejich předcházení, resp. řeešní. Ilustrujte patřičnými obárázky. (Vlevo okynko nadepsane "princip, konflikty", vpravo nadepsane  "obrazky") (9b)
+3.) Pro problém čtenáři písaři uvěďtě kódy, kterými lze řešit pomocí obecného semaforu tak, aby nedocházelo ke konfliktům ani úváznutí. Řešením má být varianta, kdy čtenáři mají přednost. Neřešte případné hladovění písařů. Z algoritmu by měl být zřejmý princip vzájemného vyloučení při vstupu do kritické sekce. (9b)
+4.) Demonstrujte operace nad stromem s použitím funkce sumy sufixů SuffixsS(hrany, ohodnocení). Pokud máte výsledek Eulerova průchodu stromem ve struktuře Etour, pokud jste schopni provést podmíněný příkaz "if e je dopredna then" podle toho, zdali je hrana je či není dopředná, jak lze spočíst pořadí vrcholů (pro zobrazení preor(v)->N) při průchodu pre-order? Uveďte algoritmus, krátký slovní popis pincipu a časovou složitost celého výpočtu. (Zvlast misto na alg, zvlast misto na popis, zvlast mistecko pro casovou slozitost. (9b)
+5.) Randezvouz smth smth novy priklad - viz obrazek. (10b)
+6.) Vyplnit vysledek po 6 krocich enumeration sortu zapojeny v řadě (viz dalsi obrazek). (9b)
+7.) PI kalkul cca: (new v) (a(v).a(v).0 | b'z. ... .0 + b(x). ... .0  )| b(x). ... .0 | b'f.c'a.0) Najit alespon 4 ruzne redukce aby uz neslo dale redukovat. (9b)
+8.) MPI: vypsat soucet prvku vetsich nez prumer, dispozici broadcast a reduce. (9b) 
+Image
+Image
+

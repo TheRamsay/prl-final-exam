@@ -1,0 +1,10 @@
+SKUPINA A - RADNY 2023/24
+
+    PRAM Tipsport (OR, je posloupnost monotonni?, je v poli cisel nula?)
+    Popsat princip zřetězených procesorů
+    Popsat monitor (včetně signal a wait) + nákres
+    K dispozici funkce na výpočet sumy sufixu a příkaz "if e je dopredna then do..." - popsat algoritmus pro výpočet úrovně vrcholu (pseudokód + slovní popis + časová složitost)
+    Randezvous kktina, nový příklad
+    Pipeline Merge Sort - stav po 10 krocích
+    Pi kalkul
+    MPI - proces má v proměnné value svoji hodnotu, pomocí Reduce a Bcast (definice funkcí byly v zadání) implementovat následující: chceme vytisknout součet lichých hodnot * součet sudých hodnot

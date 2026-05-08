@@ -1,0 +1,37 @@
+2023/24 - Řádný - Skupina C
+
+1) (6b)
+PRAM tipsport: Na výběr const, log(n), n, n*log(n), n^2, polynomiální. Pro EREW, CREW a CRCW urči:
+I) t(n) pro AND v posloupnosti
+II) c(n) pro zjištění zda posloupnost obsahuje jen stejné prvky
+III) c(n) pro součet posloupnosti
+
+2) (9b)
+K čemu se používá propojovací síť
+
+3) (9b)
+Popsat funkci semaforu a napsat algo pro jeho základní funkce P a V.
+
+4) (9b)
+Euler cesta na grafu (viz obrázek)
+
+5) (10b)
+Barodingův algoritmus
+(Tento rok nově :void~3: )
+
+6) (9b)
+Udělat prescan (v POLI ne ve stromě!) pro posloupnost čísel: 3, 15, 2, 8, 12, 10, 3, 2, 12, 11, 17, 5, 19, 2, 5, 1. (Doplnit stav po prvním a posledním kroce Up-sweep i Down-sweep)
+
+7) (9b)
+Pi-kalkul. Napiš alespoň 4 výsledné redukce (dál se nedá redukovat) pro
+(x'a.x(a).0 + a'x.x(a).0) | (ax.x'a.0 + x(a).a'x.x(a).0) + x(a).0
+(x'a znamená posílání a po kanálu x)
+
+8) (9b)
+MPI - v logaritmické složitosti udělat algoritmus pro součet prvků posloupnosti co jsou buď maximum nebo minimum dané posloupnosti. K dispozici v každém procesu byly proměnné:
+rank - rank procesu
+numproc - počet procesorů
+value - hodnota z posloupnosti
+A (zjednodušené) funkce:
+MPI_Bcast(adresa_hodnoty, root) a MPI_Reduce(adresa_send, adresa_recv, operace, root) 
+

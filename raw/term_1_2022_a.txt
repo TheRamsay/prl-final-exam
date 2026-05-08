@@ -1,0 +1,8 @@
+Tipování složitosti
+Algoritmy s FIFO
+Pi kalkul
+Euler
+Redukční počítač
+Zda lze synchronizovat procesy
+Implementace s aktivním čekáním test&set a swap
+MPI max% +min == 0
