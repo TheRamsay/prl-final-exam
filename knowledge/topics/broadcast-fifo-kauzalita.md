@@ -4,6 +4,13 @@
 
 Zadání bývá jedna ze tří forem: napsat algoritmus FIFO broadcastu, rozhodnout vlastnosti v diagramu, nebo vysvětlit synchronizovatelnost přes korunu. Hodnotí se hlavně přesné rozlišení FIFO, kauzality a atomicity.
 
+## Vizualizace a drill stránky
+
+- [[knowledge/visuals/fifo-broadcast-buffer|FIFO broadcast: sekvence a buffer]]
+- [[knowledge/visuals/causal-broadcast-happened-before|Kauzalita: happened-before]]
+- [[knowledge/visuals/broadcast-properties-check|Broadcast vlastnosti: FIFO, kauzalita, atomicita]]
+- [[knowledge/visuals/koruna-synchronizovatelnost|Koruna a synchronizovatelnost]]
+
 ## Pojmy
 
 - FIFO broadcast: zprávy od stejného odesílatele jsou každému příjemci doručeny ve stejném pořadí, v jakém byly odeslány.

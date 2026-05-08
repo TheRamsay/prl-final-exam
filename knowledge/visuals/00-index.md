@@ -9,6 +9,13 @@ Vizualizace a krokovací stránky pro algoritmy, kde se u zkoušky typicky kresl
 - [[knowledge/visuals/pipeline-merge-sort|Pipeline Merge Sort: procesory a tabulka taktů]]
 - [[knowledge/visuals/odd-even-network|Odd-even: compare-exchange síť]]
 
+## Broadcast, FIFO, kauzalita
+
+- [[knowledge/visuals/fifo-broadcast-buffer|FIFO broadcast: sekvence a buffer]]
+- [[knowledge/visuals/causal-broadcast-happened-before|Kauzalita: happened-before]]
+- [[knowledge/visuals/broadcast-properties-check|Broadcast vlastnosti: FIFO, kauzalita, atomicita]]
+- [[knowledge/visuals/koruna-synchronizovatelnost|Koruna a synchronizovatelnost]]
+
 ## Jak to používat
 
 - Mermaid diagram ukazuje strukturu.
