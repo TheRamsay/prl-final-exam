@@ -5,7 +5,7 @@ Predikce vychází z [[knowledge/exams/00-index|archivu termínů]], hlavně z n
 ## Datový základ
 
 - Řádné termíny v archivu: 15 variant.
-- Předtermíny v archivu: 5 souborů, z toho [[knowledge/exams/2025-2026/term-0-pretermin-b|2025/2026 předtermín B]] je jen krátký fragment.
+- Předtermíny v archivu: 6 souborů, z toho [[knowledge/exams/2025-2026/term-0-pretermin-b|2025/2026 předtermín B]] je jen krátký fragment.
 - Pro predikci řádného termínu má větší váhu řádný-termínový slot pattern než přesné opakování předtermínu 2025/2026.
 
 ## Rychlý závěr

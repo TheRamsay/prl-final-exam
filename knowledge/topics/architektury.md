@@ -170,6 +170,7 @@ Zadání: Redukční počítač.
 Podle sjednocených termínových souborů v archivu:
 
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2024-2025/term-0-pretermin-b]]
 - [[knowledge/exams/2023-2024/term-1-radny-c]]
 - [[knowledge/exams/2023-2024/term-1-radny-b]]
 - [[knowledge/exams/2023-2024/term-1-radny-a]]

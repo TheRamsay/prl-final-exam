@@ -44,24 +44,24 @@ Zdroj: `raw/common_latest.md` a `raw/common_16-22.md`.
 
 ## Kontrola proti sjednoceným termínům
 
-Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 30 samostatných termínových souborů. Následující čísla nejsou náhrada ručních četností výše; jsou to počty topic odkazů v tabulkách `Mapování na témata`. Slouží jako sanity check, že ROI plán odpovídá i tomu, co je skutečně prolinkované v termínech.
+Po sjednocení archivu má [[knowledge/exams/00-index|archiv termínů]] 33 samostatných termínových souborů. Následující čísla nejsou náhrada ručních četností výše; jsou to počty topic odkazů v tabulkách `Mapování na témata`. Slouží jako sanity check, že ROI plán odpovídá i tomu, co je skutečně prolinkované v termínech.
 
 | Téma | Mapovací odkazy v termínech |
 |---|---:|
-| [[knowledge/topics/pram-tipovacka]] | 30 |
-| [[knowledge/topics/distribuovane-algoritmy]] | 29 |
-| [[knowledge/topics/mpi-reduce-bcast]] | 28 |
-| [[knowledge/topics/architektury]] | 22 |
-| [[knowledge/topics/razeni-prefix]] | 20 |
-| [[knowledge/topics/broadcast-fifo-kauzalita]] | 19 |
-| [[knowledge/topics/euler-tour-suffix-sums]] | 17 |
+| [[knowledge/topics/pram-tipovacka]] | 33 |
+| [[knowledge/topics/distribuovane-algoritmy]] | 33 |
+| [[knowledge/topics/mpi-reduce-bcast]] | 31 |
+| [[knowledge/topics/architektury]] | 23 |
+| [[knowledge/topics/razeni-prefix]] | 22 |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | 22 |
+| [[knowledge/topics/euler-tour-suffix-sums]] | 18 |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | 15 |
 | [[knowledge/topics/pi-kalkul]] | 14 |
-| [[knowledge/topics/synchronizace-monitory-semafory]] | 14 |
-| [[knowledge/topics/occam]] | 10 |
+| [[knowledge/topics/occam]] | 12 |
+| [[knowledge/topics/linda-ada]] | 7 |
 | [[knowledge/topics/cla]] | 7 |
 | [[knowledge/topics/mutual-exclusion]] | 7 |
-| [[knowledge/topics/linda-ada]] | 5 |
-| [[knowledge/topics/parallel-splitting-select]] | 4 |
+| [[knowledge/topics/parallel-splitting-select]] | 6 |
 
 ## Praktický závěr
 

@@ -68,6 +68,8 @@ Zadání: Parallel splitting, ukázat na příkladu.
 Podle sjednocených termínových souborů v archivu:
 
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2024-2025/term-0-pretermin-b]]
+- [[knowledge/exams/2023-2024/term-3-druhy-opravny]]
 - [[knowledge/exams/2022-2023/term-2-prvni-opravny]]
 - [[knowledge/exams/2021-2022/term-1-radny-b]]
 - [[knowledge/exams/2018-2019/term-1-radny-b]]

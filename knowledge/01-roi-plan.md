@@ -1,6 +1,6 @@
 # ROI plán učení
 
-Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.md`, `raw/common_16-22.md` a z 30 sjednocených souborů v [[knowledge/exams/00-index|archivu termínů]].
+Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu. Vychází ze zdrojů `raw/common_latest.md`, `raw/common_16-22.md` a z 33 sjednocených souborů v [[knowledge/exams/00-index|archivu termínů]].
 
 ## Jak číst priority
 
@@ -13,18 +13,18 @@ Tenhle plán je optimalizovaný na zisk bodů, ne na úplné pokrytí předmětu
 
 | Téma | ROI | Proč první | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/mpi-reduce-bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 28 mapovacích odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
-| [[knowledge/topics/pram-tipovacka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 30 mapovacích odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
-| [[knowledge/topics/broadcast-fifo-kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 19 mapovacích odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
+| [[knowledge/topics/mpi-reduce-bcast]] | velmi vysoké | V `common_latest` ~35 výskytů; v termínových souborech 31 mapovacích odkazů. Typicky poslední úloha za 9-10 bodů. | Umět napsat šablonu `Reduce`, `Bcast`, průměr, min/max, filtr podle podmínky. |
+| [[knowledge/topics/pram-tipovacka]] | velmi vysoké | V `common_latest` ~27 výskytů; v termínových souborech 33 mapovacích odkazů. Často první příklad a dá se řešit rychle. | Umět EREW/CREW/common CRCW pro AND/OR/XOR/NAND, monotónnost, počet, min/max. |
+| [[knowledge/topics/broadcast-fifo-kauzalita]] | vysoké | V `common_latest` ~26 výskytů; v termínových souborech 22 mapovacích odkazů. Padá jako teorie, pseudokód i diagram. | Umět FIFO broadcast, kauzální relaci, ABCAST/atomicitu, synchronizovatelnost a korunu. |
 
 ## A1: velké opakující se bloky
 
 | Téma | ROI | Proč | Minimální cíl |
 |---|---:|---|---|
-| [[knowledge/topics/razeni-prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 20 mapovacích odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
-| [[knowledge/topics/euler-tour-suffix-sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 17 mapovacích odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
-| [[knowledge/topics/synchronizace-monitory-semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 14 mapovacích odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
-| [[knowledge/topics/architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 22 mapovacích odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
+| [[knowledge/topics/razeni-prefix]] | vysoké | V `common_latest` ~25 výskytů; v termínových souborech 22 mapovacích odkazů. Často konkrétní simulace po N krocích. | Umět Pipeline Merge Sort, Enumeration Sort, Prescan, Odd-even transposition/merge. |
+| [[knowledge/topics/euler-tour-suffix-sums]] | vysoké | V `common_latest` ~15 výskytů; v termínových souborech 18 mapovacích odkazů. Otázky se hodně recyklují. | Umět `preorder(v)`, `level(v)`, počet potomků, převod hrany -> vrcholy, složitost. |
+| [[knowledge/topics/synchronizace-monitory-semafory]] | vysoké | V `common_latest` ~17 výskytů; v termínových souborech 15 mapovacích odkazů. Časté kreslení/pseudokód. | Umět `wait/signal`, monitor, semafor `P/V`, readers-writers, producer-consumer. |
+| [[knowledge/topics/architektury]] | střední až vysoké | V `common_latest` ~26 výskytů; v termínových souborech 23 mapovacích odkazů. Široké téma, často teoretické body. | Umět VLIW, zřetězení/MISD, Dataflow, SIMD/MIMD, Xeon Phi, PRAM model, sítě. |
 
 ## B: pravidelná druhá vlna
 

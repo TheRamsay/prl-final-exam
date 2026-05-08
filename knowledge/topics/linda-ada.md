@@ -72,6 +72,7 @@ Zadání: ADA, popsat a uvést konkrétní příkazy.
 
 Podle sjednocených termínových souborů v archivu:
 
+- [[knowledge/exams/2023-2024/term-3-druhy-opravny]]
 - [[knowledge/exams/2022-2023/term-3-druhy-opravny]]
 - [[knowledge/exams/2021-2022/term-3-druhy-opravny]]
 - [[knowledge/exams/2020-2021/term-2-prvni-opravny]]

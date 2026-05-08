@@ -109,6 +109,7 @@ Podle sjednocených termínových souborů v archivu:
 
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2023-2024/term-3-druhy-opravny]]
 - [[knowledge/exams/2023-2024/term-1-radny-c]]
 - [[knowledge/exams/2023-2024/term-1-radny-b]]
 - [[knowledge/exams/2023-2024/term-1-radny-a]]

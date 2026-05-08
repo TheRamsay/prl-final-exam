@@ -20,6 +20,8 @@ Poslední pravidelný audit: [[knowledge/exams/_verification/audit-2026-05-09]].
 | Termín | Varianta | Primární soubor | Raw zdroje | Student doc | Status | Poznámka |
 |---|---|---|---|---|---|---|
 | předtermín | - | [[knowledge/exams/2024-2025/term-0-pretermin]] | nenalezeno | `clean.md`, řádky 34-53 | `student_doc only` | Termín existuje jen ve studentském dokumentu; digest zůstává roční souhrn. |
+| předtermín | B | [[knowledge/exams/2024-2025/term-0-pretermin-b]] | `term_0_2024_b.md` | nenalezeno | `discord only` | Rekonstrukce z Discord zprávy 2025-05-11; varianta B je odvozená z okolního kontextu. |
+| 1. opravný termín | - | [[knowledge/exams/2024-2025/term-2-prvni-opravny]] | `term_2_2024.md` | nenalezeno | `discord only` | Rekonstrukce z Discord zpráv 2025-05-28; label opravného je odvozený z kontextu. |
 
 ### 2023-2024
 
@@ -30,6 +32,7 @@ Poslední pravidelný audit: [[knowledge/exams/_verification/audit-2026-05-09]].
 | řádný termín | B | [[knowledge/exams/2023-2024/term-1-radny-b]] | `term_1_2023_b.md`, `term_1_2023_a_img2.webp` | `clean.md`, řádky 80-112 a 143-175 | `student_doc doplňuje raw` | Student doc obsahuje skupinu B duplicitně a potvrzuje pořadí; obrázky jsou jen placeholdery. |
 | řádný termín | C | [[knowledge/exams/2023-2024/term-1-radny-c]] | `term_1_2023_c.md`, `term_1_2023_c_img1.webp` | nenalezeno v horním bloku | `raw only` | Student doc v čistém bloku skupinu C neobsahuje. |
 | 1. opravný termín | - | [[knowledge/exams/2023-2024/term-2-prvni-opravny]] | `term_2_2023.md` | `clean.md`, řádky 177-204 | `shoda` | Pořadí i témata odpovídají. |
+| 2. opravný termín | - | [[knowledge/exams/2023-2024/term-3-druhy-opravny]] | `term_3_2023.md` | nenalezeno | `discord only` | Rekonstrukce z Discord zprávy 2024-06-03; bez oficiální fotky/PDF. |
 
 ### 2022-2023
 

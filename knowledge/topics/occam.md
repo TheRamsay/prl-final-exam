@@ -80,6 +80,8 @@ Podle sjednocených termínových souborů v archivu:
 
 - [[knowledge/exams/2025-2026/term-0-pretermin-a]]
 - [[knowledge/exams/2024-2025/term-0-pretermin]]
+- [[knowledge/exams/2024-2025/term-2-prvni-opravny]]
+- [[knowledge/exams/2024-2025/term-0-pretermin-b]]
 - [[knowledge/exams/2023-2024/term-0-pretermin]]
 - [[knowledge/exams/2021-2022/term-2-prvni-opravny-b]]
 - [[knowledge/exams/2021-2022/term-2-prvni-opravny-a]]

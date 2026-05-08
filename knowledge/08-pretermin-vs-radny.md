@@ -7,7 +7,7 @@ Tenhle soubor je podpůrná analýza pro [[knowledge/07-predikce-radny-2025-2026
 | Typ | Počet souborů | Poznámka |
 |---|---:|---|
 | řádný termín | 15 | většinou plné varianty A/B/C |
-| předtermín | 5 | zahrnuje fragment [[knowledge/exams/2025-2026/term-0-pretermin-b]] |
+| předtermín | 6 | zahrnuje nově doplněný [[knowledge/exams/2024-2025/term-0-pretermin-b]] a fragment [[knowledge/exams/2025-2026/term-0-pretermin-b]] |
 | opravné termíny | mimo tuhle analýzu | pro aktuální cíl méně důležité |
 
 ## Stabilita slotů v řádných termínech
@@ -25,21 +25,21 @@ Tenhle soubor je podpůrná analýza pro [[knowledge/07-predikce-radny-2025-2026
 
 ## Předtermínový pattern
 
-Předtermíny drží jen dvě velmi stabilní věci:
+Předtermíny drží jen dvě stabilnější věci:
 
-- Q1 často [[knowledge/topics/pram-tipovacka|PRAM]].
-- Q8 bývá [[knowledge/topics/mpi-reduce-bcast|MPI]], pokud je předtermín plný.
+- Q1 často [[knowledge/topics/pram-tipovacka|PRAM]]: 5/6 předtermínových souborů.
+- Q8 bývá [[knowledge/topics/mpi-reduce-bcast|MPI]], pokud je předtermín plný; výjimkou je nově doplněný [[knowledge/exams/2024-2025/term-0-pretermin-b]], kde Q8 padá na kauzální broadcast.
 
 Zbytek je méně pravidelný než u řádných termínů:
 
 | Slot | Předtermínově časté | Praktický závěr |
 |---:|---|---|
-| Q2 | broadcast/architektury/distribuované | nebrat jako fixní slot |
-| Q3 | broadcast, synchronizace, řazení | vyšší šum než u řádného termínu |
-| Q4 | Euler | podobné řádným, ale vzorek je malý |
-| Q5 | architektury/CLA/Euler/distribuované | bez jasné dominance |
-| Q6 | řazení nebo broadcast/distribuované | řazení se opakuje, ale varianty se mění |
-| Q7 | často OCCAM | tohle je rozdíl proti řádným, kde je Q7 proměnlivější |
+| Q2 | architektury nebo broadcast | nebrat jako fixní slot |
+| Q3 | broadcast, řazení, synchronizace, Pi-kalkul, distribuované | vyšší šum než u řádného termínu |
+| Q4 | Euler nebo parallel splitting/select | podobné řádným, ale vzorek je malý |
+| Q5 | distribuované/architektury/CLA/řazení/Euler | bez jasné dominance |
+| Q6 | řazení, broadcast, distribuované nebo OCCAM | řazení se opakuje, ale varianty se mění |
+| Q7 | často OCCAM, občas MPI nebo mutual exclusion | tohle je rozdíl proti řádným, kde je Q7 proměnlivější |
 
 ## Co z toho plyne pro řádný 2025/2026
 

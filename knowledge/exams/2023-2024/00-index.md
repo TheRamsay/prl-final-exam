@@ -9,6 +9,7 @@
 | řádný termín | B | [[knowledge/exams/2023-2024/term-1-radny-b]] | [[raw/term_1_2023_b]], obrázek |
 | řádný termín | C | [[knowledge/exams/2023-2024/term-1-radny-c]] | [[raw/term_1_2023_c]], obrázek |
 | 1. opravný termín | - | [[knowledge/exams/2023-2024/term-2-prvni-opravny]] | [[raw/term_2_2023]] |
+| 2. opravný termín | - | [[knowledge/exams/2023-2024/term-3-druhy-opravny]] | [[raw/term_3_2023]] |
 
 ## Student doc
 
