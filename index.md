@@ -6,6 +6,8 @@ title: PRL Final Exam
 
 Statická verze Obsidian-friendly báze pro přípravu na zkoušku z PRL.
 
+GitHub: [TheRamsay/prl-final-exam](https://github.com/TheRamsay/prl-final-exam)
+
 ## Start
 
 - [[knowledge/00-rozcestnik|Rozcestník]]
