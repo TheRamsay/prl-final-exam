@@ -16,8 +16,9 @@ This repository is a PRL final exam knowledge base. Prefer answering from the Ma
 1. `knowledge/topics/*.md` for distilled knowledge and answer templates.
 2. `knowledge/exams/**/term-*.md` for normalized past exam questions.
 3. `knowledge/exams/_verification/raw-vs-student-doc.md` for source agreement and uncertainty.
-4. `raw/*.md` and `raw/*.webp` for original material.
-5. `knowledge/sources/student-doc/**` for extracted student-document context.
+4. `knowledge/sources/slides/*.md` for official slide extracts, concrete slide pages, definitions, algorithms, and diagram references.
+5. `raw/*.md`, `raw/*.webp`, `raw/*.pdf`, and `raw/*.odp` for original material.
+6. `knowledge/sources/student-doc/**` for extracted student-document context.
 
 ## Search Patterns
 
@@ -25,7 +26,8 @@ Use `rg` first.
 
 ```sh
 rg -n "PRAM|CRCW|EREW" knowledge raw
-rg -n "Termínový label|Jednotné zadání|Tématické odkazy" knowledge/exams
+rg -n "Termínový label|Jednotné zadání|Mapování na témata" knowledge/exams
+rg -n "Oficiální slidy|#Strana|SuffixSums|MPI_Reduce" knowledge/topics knowledge/sources/slides
 rg -n "\\[\\[knowledge/topics/pram-tipovacka" knowledge/exams
 rg -n "Verifikační status|student_doc|raw only|shoda" knowledge/exams/_verification
 ```
@@ -35,5 +37,6 @@ rg -n "Verifikační status|student_doc|raw only|shoda" knowledge/exams/_verific
 - When answering exam-study questions, cite the relevant topic note and at least one past exam file when possible.
 - When there is disagreement or uncertainty, check `knowledge/exams/_verification/raw-vs-student-doc.md` and mention it.
 - Do not treat `raw/student_doc.md` as fully normalized; use the extracted files under `knowledge/sources/student-doc/` when possible.
+- For official theory checks, start from the `Oficiální slidy` section in topic notes; if an answer depends on a diagram, verify the original raw PDF/ODP page.
 - Keep Obsidian/Quartz links explicit: use `[[knowledge/...]]` or `[[raw/...]]`, not bare relative wikilinks.
 - Preserve Czech terminology used in the vault: `předtermín`, `řádný termín`, `1. opravný termín`, `2. opravný termín`.

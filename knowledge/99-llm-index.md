@@ -72,6 +72,7 @@ Priorita zdrojů:
 ```sh
 rg -n "PRAM|CRCW|EREW" knowledge raw
 rg -n "MPI|Reduce|Bcast" knowledge/exams knowledge/topics
+rg -n "Oficiální slidy|#Strana|SuffixSums|MPI_Reduce" knowledge/topics knowledge/sources/slides
 rg -n "\\[\\[knowledge/topics/pram-tipovacka" knowledge/exams
 rg -n "\\[\\[knowledge/topics/mpi-reduce-bcast" knowledge/exams
 rg -n "Termínový label|Jednotné zadání|Mapování na témata" knowledge/exams
@@ -95,7 +96,7 @@ rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|
 ## Odpovědní politika
 
 - Pro učení používej nejdřív topic poznámky a ROI plán.
-- Pro ověření teorie používej oficiální slidy, ale u diagramových stran vždy kontroluj raw PDF.
+- Pro ověření teorie používej oficiální slidy, ale u diagramových stran vždy kontroluj raw PDF/ODP.
 - Pro dotazy typu “kdy se to objevilo” používej archiv termínů.
 - Pro dotazy typu “je to jisté” používej verifikační matici.
 - Když odpovídáš z více zdrojů, uveď konkrétní soubory a preferuj jeden topic + jeden minulý termín.
