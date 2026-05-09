@@ -1,0 +1,263 @@
+year	timestamp	author	kind	content
+2020	2020-06-04T13:45:09.906+00:00	brum_barnum	general	@BuRneD v tych dodatkech nejsú nejaké nové veci... ale v tomto roce tam není ADA, LINDA a OCCAM len zmínení ako som videl
+2020	2020-06-04T14:28:35.354+00:00	dominikharmim	syntax	@Brum Jak víš, že nebude ADA, LINDA ani OCCAM?
+2020	2020-06-04T15:32:23.308+00:00	lgtm	syntax	> @Brum Jak víš, že nebude ADA, LINDA ani OCCAM? @Dominik Harmim min rok sa preberalo ale neskusalo
+2020	2020-06-06T12:14:21.054+00:00	maszko	syntax	ucite sa aj ten OCCAM?
+2020	2020-06-08T12:01:14.6+00:00	brum_barnum	general	Semestralka: pram, Occam, mpi počet čísel vetsi než priemer, random mating, Euler tour preorder, monitor
+2020	2020-06-08T23:47:55.103+00:00	dominikharmim	general	Zbořil nám to chtěl ulehčit, tak tam místo PI-kalkulu, který prý minulý rok dopadl hrozně, dal OCCAM a Lindu. Ale tento krok nikdo nečekal 😀.
+2021	2021-04-18T15:14:53.773+00:00	betsst	general	a avg sa vypočuta
+2021	2021-05-01T15:58:42.596+00:00	rys8515	syntax	Skupinovy uz je poslany, ale asi len s par loginmi
+2021	2021-05-02T11:56:56.125+00:00	ishanka	syntax	ok, noice, diki, opravila jsem par veci ve vystupu a uz to asi funguje :peepoHappy:
+2021	2021-05-03T09:21:17.199+00:00	jurajholub	syntax,resource	Zboril na prednakse 10 vravel, ze v dokumentovem skladu ma byt nejaky dokument k jayzuku OCCAM čo si máme prejsť na skúšku. Našiel niekto ten dokument? Lebo ja nie🤷‍♂️
+2021	2021-05-07T17:40:17.079+00:00	ankimme	syntax	pi kalkul je skip?
+2021	2021-05-08T13:34:04.905+00:00	betsst	exam,syntax,resource	**SKÚŠKA** **MATERIALY** :hmmNote: · https://uloz.to/file/aV4YioMFCCMi/prl-zip · 19/20 guide https://docs.google.com/document/d/1lB_J22vzQl9gUAc37FB1VYIeg-SfflO5wE1qi9BagvM/edit?usp=sharing · (stary guide) https://docs.google.com/document/d/1J_OnojfTBRs00tPBxZVS7PNNPFBirmC8xv_bpyKw6Mw/ · nejaky guide (top výber za mňa) https://docs.google.com/document/d/1...
+2021	2021-05-08T13:59:53.896+00:00	ishanka	syntax	par tabulek a done
+2021	2021-05-08T15:03:06.926+00:00	eitary	syntax	stop shitpost
+2021	2021-05-08T16:23:21.884+00:00	betsst	syntax,resource	OCCAM shit je na wiki https://wis.fit.vutbr.cz/FIT/st/cwk.php.cs?title=Texty&csid=708190&id=13467
+2021	2021-05-08T20:04:29.83+00:00	kateriska	syntax	byzantské jsou skip, i když je na konci přednášky dělal :okayChamp:
+2021	2021-05-08T20:07:02.775+00:00	matt_3651	syntax	Takze to je skip 30 slidov ku konci aspon nieco
+2021	2021-05-08T21:12:46.11+00:00	ishanka	syntax	on bude zkouset i ten occam?
+2021	2021-05-09T19:46:57.988+00:00	ishanka	syntax	proto stop
+2021	2021-05-09T19:47:10.641+00:00	kateriska	syntax	jo stop je tam vždy default
+2021	2021-05-09T20:23:44.798+00:00	yuminone	general	@Kateriska tu máš jeden OCCAM ale je to spíš random co jsem si vymyslel protože netuším jak to reálně udělat (mohla bys mi zjistit jak to mělo být :VUTrtzW: )
+2021	2021-05-09T20:47:21.852+00:00	ishanka	general	occam language je uz moc specificke
+2021	2021-05-09T21:02:14.573+00:00	yuminone	general	jo měl vy to být Int jsem se upsal ... a s tím array když mi řekneš jak v týhle OCCAM blbosti vypadá queue tak jí tam klidně taky hodím
+2021	2021-05-09T21:47:44.908+00:00	peter8888	syntax	OCCAM je skip?
+2021	2021-05-09T22:26:31.467+00:00	danik9665	syntax	tak ne vsichni dobrovolni hasici jsou ready na zasach, das si par panacku pred spanim a smolik
+2021	2021-05-10T11:22:17.935+00:00	_jopear	syntax	Neviete či je v OCCAM aj else? 🤔
+2021	2021-05-10T12:59:04.435+00:00	ishanka	syntax	kdyz udelas par
+2021	2021-05-10T14:24:54.758+00:00	yuminone	general	min, max, avg to má stejně
+2021	2021-05-24T20:34:51.008+00:00	mira9566	syntax	no, kdyžtak ti to potvrdím, když půjdu na třetí termín 😄 (první byl skip)
+2021	2021-05-24T21:43:59.111+00:00	chichin	general	linda, occam, suzuki, meakow, marzul,broadcast abcast, takove ty sipecky co ani uz nevim k cemu to bylo...
+2021	2021-05-25T13:35:09.133+00:00	mira9566	syntax	jakože pamatuješ si CLA z IMP nebo kde to bylo? jak funguje Propagate, Generate a Stop?
+2021	2021-05-25T13:38:35.337+00:00	mira9566	syntax	sčítáš po bitech, pokud máš 0 + 0 -> Stop, jednička ti tam nevznikne, pokud 0 + 1 nebo 1 + 0 -> tak tu jedničku propaguješ dál, pokud 1 + 1 tak potřebuješ přeenést jedničku o bit výš -> pak generuješ. No a ty si to takhle vytvoříš paralelně pro každej bit. tím si získáš ty flagy (řádek initial D) a pak nad těmito flagy uděláš o-scan(D) jelikož je to asoci...
+2021	2021-05-25T13:47:24.712+00:00	gathy	syntax	Mě by zajímalo co s tím OCCAM, má cenu se to učit, a co Linda? :peepoSad:
+2021	2021-05-25T13:47:36.393+00:00	mira9566	general	OCCAM, Adu a Lindu seru 😄
+2021	2021-05-25T13:47:58.607+00:00	mira9566	syntax	occam sem se podíval na to co znamená SEQ, PAR, ALT ? ! a jak funguje přiřazení 😄
+2021	2021-05-25T13:49:17.269+00:00	gathy	general	a ten occam tam bývá často, aspoň v dokumentu je (10x)
+2021	2021-05-25T13:49:43.785+00:00	rockstar1337	general	occam je sračka :HAhaa:
+2021	2021-05-25T16:55:26.239+00:00	adhades	resource	Z čeho se mám naučit occam abych nemusel pročítat to 20ti stránkový pdfko :HAhaaVUT:
+2021	2021-05-26T09:03:23.944+00:00	gathy	general	Už vidím jak umím takové věci jako kvóry a on tam dá nějakou NUMA, ADA, OCCAM, Byzantian shit :notLikeThis:
+2021	2021-05-30T11:29:01.885+00:00	mira9566	syntax	aaaa stop it 😄
+2021	2021-06-01T17:17:12.2+00:00	rys8515	syntax	tak to uz len par dni a je to :pepelaughlidl:
+2021	2021-06-01T17:20:43.805+00:00	rys8515	syntax	je to Z este tak par hodin by som sa netesil :PepeLa:
+2021	2021-06-01T17:24:37.565+00:00	francze	syntax	"bavili" = "tak tohle je na skip"
+2021	2021-06-01T17:50:25.471+00:00	danik9665	general	je tu ten occam file, kde na zacatku jsou ty pravidla
+2021	2021-06-09T03:09:20.28+00:00	nitram147	syntax	Nemal byt nejaky OCCAM subor aj v suboroch k predmetu?
+2021	2021-06-09T05:34:06.928+00:00	dajvid	general	OCCAM ani ADA si moc nepamatuju ty operace co tam jsou. :sadKEK:
+2021	2021-06-09T05:35:13.77+00:00	dajvid	general	Jdu se naučit lépe OCCAM a Petersona.
+2021	2021-06-09T05:42:35.227+00:00	nitram147	syntax	lebo ze pred par rokmi povedal na prednaske ze to na skusku neda
+2021	2021-06-09T06:16:36.708+00:00	Deleted User	syntax	Co to vůbec je nějakej occam? Nějaká linda? Je v tom něco naprogramováno? Předpokládám, že když je to za 10b tak je to v průmyslu vysoce vyžadovaná a ceněná znalost
+2021	2021-06-09T07:53:16.402+00:00	_ls.d_	syntax	OCCAM = SEQ,PAR,WHILE,CHAN OF BYTE ch: , BYTE b:, ALT a z tohto to nejak polepit
+2021	2021-06-09T07:55:41.388+00:00	isaacdrews	syntax	STOP je ten, co se nikdy neukončí; intuitivní... :VUTrtzW:
+2021	2021-06-09T07:59:16.882+00:00	takumaron	syntax	Ten stop jako takový se nikdy neukončí, ale tím že to zůstane zaseklý na tom STOPU, tak se ukonční ten algoritmus
+2021	2021-06-09T07:59:27.38+00:00	isaacdrews	syntax	... to bych pojmenoval SKIP :PepeLa:
+2021	2021-06-09T08:00:00.051+00:00	dajvid	general	Tady jsme všichni OCCAm odborníci. :Kappa:
+2021	2021-06-09T08:05:48.809+00:00	dajvid	general	Idk, podle mě lepší než OCCAM. :HAhaaVUT:
+2021	2021-06-09T08:06:23.599+00:00	takumaron	general	OCCAM a linda bude podle mě nastejno, ale ADU ať tam nedává
+2021	2021-06-09T08:34:00.848+00:00	dajvid	syntax,resource	Nemáte nějaký pěkný video na OCCAM? Něco jak je to na pi kalkul. :PepeLa:
+2021	2021-06-09T09:12:42.977+00:00	dajvid	syntax	Jak se v OCCAM píše začátek procedury? :PepeLa:
+2021	2021-06-09T11:23:55.195+00:00	nitram147	exam	1.) PRAM tipovačka 2.) VLIW + ako sa riešia konflikty 3.) Monitor - popis + obrázok 4.) Problém 5 filozofov - kód so semaformi + popis ako to funguje (plus musel byt deadlock proof ten kód) 5.) Nieco s FIFO a broadcastom, nejaká random tabuľka, v živote som to nevidel 6.) Random mating (pravdepodobne 1:1 recycle z 1. opravného) 7.) OCCAM - naprogramovanie...
+2021	2021-06-09T18:49:12.196+00:00	nitram147	scoring	Tak VLIW aj OCCAM som spravne odhadol, ze tam bude. MPI tam dal z dobrej vole, kedze sme z neho vraj vsetci mavali fullku. To mas hned skoro 30 bodov (samozrejme uzna ti tak polku z toho co vyplnis 😁)
+2021	2021-06-09T18:59:29.676+00:00	rys8515	syntax	a par dostran a hore aj dole :objection:
+2021	2021-06-12T14:12:36.509+00:00	dajvid	syntax	Nevíš kolik bylo za OCCAM? :monkaHmm: Myslím že to byl úkol 7.
+2022	2022-04-26T11:40:33.135+00:00	kuldas	syntax	Tady lidi jedou: Projekt skip, projekt skip... Uvědomujete si, že čím míň uděláte na druhém projektu tím větší pain bude závěrečka? 😄
+2022	2022-05-08T18:25:01.372+00:00	sacek073	syntax	Pds skip, nejde nic
+2022	2022-05-12T14:53:32.759+00:00	lada_42	syntax	Tento semestr je až na par předmětů fajn :peepoHappy:
+2022	2022-05-13T08:25:15.602+00:00	tomiju	syntax	MPI přednáška je skip?
+2022	2022-05-13T13:53:35.583+00:00	perchris	syntax,resource	v tom prl-poznamky.pdf sa nenachadza algoritmus OptimalRandomMate a teda to nebyva predmetom skusania cize skip ?
+2022	2022-05-13T15:59:40.822+00:00	lada_42	syntax	V PRL je mrda algoritmů, máš na začátku i teorii, musíš umět MPI, pak synchronizace procesů a všelijaky mrdky jako třeba OCCAM nebo co
+2022	2022-05-13T18:41:01.465+00:00	lori4553	syntax	jak moc je OCAMM, ADA a Linda skip? ve starších jsou, ale v novějších nikde ... a je to kok\*tina
+2022	2022-05-13T18:47:52.786+00:00	janosamek	scoring	Linda aj Occam su free body
+2022	2022-05-14T14:53:24.397+00:00	sebasuuu	general	alebo OCCAM
+2022	2022-05-14T16:16:19.735+00:00	mr.speaker	scoring,syntax,resource	ta Linda tak hrozne nevypada :thonk: staci se naucit par prikazu a jinak si myslim, ze syntaxi nijak resit nebude
+2022	2022-05-14T17:10:47.419+00:00	sebasuuu	scoring,syntax	OCCAM, ADA, LINDA ? worth ?
+2022	2022-05-14T21:44:30.008+00:00	mr.speaker	exam,scoring,syntax	ja uz na par zkouskach zavedl taky novy konvence, kdyz jsem freestyloval :PepeLa:
+2022	2022-05-15T07:46:49.533+00:00	aleksij	syntax	MAKE IT STOP :cantunsee:
+2022	2022-05-15T09:40:09.654+00:00	kuldas	syntax	D je ta operace, která je buď G - generate, S - Stop nebo P - propagate.
+2022	2022-05-15T12:30:21.178+00:00	mr.speaker	scoring	ja doufam, ze to moc hrotit nebude, stejne tak tu Lindu a ten OCCAM shit :Prayge:
+2022	2022-05-15T15:43:13.83+00:00	sqvik	general	OCCAM je jako Haskell akorát nad jiným kalkulem :feelsHappyMan:
+2022	2022-05-15T16:45:53.302+00:00	aleksij	syntax	skip
+2022	2022-05-15T16:47:42.993+00:00	micha3l5101	syntax	OCCAM bude? :VUTrtzW:
+2022	2022-05-15T16:47:44.875+00:00	tomiju	general	v 2016 jim dal OCCAM i ABCAST :KEKW:
+2022	2022-05-15T17:48:49.922+00:00	micha3l5101	syntax	V OCCAM musí byť vždy uvedené buď SEQ alebo PAR? Vždy keď sa v nejakej vetve vykonáva viac ako 1 príkaz?
+2022	2022-05-15T17:53:13.179+00:00	bc.plov_ec	syntax	odkud si ucite OCCAM?
+2022	2022-05-15T19:20:18.824+00:00	maybe_coffee	syntax	@Fazolek Skip jste mi dali i na Random mating a nakonec to tu vsichni tryhardi. :tomStare:
+2022	2022-05-15T19:20:26.858+00:00	rys8515	syntax	Podla mna tieto veci nie su skip ked linda ma 4 ci kolko prikazov, to moze byt celkom ez
+2022	2022-05-15T20:51:14.673+00:00	micha3l5101	syntax	Alebo skip? ⏭️
+2022	2022-05-16T06:27:31.738+00:00	rys8515	syntax	9b za taly priklad by bolo vela, keby tam nedal par chytakov
+2022	2022-05-16T07:20:18.029+00:00	rys8515	general	MPI avg
+2022	2022-05-16T07:49:02.266+00:00	toaster	syntax	defaultne rank 0? nebo podle hodnoty `avg` protoze to pak muze byt rng ne? :VUTrtzW:
+2022	2022-05-16T08:14:45.894+00:00	flippz	syntax	``` PAR onanie := true anal ! obusek```
+2022	2022-05-16T08:14:59.686+00:00	mr.speaker	exam,syntax	cas dropovat bomby, kdyz je par hodin pred zkouskou :feelsOkayMan:
+2022	2022-05-16T08:16:12.546+00:00	sebasuuu	syntax	``` PAR onanie := true FOR 1 to N anal ? obusek anal ! obusek```
+2022	2022-05-16T12:02:26.499+00:00	.rrait	exam,scoring	skupina C 2022: Tipsport extraliga Xeon Mám etour a suffixsum a zjistit kolik je následujících vrcholu + popsat princip + určit čas náročnost Monitor Jsou asynchronní signály a určit zda jdou předkládat tak aby šli volat synchrone Prescan OCAM - mám chanelly 1-10 a může přijít adr nebo in, když mi do adr přijde 1-10 tak nastavím aktivní index na to číslo ...
+2022	2022-05-16T12:35:07.761+00:00	emzak	exam,scoring,syntax	Skupina B 1. Pram tipovacka 2. Vektorové procesory 3. Paralelní Select algoritmus K-teho prvku z posloupnosti S. Princip + Demonstrace 4. Peterson. Princip + pseudo kód 5. Synchronizace ? Netuším 6. Enumration sort, napsat X,Y,C,Z po skonceni algoritmu 7. OCCAM 8. MPI
+2022	2022-05-16T12:37:44.747+00:00	bixor_	syntax	A: PRAM Test and set (Dáky ten cancer suffixs) Pipeline sort Zretazene procesory Daka ťa synchronizácia cancer OCCAM MPI
+2022	2022-05-16T13:25:42.217+00:00	rys8515	general	A ten occam mi prisiel nejaku komplikovany oproti minulym rokom a prednaskam
+2022	2022-05-16T13:27:32.49+00:00	mr.speaker	general	Ten OCCAM byl total shit :PepeLa: Jsem to tam popsal podle toho co znám a tak čtvrtina z toho byl pseudokod :pepeLaff:
+2022	2022-05-19T19:28:05.016+00:00	student4822	exam,syntax	on stale na 1.opravny zrecykluje par otazok z riadneho, aspon co som pozeral tak to tak bolo
+2022	2022-05-21T05:41:09.851+00:00	janinka8352	syntax	na ktere prednasce se resi pi kalkul a na ktere occam?
+2022	2022-05-22T16:19:25.699+00:00	luxamnis	syntax	Jsou vektorové a maticové algoritmy nutné, nebo skip?
+2022	2022-05-24T12:46:18.54+00:00	student4822	scoring,syntax	ja som tam bol, ale holke predo mnou pridal za to ze daco vysvetlila, takze mozno komu chybalo par bodov, dovysvetlila mu a dal jej to v pohode, takze ak niekto stiha a chybaju mu aj 3b+ tak nech ide skusit stastie 😄
+2022	2022-05-24T15:29:10.209+00:00	afos	general	Pripadne aj occam rychlonalejvárna :VUTrtzW:
+2022	2022-05-25T09:34:40.764+00:00	student4822	syntax	Laďa, odkial si sa učil/učíš occam?
+2022	2022-05-25T09:44:27.002+00:00	lada_42	resource	V pinech najdeš dokument occam.pdf, kde najdeš syntax a tak. Ale zkusil jsme si nějaký předešlý zadání napsat sám
+2022	2022-05-25T13:51:57.095+00:00	student4822	general	skor na occam, kde je nejaky dobry navod a examples
+2022	2022-05-25T13:52:44.712+00:00	emzak	general	same s OCCAM jsem to měl jak KuKa s MPI, myslel jsme si, že to umím ale Zbořil měl jiný názor :KEKW:
+2022	2022-05-25T15:10:52.346+00:00	afos	syntax	no, tak nie skip.. ja som sa naučil parallel splitting iba a on chcel parallel select.. sad moment
+2022	2022-05-25T17:11:17.366+00:00	bvit	syntax	Btw ve který přednášce je ten Pi calculus a OCCAM?
+2022	2022-05-25T17:31:22.846+00:00	mangovnik	syntax	V occam můžu provést jenom jedno primitivum. Když jich si provést víc, tak musím specifikovat SEQ nebo PAR?
+2022	2022-05-25T19:45:53.413+00:00	emzak	syntax	Není tu náhodou nějáky OCCAM enjoyer, který by mi řekl jestli tohle aspoň trochu dává smysl :feelsOkayMan: Jestli si matně vybavuju tak na OCCAM tam bylo něco ve smyslu, že mám proceduru co má na vstupu array 10ti channelů a vstupy adr a in, všechno BYTE. Když na vstup adr příjde něco, tak inkrementuju channel modulo 10. Když přijde na in něco tak to pošl...
+2022	2022-05-26T08:47:22.75+00:00	jonny_em	general	To už moc konkrétně ne, ale říkal, že jako jistoty do skupiny C dával ten suffixsum s eulerem, že to bylo na druhým projektu či co, pak MPI a Prescan ... že čekal, že to budou mít dobře všichni a pak se tam někde dál nějakých 5 bodů najde ... ale ten OCCAM je za mě taky docela vklidu ... a zbytek je už tak nějak "náhodně" doskládanej
+2022	2022-05-26T08:47:50.78+00:00	jonny_em	general	ale myslim, že MPI tam bude určitě znovu, nedivil bych se, kdyby tam byl znovu OCCAM
+2022	2022-05-26T08:48:11.214+00:00	aleksij	general	jistota je OCCAM, MPI a PRAM tipovačka
+2022	2022-05-26T13:09:46.238+00:00	atreides38	syntax	Byzantské procesy skip?
+2022	2022-05-26T14:29:47.2+00:00	student4822	syntax	a OCCAM si nepamate z A a B? ja som to skipol ani som nepozeral ked som videl zaciatok 😄
+2022	2022-05-26T15:10:58.036+00:00	afos	syntax	prosím, z kade ste sa teda učili OCCAM?
+2022	2022-05-26T15:16:44.286+00:00	v0jta	syntax	je někde vzorově vypracovaná otázka na OCCAM?
+2022	2022-05-26T15:30:03.974+00:00	afos	general	prečo v každom článku occam porovnávajú s pascalom.. jeden jazyk, čo neviem, porovnajú s druhým jazykom, čo neviem.. dík no :VUTrtzW:
+2022	2022-05-26T16:15:36.122+00:00	bvit	syntax	Linda a ADA skip?
+2022	2022-05-26T16:19:09.987+00:00	srndo	general	Bude recyklovat OCCAM a nebudes musiet programovat v ziadnom zenskom jazyku :Prayge:
+2022	2022-05-26T16:20:41.877+00:00	.rrait	general	jakože tagy `occam`,`picalcul` a `linda` neexistují na stackoverflow :KEKW:
+2022	2022-05-26T16:21:53.189+00:00	afos	resource	keby ten occam mal niekde príklad, iba z toho pdf dokumentu to nechápem :sadge:
+2022	2022-05-26T16:24:20.03+00:00	srndo	syntax	ja som si prebehol ocami toto to mas tak na 15 minut aby som vedel z coho mozem ten program vobec stavat a tie priklady mi pride ze tam dava tazke takze tych par riadkov snad dako napiseme
+2022	2022-05-26T16:26:00.259+00:00	srndo	syntax	proste musis poznat ako sa robi IF, ALT, CHAN OF <Typ>, SEQ
+2022	2022-05-26T16:26:02.678+00:00	bvit	general	Ještě se můžeš nazpaměť naučit všechny OCCAM příklady za posledních 10 let
+2022	2022-05-26T16:26:29.561+00:00	afos	syntax	ALT je prakticky switch, nie?
+2022	2022-05-26T16:28:21.156+00:00	srndo	syntax	``` ALT podmienka blok prikazov podmienka2 blok prikazov true blok prikazov ``` podla toho ktora podmienka sa splni tak ten blok sa vykona ale podmienky sa mozu lisit a true ber ako default alebo else
+2022	2022-05-26T16:30:31.449+00:00	bvit	syntax	A ten occam je pseudojazyk nebo se v tom reálně programuje?
+2022	2022-05-26T17:50:30.939+00:00	3.14_tea	syntax	skip :notLikeThis:
+2022	2022-05-26T17:50:37.927+00:00	aleksij	syntax	skip
+2022	2022-05-26T21:29:12.362+00:00	afos	syntax	len ich neskúša (dúfam, bol to skip)
+2022	2022-05-26T22:48:50.131+00:00	toaster	syntax	ja si rikal proc si lidi stezujou na ten OCCAM ze je dead kdyz to vidam na random mistech jak to nekdo pouziva
+2022	2022-05-26T22:49:17.579+00:00	toaster	general	OCCAM confirmed dead
+2022	2022-05-27T07:04:07.678+00:00	ne_rk	exam,syntax	Par. Sel. je řádný skupina B, př. 3.
+2022	2022-05-27T08:46:15.22+00:00	afos	syntax	v OCCAM je AND alebo & alebo &&?
+2022	2022-05-27T09:14:59.103+00:00	panstojka	general	Radši occam
+2022	2022-05-27T09:17:29.344+00:00	toaster	general	OCCAM je docela v pohode
+2022	2022-05-27T11:06:48.44+00:00	aleksij	syntax	B: Udělat AND pro common CRCW Xeon Phi :itsVoidkay: Odd Even merge sort Marzullův alg Zase ta koruna Enumeration Sort OCCAM shit nevím co MPI, každej procesor měl prvek a zjistit jestli sudý procesory mají sudy prvky a lichý mají lichý prvky
+2022	2022-05-27T11:07:32.733+00:00	panstojka	general	Ten occam byl taky prdel, jakože cože
+2022	2022-05-27T11:10:54.169+00:00	sebasuuu	syntax	A: - popísať Algo na CRCW pre AND a uviesť príklad - kde by sme využili MIMD, popísať + obrázok - suffixsum pre euler path výpočet úrovne vrcholu - MPI nájsť či suma prvkov v 1. Polovici je menšia ako suma prvkov v 2. Vypísať áno alebo nie - ako budú vyzerať procesory v 12. Kroku pri pipeline sort - async -> či sa dá tak ako, kde to vidime atď. - OCCAM ch...
+2022	2022-05-27T11:33:04.393+00:00	beeblebr0x	general	ten OCCAM som mal rovnaky na riadnom
+2022	2022-05-31T12:27:50.986+00:00	toaster	general	libi se mi ze ten OCCAM jsem mel uplne stejnou otazku jako na radnem ale tentokrat jsem za skoro stejne reseni dostal 4 misto 8 :PepeLa:
+2022	2022-05-31T12:28:47.776+00:00	student4822	general	ja MPI 1 pri tom to bolo uplne easy, ale OCCAM 7 😄 😄
+2022	2022-05-31T12:54:31.806+00:00	atreides38	scoring,syntax	Mimochodem jenom pro doplnění: 1) Popsat princip + příklad 2) Popsat + obrázek (dostal jsem 8b za ten architekturní se skalar, vect jednotkou, cache,... takže chtěl asi ten) 3) + ještě nakreslit tu síť 4x4 s použitím CE porovnávaček 5) Dá se synchronizovat? Pokud ano uvést jak. Pokud ne, uvést jak se to dá detekovat, co se tam nachází a které konkrétní zp...
+2022	2022-06-05T15:34:17.045+00:00	_insert	exam,syntax	Opravný B - Procedúra s tromi parametrami - pole kanálov OUT[10] a kanály IN a ALT. Na IN a ALT sú prijímané hodnoty 0/1. Hodnota prijatá na ALT zapína/vypína alternovanie medzi OUT kanálmi. Hodnota na IN je poslaná na aktuálny kanál OUT a podľa toho či je zapnutá alternacia je inkrementovany index kanálu OUT (modulo počet kanálov).
+2022	2022-06-05T17:28:56.212+00:00	_insert	syntax	`PROC(CHAN OF INT out[10], CHAN OF INT in, CHAN OF INT alt): INT alter, index, value := 0 WHILE TRUE SEQ ALT alt ? value IF value = 1 alter := 1 ELSE alter := 0 in ? value out[index] ! value IF alter = 1 index := (index + 1) % 10 `
+2022	2022-06-06T12:33:27.45+00:00	janinka8352	syntax	a misto occam muze byt i Linda?
+2023	2023-04-15T13:24:19.27+00:00	no.body.the.sad.slider.boy	syntax	Jako tbh, ta složitost mě nenapadla do prvních pár minut, tak skip. A když jsem nepřišel do pár minut ani na ten diagram, tak jsem se na to vy||kašlal|| :feelsOkayMan:
+2023	2023-05-01T08:27:58.54+00:00	monnte	general	taktiež OCCAM alebo LINDA
+2023	2023-05-01T09:55:21.435+00:00	bicko7	syntax,resource	tu syntax na OCCAM najdem kde ? na nejakom zazname ukazoval tusim dake pdf
+2023	2023-05-01T16:16:33.717+00:00	bicko7	syntax	byzantsky generali skip :OMEGALUL:
+2023	2023-05-12T18:06:40.876+00:00	diskordsux	syntax	tipovačka a MPI je skoro stoprocentní jistota. pak se tam relativně často objevuje OCCAM programování, pi kalkul, nebo treba priklad, kde je potřeba detekovat korunu v signálech
+2023	2023-05-12T18:46:07.96+00:00	stupidboisbb	syntax	par novejch, ale na minimum se to urco posklada z otazek co uz padly :Prayge:
+2023	2023-05-13T08:13:45.452+00:00	stupidboisbb	exam,syntax	:pog: tak to ja jsem se na par 1, opravnejch podival teda
+2023	2023-05-13T15:46:22.282+00:00	stupidboisbb	syntax	a muzes mi vysvetlit proc je tam na zacatku to ALT?
+2023	2023-05-13T15:48:07.416+00:00	justlada	syntax	alt se nezasekne kdyz jedna vetev neplati
+2023	2023-05-13T15:49:02.054+00:00	diskordsux	syntax	IF dovoluje jenom boolovský výrazy, ALT to může větvit i podle těch vstupů
+2023	2023-05-13T16:09:24.064+00:00	harukenm	syntax	pi kalkul, skip ?
+2023	2023-05-14T10:12:21.215+00:00	di3go_cz	exam	Výskyt otázek ze těch dvou docs (2022/2023 předtermín - 2016/2017): ```25x MPI 25x PRAM tipsport 12x Etour, suffixsum -> (preorder / následující vrcholy / cesta …) 10x něco s Broadcast FIFO / kauzalita / atomičnost (kód, graf nebo teorie) 9x OCCAM (popsat, primitiva, příklad) 9x Carry look ahead příklad 6x Monžnost převést asynchronní systém na synchronní...
+2023	2023-05-14T10:14:49.315+00:00	justlada	syntax	skip
+2023	2023-05-14T13:56:43.876+00:00	monnte	syntax	prva prednaška z VGE skip
+2023	2023-05-14T13:58:20.665+00:00	jayzeedog	syntax	čo ten pi kalkul, je to ez či skip, jak to vobec vyzera
+2023	2023-05-14T14:21:32.583+00:00	justlada	syntax	stop generate propagate
+2023	2023-05-14T15:21:10.961+00:00	veverica	syntax	no neviem, toto vyzera skip trochu
+2023	2023-05-14T15:32:16.465+00:00	duristomas67	syntax	To znie ako skip na 3
+2023	2023-05-14T15:44:23.685+00:00	fifinas	syntax	To komentoval na prednasce, ze par let zpatky na prednasce rekl, ze to tam neda a pak to tam dal, protoze zapomnel, ze to rikal :dogeKek:
+2023	2023-05-14T16:08:51.144+00:00	justlada	syntax	skip
+2023	2023-05-15T06:53:57.545+00:00	duristomas67	general	mám leak zadania :pog: 1. PRAM Tipsport 2. Euler na uroven vrcholov 3. Monitor 4. OCCAM 5. MPI na počet prvkov väčší ako priemer 6. CLA 7. Async -> Sync 8. Suzuki princíp
+2023	2023-05-15T08:15:52.244+00:00	pheter5687	syntax	No fakt, co ak tam da naprogramovat detekciu prestupneho roka v OCCAM :monkaStop:
+2023	2023-05-17T15:45:04.863+00:00	stupidboisbb	syntax	at si da par do dobre naladicky
+2023	2023-05-27T20:59:25.148+00:00	.caby.	syntax	ja este par veci no
+2023	2023-05-29T08:49:38.142+00:00	duristomas67	general	OCCAM
+2023	2023-05-29T08:50:27.776+00:00	duristomas67	general	Mpi, occam a etour a máš podľa mňa istotu na aspoň 20b
+2023	2023-05-29T08:53:04.2+00:00	osky9913	general	OCCAM je ale 💩
+2023	2023-05-29T10:46:41.808+00:00	monnte	syntax	je stop
+2023	2023-05-29T13:11:52.2+00:00	filgut	general	Eeh myslel som occam
+2023	2023-05-29T20:51:15.588+00:00	.whatupbiatch	syntax	len sa to par krat prepise aj ked sa najde uz pri prvom najdeni ten prvok
+2023	2023-06-05T10:15:19.162+00:00	louda7658	general	OCCAM
+2023	2023-06-05T11:21:43.816+00:00	monett666	syntax	ten pseudokod se lisi jen par radkama, takze se oplati se na to podivat
+2023	2023-06-05T12:50:36.187+00:00	louda7658	syntax	co je v OCCAM skip a stop?
+2023	2023-06-05T12:51:23.349+00:00	kbb_o	syntax	som pochopil tak že stop je blokující a skip nie
+2023	2023-06-05T16:01:33.663+00:00	louda7658	general	ani occam
+2024	2024-04-23T08:35:38.485+00:00	enhaut	general	Sú v docu nejaké. Napríklad spočítať sumu prvkov väčších ako avg v log. čase
+2024	2024-04-23T20:54:46.37+00:00	penpem	syntax	takze proste divny postup, skip
+2024	2024-04-24T09:21:58.53+00:00	penpem	syntax	ako sa robi ten PMS v occam?
+2024	2024-04-24T09:47:27.575+00:00	penpem	syntax	hard skip, to som vas len skusal ako velmi tryhardite :OMEGALUL:
+2024	2024-04-24T14:06:45.323+00:00	headclass	exam,syntax	PREDTERMIN 2023/24 1. Tipsport crcw - XOR, NAND, AND 2. PRAM model - opisat ho, nakreslit obrazok 3. Kauzalni broadcast + relace kauzality 4. Euler pro počet následovníků + popis 5. CLA 6. Meakawův algoritmus - opisat kvorum a na obrazku znazornit zalomenu verziu kvor pre 12 procesov. takto ukazte zistenie kvor pre 2 procesy 7. OCCAM - implementujte proce...
+2024	2024-05-07T10:26:47.618+00:00	jany26	exam,syntax	riadny skip :peeposadlove:
+2024	2024-05-10T09:37:45.947+00:00	matthewlele	syntax	Skip:FeelsGoodEnoughMan:
+2024	2024-05-10T14:06:41.882+00:00	honzav23	syntax	To je skip
+2024	2024-05-11T17:22:42.233+00:00	headclass	general	Moj prediction na pondelok: - PRAM tipsport - Euler hlbka/poradie - Nejaky pi kalkul - Nejaky MPI kde bude treba pouzit broadcast (nezabudnut nielen poslat broadcast, ale aj prijat) - Marzullov algo - Test&set pseudokod - nejaky occam kod - nejaka polsemkova teoria, redukcny pocitac alebo dataflow
+2024	2024-05-11T20:15:18.718+00:00	fatherandrew	syntax	na tú linda/occam/pi-kalkul prednášku záznam nemáme?
+2024	2024-05-11T21:14:53.167+00:00	cyko237	syntax	also jak muze nekdo se 100 bodama z flp mit problem se naucit par algos, sak musis mit treba 4 mozky ne
+2024	2024-05-11T22:36:44.601+00:00	fatherandrew	general	actually by som momentálne bral pi kalkul over OCCAM alebo Linda... tie neviem vôbec čarovať
+2024	2024-05-12T12:02:36.121+00:00	cyko237	syntax	pi kalkul je strasny skip, absolutne nechapu co se tam deje :pepeLaff:
+2024	2024-05-12T15:41:40.507+00:00	matthewlele	syntax	a na skusku sa tych par dni poucit zase neni nic hrozne
+2024	2024-05-12T15:47:16.689+00:00	matthewlele	syntax	sak aj ja som siel chronologicky ale ked nieco nepochopim na prvy krat tak je to skip a idem dalej:FeelsGoodEnoughMan:
+2024	2024-05-12T16:53:25.134+00:00	penpem	syntax	skip
+2024	2024-05-12T16:53:32.1+00:00	matthewlele	syntax	presne tak skip
+2024	2024-05-12T16:53:48.985+00:00	penpem	syntax	to je priam do-oci-bijuci SKIP
+2024	2024-05-12T16:55:10.474+00:00	pomocpls	syntax	nedavajte na vsetko skip:reee:
+2024	2024-05-12T16:55:22.01+00:00	matthewlele	syntax	nie na vsetko ale toto je skip
+2024	2024-05-12T16:56:52.02+00:00	matthewlele	syntax	skip
+2024	2024-05-12T17:02:02.622+00:00	cyko237	syntax	skip
+2024	2024-05-12T17:05:57.341+00:00	penpem	syntax	https://tenor.com/view/davis-the-warp-zone-michael-adams-davis-and-skip-pointing-gif-15758561
+2024	2024-05-12T18:03:37.302+00:00	cyko237	exam,syntax	tak projekty v prl byly oba na par hodin :kalm: ale to ucivo na zkousku 🤮
+2024	2024-05-12T18:27:59.096+00:00	kefassos	syntax	Nejaky toturial na pi calcul ? alebo skip
+2024	2024-05-12T18:28:11.46+00:00	cyko237	syntax	pokud to v tom nevidis hned tak skip
+2024	2024-05-12T18:53:10.537+00:00	matthewlele	syntax	to bol skip uz na polsemku
+2024	2024-05-12T19:13:16.235+00:00	jany26	syntax	stop
+2024	2024-05-12T19:56:21.702+00:00	matthewlele	syntax	too long skip
+2024	2024-05-12T20:14:56.013+00:00	bc.derkuznikov	syntax	Som sa teraz pozeral na par random nazvou algoritmou co cca vjem resit a ani za kokot nevjem ktory je ktory
+2024	2024-05-13T09:25:47.655+00:00	pomocpls	syntax	skip
+2024	2024-05-13T09:28:32.796+00:00	thebluegril	syntax	Prl skip
+2024	2024-05-13T09:29:06.244+00:00	penpem	syntax	pozri si od tohto par dalsich sprav odomna
+2024	2024-05-13T09:34:02.939+00:00	thebluegril	general	Žádný OCAM, ADA ani LINDA :Prayge:
+2024	2024-05-13T09:34:21.318+00:00	matthewlele	syntax	kam zmizol prl skip ?:FeelsNotSureMan:
+2024	2024-05-13T09:34:46.858+00:00	matthewlele	syntax	neviem kamosi hovorili ze par krat im to pomohlo:kappaPeek:
+2024	2024-05-13T09:35:16.836+00:00	safarmirek	general	Já chci OCCAM
+2024	2024-05-13T09:38:24.725+00:00	thebluegril	scoring,syntax	Já mu napíšu akorát že tam je nějaký SEQ nebo PAR a operátor ? a !. Myslíš že to stačí na nějaké bodíky?
+2024	2024-05-16T18:29:19.633+00:00	bc.derkuznikov	syntax	dnssec, tls a par dalsich musis precist
+2024	2024-05-23T23:05:22.52+00:00	penpem	syntax	SKIP
+2024	2024-05-24T19:08:07.529+00:00	jany26	resource	zboril pri occame spomina nejaky subor v dokumentovom sklade (kde su ukazky occam kodov asi)
+2024	2024-05-24T19:12:20.585+00:00	jany26	general	9x OCCAM (popsat, primitiva, příklad)
+2024	2024-05-25T19:33:51.381+00:00	monnte	syntax	co si ich par vybral
+2024	2024-05-25T19:36:42.97+00:00	drewandrew1	syntax	joo ale z obarvenych kolecek a par sipek to nejde moc poznat :pepeLa:
+2024	2024-05-25T21:35:11.802+00:00	cyko237	syntax	skip
+2024	2024-05-27T10:03:17.871+00:00	cyko237	syntax	TRUE SKIP
+2024	2024-05-27T10:04:52.411+00:00	soromis	syntax	🤓vzhledem k tomu že to nechceš dělat tak spíš STOP aby jsi pak nepokračoval v loopu
+2024	2024-05-27T10:05:14.827+00:00	jany26	syntax	vsak SKIP tiez ukoncuje ne?
+2024	2024-05-27T10:05:57.962+00:00	jany26	syntax	SKIP = NOP, které se ukončí STOP = NOP, které se nikdy neukončí
+2024	2024-05-27T10:16:02.426+00:00	__gunter__	syntax	a jak v tom OCCAM funguje ten ALT? chapu, ze pod tim ALTem mohou byt podminky a cteni ze vstupu... a to se pak vykona jen jedna cesta?
+2024	2024-05-27T10:18:47.407+00:00	jany26	syntax	■ ALT combines a number of processes only one of which is executed
+2024	2024-05-28T11:27:26.259+00:00	jany26	syntax	stop
+2024	2024-05-28T11:28:14.927+00:00	monnte	syntax	https://tenor.com/view/stop-stickman-stop-sign-dymn-gif-23873807
+2024	2024-06-02T15:24:50.241+00:00	yamauu	syntax	nejaky predpovedi cp tam bude? occam nebyl jeste letos
+2024	2024-06-02T15:25:40.485+00:00	ponik73	exam	Na predtermine bol occam
+2024	2024-06-02T16:06:27.617+00:00	jany26	general	pi kalkul, occam, linda tiez casto
+2024	2024-06-04T18:13:15.112+00:00	cyko237	syntax	tak projekty v tomhle predmetu jsou na par hodin
+2025	2025-05-04T17:00:49.736+00:00	mikee25	syntax	ty minuly zadani v pinech vypadaj docela dobre, ted to sjizdim. jsou tam pi kalkul, monitor, par algoritmu, takovy ty klasiky..
+2025	2025-05-06T20:43:34.587+00:00	michal3441	general	wtf is occam :Tragika:
+2025	2025-05-10T10:27:02.352+00:00	moonyros	exam	Jo, pi kalkul se na poslední přednášce dělal, ale bylo to hodně z rychlíku, no. A ten OCCAM je na tom dost podobně mi přijde. Před předtermínem jsem se s ním o záznamu bavil, ale říkal, že ještě není zpracovaný. :sadge: Ve finále bych se asi stejně zacílil na jiné materiály, co se té poslední přednášky týče.
+2025	2025-05-11T19:40:11.094+00:00	roytak	syntax	pi kalkul je skip
+2025	2025-05-11T19:47:38.181+00:00	roytak	syntax	to je taky strašnej skip
+2025	2025-05-11T19:53:25.858+00:00	michal3441	exam,syntax	Toto inac bolo na predtermine 1. EREW/CREW tipovacka, kde musis vybrat zlozitost algoritmu 2. definovat ako funguju zretazene procesory a ake konflikty mozu nastat 3. Random mating alg, mas navrhnut ako sa budu pseudonahodne generovat tie male a female tokeny tak, aby skoncil po 4 iteraciach 4. Select sort na vyber k-teho prvku (opisat a ukazat hocijaky p...
+2025	2025-05-28T09:48:24.368+00:00	nevos07	general	myslím že počet prvků větších než je taky log n.. jedině že by to byl sum CRCW, ale v tu chvíli i avg, součet počet lichých sudých by šel v const.. a hlavně vždycky se ptal na common CRCW
+2025	2025-05-28T13:32:22.861+00:00	omegapatyk	general	1) PRAM tipovačka 2) FIFO broadcast + relace klauzality 3) 4 čítače 4) Čtenář x písař 5) Balgoriuv alg 6) Prescan 7) OCCAM 8) MPI
+2025	2025-06-08T20:00:15.196+00:00	precla	general	Occam už tam snad nedá :COPIUM: :Clueless:
+2025	2025-06-09T07:57:54.986+00:00	yamauu	general	On tam fakt dal occam 3x po sobe
+2026	2026-04-15T16:40:16.358+00:00	bonobonobono	syntax	# STOP!
+2026	2026-04-26T12:29:31.356+00:00	pepega007xd	syntax	Asi zatim skip
+2026	2026-05-02T15:37:57.136+00:00	king_arthur_of_camelot	syntax	nice, skip
+2026	2026-05-03T19:40:16.881+00:00	lufycz	syntax	10. Pi-kalkul reductions — ~14 Variations: reduce expression, list 3–4 possible reductions, observations when no further reduction is possible 11. CLA / carry-look-ahead adder — ~14 Variations: add two binary numbers, show propagate/stop/generate, compute carries with scan 12. OCCAM — ~13 Variations: channels/arrays, route input to output channel, queue/b...
+2026	2026-05-05T06:38:19.99+00:00	bonobonobono	general	\1. priklad tipsport, mpi, occam-pikalkul, zbytek je random :Koteseni:
+2026	2026-05-05T13:16:52.091+00:00	cranycrane	syntax	8 stranek skip
+2026	2026-05-05T13:43:19.067+00:00	barto7864	syntax	par funkci
+2026	2026-05-05T17:31:24.265+00:00	keizzha	syntax	libi se mi jak uz po 150. mame carry look ahead scitacku tak tam museli dat stop flag/pin aby nebyla uplne rovnaka
+2026	2026-05-05T17:31:45.703+00:00	keizzha	syntax	v praxi je ten stop flag zcela a uplne k hovnu
+2026	2026-05-05T18:48:12.859+00:00	king_arthur_of_camelot	syntax	cla je skip
+2026	2026-05-05T19:36:22.549+00:00	keizzha	general	OCCAM a zbytek rendezvous zitra
+2026	2026-05-07T12:41:43.994+00:00	lufycz	syntax	nejake ampersandy skip
+2026	2026-05-07T12:49:41.926+00:00	lufycz	syntax	hadam ze kdybych s nim nasel par bodu tu a tam
