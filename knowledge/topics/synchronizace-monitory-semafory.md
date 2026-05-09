@@ -4,6 +4,14 @@
 
 Zadání často chce krátkou definici `P/V`, monitoru, `wait/signal`, nebo klasický pseudokód pro readers-writers či producer-consumer. U monitoru se hodně kontroluje, jestli `wait` uvolní monitor.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/sync-shared-memory#Strana 33|Synchronizace, str. 33]] až [[knowledge/sources/slides/sync-shared-memory#Strana 36|str. 36]] - semafor, `P/V`, čítač a fronta.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 41|Synchronizace, str. 41]] až [[knowledge/sources/slides/sync-shared-memory#Strana 46|str. 46]] - producent/konzument přes semafory.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 53|Synchronizace, str. 53]] až [[knowledge/sources/slides/sync-shared-memory#Strana 56|str. 56]] - readers/writers a férovější varianta.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 64|Synchronizace, str. 64]] až [[knowledge/sources/slides/sync-shared-memory#Strana 68|str. 68]] - monitor, podmínkové proměnné, `wait`/`signal`.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 69|Synchronizace, str. 69]] až [[knowledge/sources/slides/sync-shared-memory#Strana 72|str. 72]] - implementace monitor/semafor a bounded buffer monitorem.
+
 ## Semafor
 
 Operace:

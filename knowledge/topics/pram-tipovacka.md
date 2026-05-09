@@ -4,6 +4,13 @@
 
 Úloha obvykle chce odhadnout čas, cenu a počet procesorů pro několik jednoduchých výpočtů nad polem. Často se ptá na rozdíl mezi EREW, CREW, CRCW a common CRCW.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/pram-mng#Strana 3|PRAM, str. 3]] až [[knowledge/sources/slides/pram-mng#Strana 5|str. 5]] - definice PRAM, synchronní kroky, EREW/CREW/CRCW a řešení CRCW konfliktů.
+- [[knowledge/sources/slides/pram-mng#Strana 6|PRAM, str. 6]] - příklady časů/cen pro základní PRAM úlohy.
+- [[knowledge/sources/slides/pram-mng#Strana 9|PRAM, str. 9]] až [[knowledge/sources/slides/pram-mng#Strana 12|str. 12]] - reduce, scan/prescan a jejich složitost.
+- [[knowledge/sources/slides/pram-mng#Strana 26|PRAM, str. 26]] až [[knowledge/sources/slides/pram-mng#Strana 27|str. 27]] - přesnější definice access modelů a hierarchie PRIORITY/ARBITRARY/COMMON/CREW/EREW.
+
 ## Modely
 
 - EREW: exclusive read, exclusive write.

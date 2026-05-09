@@ -4,6 +4,15 @@
 
 Zadání bývá jedna ze tří forem: napsat algoritmus FIFO broadcastu, rozhodnout vlastnosti v diagramu, nebo vysvětlit synchronizovatelnost přes korunu. Hodnotí se hlavně přesné rozlišení FIFO, kauzality a atomicity.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/komunikace#Strana 13|Komunikace, str. 13]] - FIFO, kauzální a úplné uspořádání zpráv.
+- [[knowledge/sources/slides/komunikace#Strana 14|Komunikace, str. 14]] - třídy broadcastu: Reliable, FIFO, Causal, Atomic.
+- [[knowledge/sources/slides/komunikace#Strana 15|Komunikace, str. 15]] - algoritmus FIFO všesměrového vysílání.
+- [[knowledge/sources/slides/komunikace#Strana 17|Komunikace, str. 17]] - relace kauzality pro causal broadcast.
+- [[knowledge/sources/slides/komunikace#Strana 22|Komunikace, str. 22]] - ABCAST algoritmus a rozhodnuté priority.
+- [[knowledge/sources/slides/komunikace#Strana 32|Komunikace, str. 32]] až [[knowledge/sources/slides/komunikace#Strana 34|str. 34]] - koruna a synchronizovatelnost; diagramy kontroluj v [[raw/PRL2526_Komunikace.pdf]].
+
 ## Vizualizace a drill stránky
 
 - [[knowledge/visuals/fifo-broadcast-buffer|FIFO broadcast: sekvence a buffer]]

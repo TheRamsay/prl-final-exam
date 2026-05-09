@@ -4,6 +4,13 @@
 
 Zadání dá jeden výraz v pi-kalkulu a chce několik možných redukcí nebo koncových výrazů. Často se hodnotí i pozorování typu `↓x`. Důležité je vypsat různé větve nedeterminismu, ne jen jednu náhodnou redukci.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/modely#Strana 16|Modely, str. 16]] až [[knowledge/sources/slides/modely#Strana 18|str. 18]] - úvod do π-kalkulu, procesy a strukturální ekvivalence.
+- [[knowledge/sources/slides/modely#Strana 19|Modely, str. 19]] až [[knowledge/sources/slides/modely#Strana 21|str. 21]] - redukční pravidla, komunikace a omezené kanály.
+- [[knowledge/sources/slides/modely#Strana 25|Modely, str. 25]] až [[knowledge/sources/slides/modely#Strana 27|str. 27]] - pozorování, barbed simulace a bisimulace.
+- [[knowledge/sources/slides/modely#Strana 31|Modely, str. 31]] až [[knowledge/sources/slides/modely#Strana 37|str. 37]] - příklady redukcí a bufferu.
+
 ## Syntaxe, která se objevuje
 
 - `a(x).P`: přijmi hodnotu na kanálu `a`, ulož do `x`, pokračuj jako `P`.

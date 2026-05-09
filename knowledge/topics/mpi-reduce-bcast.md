@@ -4,6 +4,14 @@
 
 Každý proces má lokální hodnotu `value` a má se spočítat globální vlastnost v logaritmickém čase pomocí `MPI_Reduce` a případně `MPI_Bcast`. Často se řeší průměr, minimum, maximum, počet prvků splňujících podmínku nebo kombinace sudé/liché části.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/mpi#Strana 8|MPI, str. 8]] až [[knowledge/sources/slides/mpi#Strana 14|str. 14]] - inicializace, `MPI_COMM_WORLD`, rank a size.
+- [[knowledge/sources/slides/mpi#Strana 24|MPI, str. 24]] - kolektivní komunikace, `MPI_Bcast` a `MPI_Reduce`.
+- [[knowledge/sources/slides/mpi#Strana 25|MPI, str. 25]] - standardní redukční operace (`MPI_SUM`, `MPI_MAX`, `MPI_MIN`, ...).
+- [[knowledge/sources/slides/mpi#Strana 26|MPI, str. 26]] až [[knowledge/sources/slides/mpi#Strana 29|str. 29]] - příklady reduce pro sumu, maximum a dvě části vstupu.
+- [[knowledge/sources/slides/mpi#Strana 44|MPI, str. 44]] až [[knowledge/sources/slides/mpi#Strana 45|str. 45]] - příklad s `MPI_Bcast`.
+
 ## Co umět
 
 - V každém procesu je typicky `rank`, `numproc`, `value`.

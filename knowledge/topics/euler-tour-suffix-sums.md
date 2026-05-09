@@ -4,6 +4,14 @@
 
 Zadání dá strom, adjacency list nebo tabulku hran a chce `Etour`, `level(v)`, `preorder(v)` nebo počet následovníků. V odpovědi musí být vidět převod ze stromu na orientované hrany a použití prefix/suffix sum.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/grafy#Strana 28|Grafy, str. 28]] až [[knowledge/sources/slides/grafy#Strana 35|str. 35]] - Euler tour a konstrukce `Etour`.
+- [[knowledge/sources/slides/grafy#Strana 37|Grafy, str. 37]] až [[knowledge/sources/slides/grafy#Strana 45|str. 45]] - `preorder`, počet následníků a `level(v)` přes `SuffixSums`.
+- [[knowledge/sources/slides/pram-mng#Strana 7|PRAM, str. 7]] až [[knowledge/sources/slides/pram-mng#Strana 12|str. 12]] - scan/prescan/reduce jako základ pro výpočty nad Euler tour.
+- [[knowledge/sources/slides/pram-mng#Strana 82|PRAM, str. 82]] až [[knowledge/sources/slides/pram-mng#Strana 89|str. 89]] - Blellochův detailní výklad all-prefix-sums, prescan a stromového up/down sweepu.
+- [[knowledge/sources/slides/pram-mng#Strana 83|PRAM, str. 83]] - použití prefix sums pro stromové operace, včetně hloubky vrcholů.
+
 ## Základní princip
 
 Strom se převede na orientované hrany v Eulerově průchodu. Nad hranami se nastaví ohodnocení a použije se prefix/suffix suma. Podle volby ohodnocení z výsledku dostaneme vlastnosti vrcholů.

@@ -4,6 +4,17 @@
 
 Tahle stránka je catch-all pro distribuované algoritmy mimo broadcast/ABCAST. V zadání se střídají mutual exclusion algoritmy, synchronizace vstupu do kritické sekce, detekce ukončení, volba lídra, časová synchronizace a menší simulační algoritmy jako Random mating nebo Rendezvous.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/distribuovana-synchronizace#Strana 10|Distribuovaná synchronizace, str. 10]] až [[knowledge/sources/slides/distribuovana-synchronizace#Strana 13|str. 13]] - Marzulloův algoritmus.
+- [[knowledge/sources/slides/distribuovana-synchronizace#Strana 30|Distribuovaná synchronizace, str. 30]] až [[knowledge/sources/slides/distribuovana-synchronizace#Strana 39|str. 39]] - Lamport a Ricart-Agrawala pro distribuované vzájemné vyloučení.
+- [[knowledge/sources/slides/distribuovana-synchronizace#Strana 47|Distribuovaná synchronizace, str. 47]] až [[knowledge/sources/slides/distribuovana-synchronizace#Strana 52|str. 52]] - Maekawa.
+- [[knowledge/sources/slides/distribuovana-synchronizace#Strana 84|Distribuovaná synchronizace, str. 84]] až [[knowledge/sources/slides/distribuovana-synchronizace#Strana 94|str. 94]] - Suzuki-Kasami; diagramové kroky kontroluj v [[raw/PRL2526_DISTSYNCH.pdf]].
+- [[knowledge/sources/slides/komunikace#Strana 38|Komunikace, str. 38]] až [[knowledge/sources/slides/komunikace#Strana 41|str. 41]] - Bagrodia/rendezvous tokeny a příklady.
+- [[knowledge/sources/slides/grafy#Strana 10|Grafy, str. 10]] až [[knowledge/sources/slides/grafy#Strana 15|str. 15]] - Random Mate / Random mating, obě fáze a analýza.
+- [[knowledge/sources/slides/grafy#Strana 16|Grafy, str. 16]] až [[knowledge/sources/slides/grafy#Strana 26|str. 26]] - Optimal List Ranking přes Random Mate simulaci.
+- [[knowledge/sources/slides/distribuovana-synchronizace#Strana 129|Distribuovaná synchronizace, str. 129]] až [[knowledge/sources/slides/distribuovana-synchronizace#Strana 135|str. 135]] - volba lídra a detektor Ω.
+
 ## Maekawa
 
 Vzájemné vyloučení přes kvóra:

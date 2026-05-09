@@ -4,6 +4,15 @@
 
 Téma se ptá na krátký popis a nákres principu: VLIW, pipeline/zřetězení, SIMD/MIMD, dataflow, Xeon Phi nebo PRAM model. Body jsou hlavně za správnou terminologii, výhody/nevýhody a typické konflikty.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/prl-overview#Strana 5|PRL overview, str. 5]] až [[knowledge/sources/slides/prl-overview#Strana 8|str. 8]] - Flynnova klasifikace, SIMD/MIMD a základní modely.
+- [[knowledge/sources/slides/prl-overview#Strana 13|PRL overview, str. 13]] až [[knowledge/sources/slides/prl-overview#Strana 24|str. 24]] - dataflow a výpočetní grafy.
+- [[knowledge/sources/slides/prl-overview#Strana 54|PRL overview, str. 54]] až [[knowledge/sources/slides/prl-overview#Strana 61|str. 61]] - VLIW a srovnání se superskalárními procesory.
+- [[knowledge/sources/slides/prl-overview#Strana 62|PRL overview, str. 62]] až [[knowledge/sources/slides/prl-overview#Strana 70|str. 70]] - SIMD, vektorové procesory a MSIMD.
+- [[knowledge/sources/slides/pram-mng#Strana 3|PRAM, str. 3]] až [[knowledge/sources/slides/pram-mng#Strana 5|str. 5]] - PRAM jako synchronní sdílenopaměťový model.
+- [[knowledge/sources/slides/matice#Strana 14|Matice, str. 14]] - příklad EREW transpozice ve sdílené paměti.
+
 ## VLIW
 
 Very Long Instruction Word spojuje několik nezávislých operací do jednoho širokého instrukčního slova. Paralelismus plánuje převážně překladač, hardware pak spouští operace na více funkčních jednotkách.

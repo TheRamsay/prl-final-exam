@@ -4,6 +4,12 @@
 
 Linda se objevuje jako práce s tuple space nad jednoduchou datovou strukturou, často seznamem. ADA se objevuje spíš jako krátká teorie: task, entry, rendezvous a `accept`.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/komunikace#Strana 42|Komunikace, str. 42]] až [[knowledge/sources/slides/komunikace#Strana 46|str. 46]] - ADA, rendezvous, `accept`, `select` a bounded buffer.
+- [[knowledge/sources/slides/komunikace#Strana 49|Komunikace, str. 49]] až [[knowledge/sources/slides/komunikace#Strana 52|str. 52]] - Linda tuple space a operace `out`, `in`, `rd`, `eval`.
+- [[knowledge/sources/slides/komunikace#Strana 53|Komunikace, str. 53]] až [[knowledge/sources/slides/komunikace#Strana 55|str. 55]] - synchronizační primitiva, kanály a příklad se seznamem v Lindě.
+
 ## Linda
 
 Linda pracuje s tuple space.

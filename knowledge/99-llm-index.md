@@ -12,7 +12,7 @@ Priorita zdrojů:
 2. `knowledge/exams/**/term-*.md` pro konkrétní historická zadání.
 3. `knowledge/exams/_verification/raw-vs-student-doc.md` pro jistotu, rozpory a původ zdroje.
 4. `knowledge/sources/slides/*.md` pro oficiální výklad, definice, algoritmy, diagramové stránky a složitosti.
-5. `raw/*.md`, `raw/*.webp` a `raw/*.pdf` pro původní materiál.
+5. `raw/*.md`, `raw/*.webp`, `raw/*.pdf` a `raw/*.odp` pro původní materiál.
 6. `knowledge/sources/student-doc/` pro rozsekaný studentský dokument.
 
 ## Nejrychlejší vstupy
@@ -47,7 +47,7 @@ Priorita zdrojů:
 - "Co čekat u řádného termínu": použij [[knowledge/07-predikce-radny-2025-2026]] a [[knowledge/08-pretermin-vs-radny]].
 - "Kdy se to objevilo": hledej odkazy na topic v `knowledge/exams/`.
 - "Je to jisté / odkud to je": použij [[knowledge/exams/_verification/raw-vs-student-doc]].
-- "Co říkají oficiální materiály": použij [[knowledge/sources/slides/00-index]] a potom konkrétní slide extrakt.
+- "Co říkají oficiální materiály": začni sekcí `Oficiální slidy` v topic poznámce; pokud nestačí, použij [[knowledge/sources/slides/00-index]] a konkrétní slide extrakt.
 - "Chci drill": použij [[knowledge/practice/00-index]] a mini-drilly v topic poznámkách.
 
 ## Topic poznámky
@@ -85,7 +85,7 @@ rg -n "Verifikační status|raw only|student_doc only|student_doc doplňuje raw|
 - `knowledge/07-predikce-radny-2025-2026.md`: predikční matice pro řádný termín 2025/2026.
 - `knowledge/08-pretermin-vs-radny.md`: podpůrná analýza rozdílů mezi předtermíny a řádnými termíny.
 - `knowledge/practice/`: predikční cvičné testy sestavené podle historie zadání.
-- `knowledge/sources/slides/`: automaticky extrahované oficiální PDF slidy po stránkách.
+- `knowledge/sources/slides/`: automaticky extrahované oficiální slidy po stránkách.
 - `knowledge/05-vyhledavani.md`: poznámka k webovému full-text search.
 - `knowledge/exams/<rok>/`: sjednocené minulé termíny po akademických letech.
 - `knowledge/exams/_verification/`: audit shody mezi raw termíny a student docem.

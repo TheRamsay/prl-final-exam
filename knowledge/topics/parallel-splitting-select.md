@@ -4,6 +4,14 @@
 
 Zadání chce buď popsat paralelní rozdělení podle pivotu, nebo ukázat princip paralelního SELECTu na malém příkladu. Body jsou za správnou práci s částmi `L/E/G`, duplicitami pivotu a přepočtem `k`.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 14|Řazení, str. 14]] - definice parallel splitting na `L/E/G`.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 15|Řazení, str. 15]] - algoritmus přes broadcast pivotu, lokální split a prefixy pozic.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 16|Řazení, str. 16]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 17|str. 17]] - konkrétní příklad splitu.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 18|Řazení, str. 18]] - analýza času a ceny.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 19|Řazení, str. 19]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 20|str. 20]] - sekvenční a paralelní SELECT.
+
 ## Parallel splitting
 
 Zadaný pivot rozdělí posloupnost do tří částí:

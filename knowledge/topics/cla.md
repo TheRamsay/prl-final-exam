@@ -4,6 +4,12 @@
 
 Zadání typicky dá dvě dekadická čísla a chce ukázat paralelní sčítání přes Carry-look-ahead. Nejde jen o výsledek součtu; body jsou za `generate/propagate/stop`, prefixový výpočet přenosů a krátké vysvětlení hloubky `O(log n)`.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/pram-mng#Strana 17|PRAM, str. 17]] - Carry Look Ahead Parallel Binary Adder, cíl a pole `propagate/stop/generate`.
+- [[knowledge/sources/slides/pram-mng#Strana 18|PRAM, str. 18]] - prefixová funkce pro skládání stavů přenosu.
+- [[knowledge/sources/slides/pram-mng#Strana 7|PRAM, str. 7]] až [[knowledge/sources/slides/pram-mng#Strana 12|str. 12]] - obecný scan/prescan základ, o který se CLA opírá.
+
 ## Pojmy
 
 Pro bitovou pozici `i`:

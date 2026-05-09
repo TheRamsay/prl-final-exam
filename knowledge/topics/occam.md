@@ -4,6 +4,13 @@
 
 Zadání většinou chce napsat nekonečnou proceduru s kanály, vnitřním stavem a větvením podle vstupu. Typicky se opakuje buffer/fronta, výběr výstupního kanálu, střídání výstupů nebo výpočet průměru.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/modely#Strana 3|Modely, str. 3]] až [[knowledge/sources/slides/modely#Strana 6|str. 6]] - OCCAM, procesy a komunikační kanály.
+- [[knowledge/sources/slides/modely#Strana 7|Modely, str. 7]] až [[knowledge/sources/slides/modely#Strana 9|str. 9]] - `SEQ`, `PAR`, replikovaný `PAR`.
+- [[knowledge/sources/slides/modely#Strana 12|Modely, str. 12]] až [[knowledge/sources/slides/modely#Strana 14|str. 14]] - `ALT`, stráže a příklady.
+- [[knowledge/sources/slides/modely#Strana 15|Modely, str. 15]] - deklarace procedur.
+
 ## Co umět
 
 - Kanály a komunikaci přes `?` a `!`.

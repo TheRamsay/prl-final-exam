@@ -4,6 +4,14 @@
 
 Většina úloh chce ruční simulaci po zadaném počtu kroků nebo zapsání mezistavů algoritmu. Nestačí znát název algoritmu; je potřeba umět kreslit tabulku kroků.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/pram-mng#Strana 7|PRAM, str. 7]] až [[knowledge/sources/slides/pram-mng#Strana 12|str. 12]] - scan, prescan, reduce, up-sweep/down-sweep.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 28|Řazení, str. 28]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 41|str. 41]] - Enumeration Sort mřížkově i lineárně, včetně analýzy.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 42|Řazení, str. 42]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 49|str. 49]] - Minimum Extraction Sort a stromová topologie.
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 50|Řazení, str. 50]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 56|str. 56]] - Pipeline Merge Sort; diagramové stavy kontroluj v [[raw/2526_Razeni_vyhledavani_v7.pdf]].
+- [[knowledge/sources/slides/razeni-vyhledavani#Strana 57|Řazení, str. 57]] až [[knowledge/sources/slides/razeni-vyhledavani#Strana 61|str. 61]] - Odd-even transposition / merge sort.
+
 ## Vizualizace a drill stránky
 
 - [[knowledge/visuals/prescan-upsweep-downsweep|Prescan: up-sweep a down-sweep]]

@@ -4,6 +4,13 @@
 
 Téma se ptá na aktivní čekání a atomické instrukce pro kritickou sekci. Často stačí napsat pseudokód, vysvětlit atomickou operaci a říct, které vlastnosti algoritmus má nebo nemá.
 
+## Oficiální slidy
+
+- [[knowledge/sources/slides/sync-shared-memory#Strana 13|Synchronizace, str. 13]] až [[knowledge/sources/slides/sync-shared-memory#Strana 21|str. 21]] - postupné algoritmy pro kritickou sekci včetně Petersona.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 24|Synchronizace, str. 24]] až [[knowledge/sources/slides/sync-shared-memory#Strana 25|str. 25]] - test-and-set a swap pro aktivní čekání.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 27|Synchronizace, str. 27]] - bounded wait test-and-set.
+- [[knowledge/sources/slides/sync-shared-memory#Strana 28|Synchronizace, str. 28]] - ticket/fetch-and-add serializer.
+
 ## Test-and-set
 
 Atomická instrukce:
